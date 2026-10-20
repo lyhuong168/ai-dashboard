@@ -10,13 +10,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import streamlit as st  # noqa: E402
 
-from app import components, theme  # noqa: E402
+from app import components, keys, theme  # noqa: E402
 from app.data_loader import has_real_data, load_data  # noqa: E402
 from rag import config  # noqa: E402
 from tabs import ask, brief, financials, overview, partnerships, pricing, sources, stock  # noqa: E402
 
 st.set_page_config(page_title="AI Corporations Dashboard", page_icon="◈", layout="wide")
 theme.apply()
+keys.apply()  # this session's OpenAI key (visitor's own, team key, or none) before anything calls the API
 
 
 @st.cache_data(ttl=300)
@@ -67,8 +68,10 @@ components.hero(
      "RAG retrieves the evidence. Agents compute, verify and explain it.",
      "Cross-checked against the SEC's own structured data."],
     height=250)
-c_tick, c_mode = st.columns([5, 1], vertical_alignment="center")
+c_tick, c_ai, c_mode = st.columns([4, 1, 1], vertical_alignment="center")
 c_tick.markdown(components.ticker_html(ticker_rows(data)), unsafe_allow_html=True)
+with c_ai:
+    keys.control()
 c_mode.button("Switch to live data" if use_sample else "Switch to demo data", on_click=flip_mode,
               icon=":material/sync_alt:", width="stretch", disabled=use_sample and not real_ok,
               help="No real data yet. Run refresh.py --collect first." if use_sample and not real_ok else None)

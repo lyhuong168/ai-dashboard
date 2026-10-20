@@ -1,0 +1,46 @@
+# Rebuilds the search index, verifier results and brief whenever real data changes
+# (for example a source added from the dashboard), then commits them so the app picks them up.
+# Needs repo secrets (Settings -> Secrets and variables -> Actions): OPENAI_API_KEY, optional SEC_USER_AGENT.
+name: Reindex
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "!data/sample/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reindex
+  cancel-in-progress: false
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements-core.txt
+      - name: Refresh (validate, index, verify, brief)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          MAX_USD_PER_RUN: "1.00"
+        run: |
+          # Without a key the index would be rebuilt with the offline embedder and stop matching the app.
+          if [ -z "$OPENAI_API_KEY" ]; then echo "::error::Add OPENAI_API_KEY under Settings > Secrets and variables > Actions"; exit 1; fi
+          python refresh.py
+      - name: Commit the rebuilt index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vectorstore/real runs/real
+          git diff --cached --quiet && exit 0
+          git commit -m "Reindex after data change"
+          git pull --rebase
+          git push

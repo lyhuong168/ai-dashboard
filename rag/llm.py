@@ -6,6 +6,7 @@ check the OpenAI pricing page and override with PRICE_<MODEL>=in,out in .env.
 Without OPENAI_API_KEY the code falls back to an offline hashing embedder so the
 pipeline can still be built and tested for free.
 """
+import contextvars
 import hashlib
 import os
 import re
@@ -13,6 +14,21 @@ import re
 import numpy as np
 
 from rag import config
+
+# The key for the current dashboard session (set by app/keys.py at the top of every run). None = use
+# OPENAI_API_KEY from the environment; "" = no key at all. A context variable, so two people using the
+# app at the same moment never see each other's key.
+_SESSION_KEY = contextvars.ContextVar("openai_session_key", default=None)
+
+
+def use_key(key):
+    """Use `key` for every OpenAI call made in this context (None = the environment's key, "" = none)."""
+    _SESSION_KEY.set(key)
+
+
+def api_key():
+    key = _SESSION_KEY.get()
+    return os.getenv("OPENAI_API_KEY") if key is None else key
 
 # (input, output) USD per 1M tokens. Estimates, see module docstring.
 PRICES = {
@@ -99,7 +115,7 @@ class OpenAIEmbedder:
         from openai import OpenAI
 
         self.name = model or config.EMBED_MODEL
-        self.client = OpenAI()
+        self.client = OpenAI(api_key=api_key())
         self.tracker = tracker
 
     def embed(self, texts, batch=96):
@@ -118,7 +134,7 @@ class OpenAIChat:
     def __init__(self, tracker=TRACKER):
         from openai import OpenAI
 
-        self.client = OpenAI()
+        self.client = OpenAI(api_key=api_key())
         self.tracker = tracker
 
     def complete(self, messages, model=None, temperature=0.0, label="chat", json_mode=False):
@@ -158,7 +174,7 @@ class FakeChat:
 
 
 def have_key():
-    return bool(os.getenv("OPENAI_API_KEY"))
+    return bool(api_key())
 
 
 def get_embedder(offline=None):

@@ -97,7 +97,7 @@ def render(data, sample):
     brief = load_brief(sample)
     c1, c2 = st.columns([5, 1])
     if c2.button("Regenerate", key="brief_regen", disabled=not have_key(),
-                 help="Rebuild the synopsis from the latest evidence (about 3 cents). Needs OPENAI_API_KEY in .env." if have_key() else "Needs OPENAI_API_KEY in .env"):
+                 help="Rebuild the synopsis from the latest evidence (about 3 cents)." if have_key() else "Needs an OpenAI key: add one under AI access at the top."):
         with st.spinner("Checking every claim against its evidence..."):
             brief = build_brief(sample=sample)
         st.rerun()

@@ -87,6 +87,22 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 .stButton>button:hover,[data-testid="stBaseButton-secondary"]:hover{border-color:var(--acc);color:var(--text)}
 .stButton>button[kind="primary"],[data-testid="stBaseButton-primary"]{background:var(--acc);border:0;color:#fff;font-weight:600}
 [data-testid="stExpander"]{border:1px solid var(--border);border-radius:8px;background:var(--surface)}
+.stButton>button[kind="primary"]:hover,[data-testid="stBaseButton-primary"]:hover{background:#5E98F7;color:#fff}
+
+/* dialogs (Add a source) */
+div[role="dialog"]{background:var(--surface)!important;border:1px solid var(--border);border-radius:10px;box-shadow:0 18px 48px rgba(0,0,0,.45);
+  animation:rise .25s cubic-bezier(.2,.8,.2,1) both}
+/* fields inside a dialog: Streamlit draws them in the same color as the dialog, so give them a well and a border */
+div[role="dialog"] [data-baseweb="input"],div[role="dialog"] [data-baseweb="select"]>div,
+div[role="dialog"] [data-baseweb="textarea"],div[role="dialog"] [data-testid="stFileUploaderDropzone"]{
+  background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;transition:border-color .2s ease}
+div[role="dialog"] [data-baseweb="input"] *,div[role="dialog"] [data-baseweb="textarea"] *{background:transparent!important}
+div[role="dialog"] [data-baseweb="input"]:focus-within,div[role="dialog"] [data-baseweb="select"]>div:focus-within,
+div[role="dialog"] [data-baseweb="textarea"]:focus-within{border-color:var(--acc)!important}
+div[role="dialog"] [data-testid="stWidgetLabel"] p{color:#C3CAD4;font-size:13px;font-weight:500}
+div[role="dialog"] input::placeholder,div[role="dialog"] textarea::placeholder{color:#5F6978!important}
+.formsec{font:600 11px 'Inter',sans-serif;letter-spacing:1px;text-transform:uppercase;color:var(--acc);margin:18px 0 0;
+  padding-bottom:6px;border-bottom:1px solid var(--border)}
 [data-testid="stDataFrame"]{border-radius:8px;overflow:hidden;border:1px solid var(--border)}
 [data-testid="stChatInput"]{border-radius:8px;border:1px solid var(--border)}
 [data-testid="stChatInput"]:focus-within{border-color:var(--acc)}

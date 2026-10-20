@@ -5,13 +5,19 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
+from app import add_source
 from app.theme import GOOD, WARN, chart
 from rag import config
 
 
 def render(data, sample):
-    st.subheader("Sources, verification and freshness")
     src = data["sources"]
+    head, action = st.columns([5, 1], vertical_alignment="center")
+    head.subheader("Sources, verification and freshness")
+    if not sample:
+        with action:
+            add_source.button(set(src["url"]))
+        add_source.notice()
     run_file = config.ROOT / "runs" / ("sample" if sample else "real") / "latest.json"
     run = json.loads(run_file.read_text()) if run_file.exists() else None
 

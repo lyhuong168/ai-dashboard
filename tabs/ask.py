@@ -134,8 +134,8 @@ def render(data, sample):
         len(store.chunks), store.embedder_name, store.built_at,
         "GPT with retrieval + tools" if have_key() else "offline mode (no API key: extractive answers)"))
     if store.embedder_name != "hashing-offline" and not have_key():
-        st.info("The chat needs an OpenAI key to embed your question (the index was built with the same model). Copy `.env.example` to `.env`, "
-                "add `OPENAI_API_KEY`, and restart. Every other tab works without a key. Ask Reid for a live demo if you only need to see it.")
+        st.info("The chat needs an OpenAI key to embed your question (the index was built with the same model). Paste your own key under "
+                "**AI access** at the top of the page (it stays in this browser tab only), or unlock the team key. Every other tab works without a key.")
         return
     if store.embedder_name == "hashing-offline" and not sample:
         st.warning("This index uses the free offline embedder. Rebuild with an API key for real semantic search.")

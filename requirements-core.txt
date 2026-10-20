@@ -1,4 +1,3 @@
 # Reid only: RAG + agents. Install after requirements.txt (or just: pip install -r requirements-core.txt).
 -r requirements.txt
-pypdf
 pytest
