@@ -78,7 +78,10 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 [data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(5){animation-delay:.2s}
 [data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(n+6){animation-delay:.25s}
 [data-testid="stTabs"] [role="tabpanel"] [data-testid="stVerticalBlock"] [data-testid="stVerticalBlock"]>*{animation:none}  /* nested blocks move with their section */
-[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) :is(.stPlotlyChart,iframe){animation:fade .6s ease-out .12s both}
+/* changing a control (metric, view, range): Streamlit marks what it is recomputing data-stale. The old chart or table
+   fades down (not to blank, no movement) and the new one fades back in. Streamlit redraws charts from scratch, so no morph. */
+[data-testid="stElementContainer"]:has(.stPlotlyChart,[data-testid="stDataFrame"]){transition:opacity .4s ease-in-out}
+[data-testid="stElementContainer"][data-stale="true"]:has(.stPlotlyChart,[data-testid="stDataFrame"]){opacity:.2!important;transition-duration:.25s}
 
 /* metric cards */
 [data-testid="stMetric"]{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 16px;
