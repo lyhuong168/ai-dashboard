@@ -1,22 +1,14 @@
 {
-  "timestamp": "2026-10-18 01:02:38",
+  "timestamp": "2026-10-20 22:03:28",
   "mode": "real",
-  "collectors": {
-    "filings": "ok",
-    "prices": "ok",
-    "financials_from_releases": "ok",
-    "pricing_pages": "ok",
-    "announcements": "ok",
-    "market_news": "ok",
-    "outlook": "ok"
-  },
+  "collectors": "skipped",
   "validation": {
     "ok": true,
     "output": [
-      "  token_pricing.csv            10 rows",
       "  partnerships.csv             37 rows",
       "  events.csv                   7 rows",
       "  guidance.csv                 5 rows",
+      "  private_revenue.csv          5 rows",
       "",
       "OK: 0 error(s), 0 warning(s)"
     ]
@@ -27,7 +19,8 @@
     "token_pricing": 10,
     "partnerships": 37,
     "events": 7,
-    "guidance": 5
+    "guidance": 5,
+    "private_revenue": 5
   },
   "sources": [
     "A-001",
@@ -84,7 +77,8 @@
     "R-028",
     "R-029",
     "R-030",
-    "R-031"
+    "R-031",
+    "U-001"
   ],
   "sources_without_document": [
     "A-001",
@@ -93,23 +87,23 @@
   ],
   "embedder": "text-embedding-3-small",
   "index": {
-    "chunks": 3447,
-    "embedded": 60,
-    "reused": 3387,
-    "added": 60,
-    "removed": 4
+    "chunks": 3450,
+    "embedded": 3,
+    "reused": 3447,
+    "added": 3,
+    "removed": 0
   },
   "verification": {
-    "confirmed": 91,
+    "confirmed": 96,
     "not_found": 0,
     "no_document": 0,
-    "checked": 91,
-    "tier2_rows": 1
+    "checked": 96,
+    "tier2_rows": 3
   },
   "problems": [],
   "brief": {
     "llm": true,
-    "bullets": 17,
+    "bullets": 18,
     "dropped": 0
   },
   "crosscheck": {
@@ -119,34 +113,26 @@
   },
   "crosscheck_problems": [],
   "cost": {
-    "total_usd": 0.358312,
-    "cap_usd": 2.0,
+    "total_usd": 0.030705,
+    "cap_usd": 1.0,
     "by_model": {
-      "gpt-4o-mini": {
-        "calls": 12,
-        "in_tokens": 90984,
-        "out_tokens": 2756,
-        "usd": 0.015301199999999997
-      },
-      "gpt-4o": {
-        "calls": 32,
-        "in_tokens": 105719,
-        "out_tokens": 7824,
-        "usd": 0.3425375
-      },
       "text-embedding-3-small": {
         "calls": 1,
-        "in_tokens": 23664,
+        "in_tokens": 476,
         "out_tokens": 0,
-        "usd": 0.00047328
+        "usd": 9.52e-06
+      },
+      "gpt-4o": {
+        "calls": 1,
+        "in_tokens": 8862,
+        "out_tokens": 854,
+        "usd": 0.030695
       }
     }
   },
   "changes": [
-    "-4 partnerships rows",
-    "+7 events rows",
-    "+5 guidance rows",
-    "+10 sources: R-022, R-023, R-024, R-025, R-026, R-027, R-028, R-029...",
-    "index: +60 / -4 chunks"
+    "+5 private_revenue rows",
+    "+1 sources: U-001",
+    "index: +3 / -0 chunks"
   ]
 }
