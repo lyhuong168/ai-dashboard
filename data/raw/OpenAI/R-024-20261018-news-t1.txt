@@ -1,0 +1,37 @@
+Headlines about OpenAI, captured 2026-10-18 (official/own-site posts).
+[1] 2026-10-16 | OpenAI | How Itaú is building generative AI for its entire customer base
+    How Itaú is building generative AI for its entire customer base OpenAI
+    https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5
+[2] 2026-10-16 | OpenAI | Stack Overflow for Agents triples signups with ChatGPT plugin
+    Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI
+    https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5
+[3] 2026-10-16 | OpenAI News | Benefit Street Partners answers questions faster with Codex
+    Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
+    https://openai.com/index/benefit-street-partners
+[4] 2026-10-15 | OpenAI | Bringing GPT-Rosalind to academic research labs
+    Bringing GPT-Rosalind to academic research labs OpenAI
+    https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5
+[5] 2026-10-15 | OpenAI | Introducing GPT-6 Sol and Luna
+    Introducing GPT-6 Sol and Luna OpenAI
+    https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5
+[6] 2026-10-15 | OpenAI News | Teaching students to think and learn through questions
+    Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+    https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+[7] 2026-10-15 | OpenAI News | Sullivan & Cromwell brings legal expertise into agreement review
+    In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
+    https://openai.com/index/sullivan-cromwell
+[8] 2026-10-14 | OpenAI | How Block is building AI-powered security with OpenAI technology
+    How Block is building AI-powered security with OpenAI technology OpenAI
+    https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heWFrdDF4bFBWT2dkOEItbVAyRncyUVZEMmJpQjRRaUdieERpam80UXF4X2otS3hoOS10TnpTSEpraVd6eWFGcDl4RkpWTUpNZ3N0ZG51Ulk5UUgwcGotQQ?oc=5
+[9] 2026-10-14 | OpenAI | SentinelOne cuts malware analysis from weeks to hours
+    SentinelOne cuts malware analysis from weeks to hours OpenAI
+    https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5
+[10] 2026-10-14 | OpenAI | Amp puts AI agents to work beyond code with OpenAI models
+    Amp puts AI agents to work beyond code with OpenAI models OpenAI
+    https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5
+[11] 2026-10-14 | OpenAI | How Third Moment Research runs 10,000 agents for 36+ hours
+    How Third Moment Research runs 10,000 agents for 36+ hours OpenAI
+    https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5
+[12] 2026-10-14 | OpenAI | The EU’s next chapter in AI is agentic
+    The EU’s next chapter in AI is agentic OpenAI
+    https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5

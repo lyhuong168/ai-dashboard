@@ -1,0 +1,4 @@
+company,model,input_usd_per_1m,output_usd_per_1m,cached_input_usd_per_1m,context_window,source_id,captured_date
+OpenAI,sample-model-a,1.00,4.00,0.25,128000,SAMPLE-003,2025-01-02
+Anthropic,sample-model-b,2.00,8.00,0.50,200000,SAMPLE-004,2025-01-02
+Google,sample-model-c,0.50,2.00,,1000000,SAMPLE-007,2025-01-02

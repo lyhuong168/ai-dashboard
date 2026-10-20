@@ -1,0 +1,2 @@
+company,metric,target_period,value,tolerance_pct,unit,source_id,issued_date
+Nvidia,revenue,FY2026Q3,2222.2,2,USD_millions,SAMPLE-001,2025-01-02

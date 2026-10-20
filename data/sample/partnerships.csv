@@ -1,0 +1,4 @@
+from_company,to_company,relationship_type,description,amount_usd,date,source_id,confidence
+Nvidia,OpenAI,supply,SAMPLE edge: chips (not real),,2025-01-01,SAMPLE-001,low
+Google,Anthropic,investment,SAMPLE edge: investment (not real),1000000,2025-01-01,SAMPLE-005,low
+OpenAI,Google,competition,SAMPLE edge: rivalry (not real),,2025-01-01,SAMPLE-005,low

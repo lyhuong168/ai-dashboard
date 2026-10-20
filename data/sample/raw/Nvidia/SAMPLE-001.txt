@@ -1,0 +1,9 @@
+SAMPLE DOCUMENT. Synthetic text for testing the pipeline. Not a real filing and not real numbers.
+
+Nvidia (sample) quarterly report. Revenue was $1,111.1 million for the first quarter of fiscal 2026 and $2,222.2 million for the second quarter of fiscal 2026. Management attributed the growth to strong demand for data center accelerators.
+
+Customer concentration. Two large cloud customers accounted for a significant portion of sample revenue. The company said supply of advanced packaging remained the main constraint on shipments.
+
+Outlook. The sample company expects sequential growth in data center revenue next quarter, subject to supply availability.
+
+SAMPLE schedule. The sample company will hold its earnings call on February 26.

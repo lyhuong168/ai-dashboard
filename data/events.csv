@@ -1,0 +1,8 @@
+company,event_type,event_date,description,source_id,status
+Apple,earnings,2026-11-02,Apple fiscal Q4 2026 results and conference call (2:00pm PT),R-021,reported
+Google,earnings,2026-10-28,Alphabet Q3 2026 results and conference call (1:30pm PT),R-020,confirmed
+Google,price_change,2026-12-01,gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens,R-001,confirmed
+Google,price_change,2026-12-01,gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens,R-001,confirmed
+Google,price_change,2027-01-01,gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens,R-001,confirmed
+Google,price_change,2027-01-01,gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens,R-001,confirmed
+OpenAI,promo_end,2026-11-21,"GPT-5.6 Sol promotional pricing is available at least through November 21, 2026",R-002,confirmed

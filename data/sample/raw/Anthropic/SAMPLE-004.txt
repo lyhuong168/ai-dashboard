@@ -1,0 +1,5 @@
+SAMPLE DOCUMENT. Synthetic pricing page for testing. Not real prices.
+
+Anthropic (sample) API pricing. The model sample-model-b costs $2.00 per 1 million input tokens and $8.00 per 1 million output tokens. Cached input tokens cost $0.50 per 1 million tokens. The context window is 200,000 tokens.
+
+Enterprise customers can request committed-use pricing.

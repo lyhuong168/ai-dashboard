@@ -1,0 +1,37 @@
+Headlines about Google, captured 2026-10-18 (official/own-site posts).
+[1] 2026-10-16 | Google blog | We’re sharing 3 tips to study smarter with Gemini Notebook.
+    Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.
+    https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/
+[2] 2026-10-15 | Google blog | Bringing the magic: Google breaks open a bottleneck in quantum computing
+    In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
+    https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/
+[3] 2026-10-15 | Google blog | Check if a text message is a scam using Circle to Search.
+    Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.
+    https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/
+[4] 2026-10-15 | Google blog | How we're helping the world prepare for natural disasters
+    Our north star is simple yet ambitious: No one should be surprised by a natural disaster.
+    https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/
+[5] 2026-10-15 | Google blog | Android earthquake alerts now available in more than 200 regions
+    Android earthquake alerts are now available in more than 200 countries and regions.
+    https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/
+[6] 2026-10-15 | Google blog | 400 publications are now partnering with us on our News AI pilot program.
+    People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…
+    https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/
+[7] 2026-10-15 | Google blog | More ways to connect with the web from Search
+    We’re updating AI Mode and AI Overviews to include clearer links, context about sources, and more.
+    https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/
+[8] 2026-10-15 | Google blog | Making your Pixel devices last longer through design, repair, and reuse
+    On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.
+    https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/
+[9] 2026-10-15 | Google blog | An intelligent new shopping cart
+    Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.
+    https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/
+[10] 2026-10-15 | Google blog | TIME has named Google SynthID one of the Best Inventions of 2026.
+    TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.
+    https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/
+[11] 2026-10-15 | Google blog | Data-backed secrets to smarter holiday shopping
+    Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.
+    https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/
+[12] 2026-10-14 | Google blog | Research@ 2026: Novel capabilities and intelligence
+    We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.
+    https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/

@@ -1,0 +1,7 @@
+company,period,period_end,metric,value,unit,source_id,as_of
+Nvidia,FY2026Q1,2025-04-27,revenue,1111.1,USD_millions,SAMPLE-001,2025-01-02
+Nvidia,FY2026Q2,2025-07-27,revenue,2222.2,USD_millions,SAMPLE-001,2025-01-02
+Google,FY2025Q1,2025-03-31,revenue,3333.3,USD_millions,SAMPLE-002,2025-01-02
+Google,FY2025Q2,2025-06-30,revenue,4444.4,USD_millions,SAMPLE-002,2025-01-02
+Google,FY2025Q1,2025-03-31,net_income,555.5,USD_millions,SAMPLE-002,2025-01-02
+Google,FY2025Q2,2025-06-30,net_income,666.6,USD_millions,SAMPLE-002,2025-01-02

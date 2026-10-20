@@ -1,0 +1,523 @@
+Source: https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/
+Retrieved: 2026-10-18
+Publisher: blog.google
+
+
+
+ Skip to main content
+
+ Innovation & AI
+
+ Products & platforms
+
+ Company news
+
+ Feed
+
+ Newsletter
+
+ Back
+
+Innovation & AI
+
+ See all in Innovation & AI
+
+ Models & Research
+
+ Google DeepMind
+
+ Google Research
+
+ Google Labs
+
+ Gemini models
+
+ Quantum computing
+
+ See all
+
+ Products
+
+ Developer tools
+
+ Gemini app
+
+ Gemini Notebook
+
+ See all
+
+ Infrastructure & cloud
+
+ Global network
+
+ Google Cloud
+
+ See all
+
+ Technology
+
+ Safety & Security
+
+ Health
+
+ See all
+
+Learn more:
+
+ Google DeepMind blog
+
+ Google Research blog
+
+ Google Developers blog
+
+ Google Cloud blog
+
+ Back
+
+Products & platforms
+
+ See all in Products & platforms
+
+ Products
+
+ Search
+
+ Maps
+
+ Chrome
+
+ Google Health
+
+ Google Workspace
+
+ Learning & Education
+
+ Shopping
+
+ See all
+
+ Platforms
+
+ Android
+
+ Google Play
+
+ Wear OS
+
+ See all
+
+ Devices
+
+ Pixel
+
+ Google Nest
+
+ Fitbit
+
+ Chromebook
+
+ Googlebook
+
+ See all
+
+Learn more:
+
+ Google Ads & Commerce blog
+
+ Waze blog
+
+ Back
+
+Company news
+
+ See all in Company news
+
+ Outreach & initiatives
+
+ Creating opportunity
+
+ Safety & security
+
+ Google.org
+
+ Public policy
+
+ Sustainability
+
+ Health
+
+ See all
+
+ Leadership
+
+ Sundar Pichai, CEO
+
+ More authors
+
+ See all
+
+ Inside Google
+
+ Around the globe
+
+ Life at Google
+
+ See all
+
+Learn more:
+
+ Google Security blog
+
+ Innovation & AI
+
+Innovation & AI
+
+ See all in Innovation & AI
+
+Models & Research
+
+ Google DeepMind 
+
+ Google Research 
+
+ Google Labs 
+
+ Gemini models 
+
+ Quantum computing 
+
+ See all 
+
+Products
+
+ Developer tools 
+
+ Gemini app 
+
+ Gemini Notebook 
+
+ See all 
+
+Infrastructure & cloud
+
+ Global network 
+
+ Google Cloud 
+
+ See all 
+
+Technology
+
+ Safety & Security 
+
+ Health 
+
+ See all 
+
+ Learn more:
+
+ Google DeepMind blog
+
+ Google Research blog
+
+ Google Developers blog
+
+ Google Cloud blog
+
+ Products & platforms
+
+Products & platforms
+
+ See all in Products & platforms
+
+Products
+
+ Search 
+
+ Maps 
+
+ Chrome 
+
+ Google Health 
+
+ Google Workspace 
+
+ Learning & Education 
+
+ Shopping 
+
+ See all 
+
+Platforms
+
+ Android 
+
+ Google Play 
+
+ Wear OS 
+
+ See all 
+
+Devices
+
+ Pixel 
+
+ Google Nest 
+
+ Fitbit 
+
+ Chromebook 
+
+ Googlebook 
+
+ See all 
+
+ Learn more:
+
+ Google Ads & Commerce blog
+
+ Waze blog
+
+ Company news
+
+Company news
+
+ See all in Company news
+
+Outreach & initiatives
+
+ Creating opportunity 
+
+ Safety & security 
+
+ Google.org 
+
+ Public policy 
+
+ Sustainability 
+
+ Health 
+
+ See all 
+
+Leadership
+
+ Sundar Pichai, CEO 
+
+ More authors 
+
+ See all 
+
+Inside Google
+
+ Around the globe 
+
+ Life at Google 
+
+ See all 
+
+ Learn more:
+
+ Google Security blog
+
+ Feed
+
+ []
+
+ Preferences
+
+ Global (English)
+
+ Africa (English)
+
+ Australia (English)
+
+ Brasil (Português)
+
+ Canada (English)
+
+ Canada (Français)
+
+ Česko (Čeština)
+
+ Deutschland (Deutsch)
+
+ España (Español)
+
+ France (Français)
+
+ Greece (Ελληνικά)
+
+ India (English)
+
+ Indonesia (Bahasa Indonesia)
+
+ Ireland (English)
+
+ Italia (Italiano)
+
+ 日本 (日本語)
+
+ 대한민국 (한국어)
+
+ Latinoamérica (Español)
+
+ Malaysia (English)
+
+ الشرق الأوسط وشمال أفريقيا (اللغة العربية)
+
+ MENA (English)
+
+ Nederlands (Nederland)
+
+ New Zealand (English)
+
+ Polska (Polski)
+
+ Portugal (Português)
+
+ România (Română)
+
+ Sverige (Svenska)
+
+ ประเทศไทย (ไทย)
+
+ Türkiye (Türkçe)
+
+ 台灣 (中文)
+
+ Links
+
+Images
+
+RSS feed
+
+ Newsletter
+
+ Breadcrumb
+
+ Home
+
+ Company News
+
+ Inside Google
+
+ Company Announcements
+
+Joint statement from Google and Apple
+
+Jan 12, 2026
+
+Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology. These models will help power future Apple Intelligence features, including a more personalized Siri coming this year.
+
+After careful evaluation, Apple determined that Google's Al technology provides the most capable foundation for Apple Foundation Models and is excited about the innovative new experiences it will unlock for Apple users. Apple Intelligence will continue to run on Apple devices and Private Cloud Compute, while maintaining Apple's industry-leading privacy standards.
+
+ Posted in:
+
+ Gemini models
+
+ Related stories
+
+ Safety & Security
+
+ Developing Gemini 4 Argon responsibly and safely
+
+ By
+
+ Anca Dragan
+
+ & 
+ Raluca Ada Popa
+
+ Developer tools
+
+ Gemini 4 Argon is now available for developers.
+
+ Gemini models
+
+ Gemini 4 Argon: Built to solve your hardest problems
+
+ By
+
+ Koray Kavukcuoglu
+
+ AI
+
+ The latest AI news we announced in September 2026
+
+ By
+
+ Blog Team
+
+ Privacy
+
+ Terms
+
+ Help
+
+ More of Google
+
+ Google Products
+
+ About the Blog
+
+ Global (English)
+
+ Africa (English)
+
+ Australia (English)
+
+ Brasil (Português)
+
+ Canada (English)
+
+ Canada (Français)
+
+ Česko (Čeština)
+
+ Deutschland (Deutsch)
+
+ España (Español)
+
+ France (Français)
+
+ Greece (Ελληνικά)
+
+ India (English)
+
+ Indonesia (Bahasa Indonesia)
+
+ Ireland (English)
+
+ Italia (Italiano)
+
+ 日本 (日本語)
+
+ 대한민국 (한국어)
+
+ Latinoamérica (Español)
+
+ Malaysia (English)
+
+ الشرق الأوسط وشمال أفريقيا (اللغة العربية)
+
+ MENA (English)
+
+ Nederlands (Nederland)
+
+ New Zealand (English)
+
+ Polska (Polski)
+
+ Portugal (Português)
+
+ România (Română)
+
+ Sverige (Svenska)
+
+ ประเทศไทย (ไทย)
+
+ Türkiye (Türkçe)
+
+ 台灣 (中文)
+

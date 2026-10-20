@@ -1,0 +1,37 @@
+Headlines about Anthropic, captured 2026-10-18 (press, tier 2).
+[1] 2026-10-17 | TechCrunch | Anthropic says its workforce has become less junior and is spending more time in meetings
+    Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch
+    https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5
+[2] 2026-10-17 | TechCrunch | Replit makes OpenAI its default over Anthropic, CEO says
+    Replit makes OpenAI its default over Anthropic, CEO says TechCrunch
+    https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5
+[3] 2026-10-17 | Quantum Zeitgeist | Anthropic's Claude Improves Quantum Optimization Designs
+    Anthropic's Claude Improves Quantum Optimization Designs Quantum Zeitgeist
+    https://news.google.com/rss/articles/CBMigwFBVV95cUxNQndneXNOQV9MclRCTzNYLU8wang0VVJ6S25yNk5GN0t0RThPRGdrUmQ3NHRnZFNRaVotR09WSTdldUNsVEhDdnNYVFY1UkdacXVHRF9hUlpmR0V3NFliandVME1VSXdKNGxxR0FjOFhMeWpBYzlUdWZZREJPT1FqdlJYQQ?oc=5
+[4] 2026-10-17 | The Quantum Insider | Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations
+    Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations The Quantum Insider
+    https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYURjUkQ4Wk91LUpUaXNlYmdUS0Q3UmNFTUFvSEN5c1pYRUx2NXgwTmhUQS16MV9oLW9ZNmJJR2laeGwxRFlxMmtxZUVkaGR3dHlocUlYMFpKYVkzbzNHYUJ2WFUtcnNQVDhuSHQxTTdkUi1vYXR3SVZQOXJkVmhXeVB4Z1BlSDZVRE9XaWZ6YWt0TWFiQmlieklTMnZDdGJLbDdXTzNKc3VnSEhwRW5IaUxFeUdtQ2R1NS0wSVdHNHA2bmNTWUgxTmF6Y1lmc0t4a0gxcg?oc=5
+[5] 2026-10-17 | The Times of India | Some Accenture employees spent $1,000 a month on Anthropic’s Claude AI, company will now centrally fund $
+    Some Accenture employees spent $1,000 a month on Anthropic’s Claude AI, company will now centrally fund $ The Times of India
+    https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXpERy1xQkZsdG5FbVJaVENMLVMyZXNUbWNqb2ZHb2hkUkRBdWNwclQ0LTF0RkE0V2ttUndxVXFuZVBsNk81UnlmX2tETWdaX1FaOFZRSzVuRW1MZ01WQVpqeUNLc25WOXp2bWQyV0RyOHJtbXk0UHoxeFVNaG5SYS1TaVItb0F2MklMS0hKREpvd1doUm5QS09xblZBUG95QkJCY3dOWXdTekZncVVlUjFxS3FUaHM0MGUxQWdrZ3FhVDZmYjg1bHl4Y3NuYnNkZU5hZ0JTbzh1VS1LR0tQa0I0Z2J5V1B2ckpROEtGeklYT3A0MFdQRy1hNmNrUGhYcE1UU0gzZ1NKTjBPSm5fQW5hdlZ2SVVxVzlWaEtaWTNsbmc0TFFTa0VKYll5Q2xPMGlv0gG4AkFVX3lxTE9kUzc5YnVxUEZQcDBWRlZxS0RyNTk0b1RRdFZPZm1NWV9tMjk4Wkg2bUFXeW1uQ18xcm5vaEtVZU9jNW5Ub25vN3l3OTJlbGNnZm5RUnFNWURiVThJa0NodG9DbU55bXZTNkNfTHFNaEZMUmFlY1hpWXp0MXRUa0h2ZW5HUTQxUm15NXd2YTk1SmExT3Bhb2ZkQWtfRlBCeWMtbl9lSDZ0RjNURWx2ZnNzN0NCYVVYdTM1MWVQUWo0R0otWWdPc1NfcENqWTlYbHJPX05nVGwweExrRno3MXhCNk50WVdJbzg5ejZJZ0NaSWdhV29rMW05UWlncXpHS250bFZpaHZuSzdJLS1ZQ0JjanE5Y2ZYcUd3VE5OWWdPTVBCUU1rQkFHbmJlN2dpd3h0LXRiUDM4eg?oc=5
+[6] 2026-10-17 | Cyber Press | Anthropic’s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes
+    Anthropic’s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes Cyber Press
+    https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVdRaWZKV2RiQWRJVzFkblZWNDhqYThEdmNTS1M4VGNyUlBXVDFGODZkdVlhQXBCem5wQUpobTRsQ1JEV0docENnbkdmRXgxc1VuZEJpNDVaZ0hwWFpoLV9jZmpReG5SanVuUW1yZEkzdHRreHfSAXZBVV95cUxNcklXUWlmSldkYkFkSVcxZG5WVjQ4amE4RHZjU0tTOFRjclJQV1QxRjg2ZHVZYUFwQnpucEFKaG00bENSRFdHaHBDZ25HZkV4MXNVbmRCaTQ1WmdIcFhaaC1fY2ZqUXhuUmp1blFtcmRJM3R0a3h3?oc=5
+[7] 2026-10-17 | CoinDesk | ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
+    ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery CoinDesk
+    https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5
+[8] 2026-10-17 | Law Commentary | Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models
+    Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models Law Commentary
+    https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUpETGxDdXo5QzRMMEdKUko5cWxsQzJSeDhRUUVZYV94Q2RKc1FjV2JaT1hmTUxBanF2WGN5bGFObkdXVTExVV80WFVpY2NfenEzOWFOUnFGbDRkbHBPcjRvcmJkbk5TYVRTV1U5NXNZajRlYVE5TTRKak1zYXNQNjlIUzNmVEw3?oc=5
+[9] 2026-10-17 | Stocktwits | Anthropic Strikes Deal With California To Roll Out Claude Across State Agencies
+    Anthropic Strikes Deal With California To Roll Out Claude Across State Agencies Stocktwits
+    https://news.google.com/rss/articles/CBMi2wFBVV95cUxONmduMjJFd0hOV1hiQnFubUQxZXRsS0tkNTB6X0FRSTVOeVZZZHRoeTk2azM1eU5BZTI5NFBwUEl3TzYxYUZMVXhKbC10THFId2VXQldMcFJjM3VaeEExRzdiWmhXdjNsOUlRRmR5aE54U0Z6cjJmWE1QLVJqSnVIM3dTdEF0RExmOTNIdzBmWlFCWTRhS1p4bkUzUjcyUkdTRXlybXFkajFIdVhZY3dEeWhTT3lkNkJsbzFpQ3lxdjhnd1M0WjJ4QzhyN1lCSnJhbmVWaFJnNHIySVE?oc=5
+[10] 2026-10-16 | Politico | Anthropic quietly pitches its own AI safety bill to lawmakers
+    Anthropic quietly pitches its own AI safety bill to lawmakers Politico
+    https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5
+[11] 2026-10-16 | TechCrunch | Replit is no longer working with Anthropic, CEO says
+    Replit is no longer working with Anthropic, CEO says TechCrunch
+    https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5
+[12] 2026-10-16 | Interesting Engineering | Claude solves quantum memory bottleneck with 17x leaner circuit
+    Claude solves quantum memory bottleneck with 17x leaner circuit Interesting Engineering
+    https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVhKaVRPckVaSUJydDEwYU1hWTFDTEMzT2dDbVdjaWlkRmo1aVRyeGxvZktwYU1KQU1nTVcwTHNoWDVfR1h4ZnBkelBJZ3ZrNGRLRFl0SHI4RWZPX2x1QXZpeXV0NTYybjFPS2VGUEhMTmlYaW5jUjVlQmxHbGc4cW9n?oc=5

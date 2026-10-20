@@ -1,0 +1,149 @@
+Source: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+Retrieved: 2026-10-18
+Publisher: aboutamazon.com
+
+
+
+News
+Company news
+
+Amazon and Anthropic expand strategic collaboration
+
+Share
+
+Written by Amazon Staff
+
+6 min read
+
+Anthropic to secure up to 5 gigawatts (GW) of current and future generations of Amazon’s Trainium chips to train and power their advanced AI models.
+
+Anthropic’s Claude Platform available on AWS, providing their full AI developer experience in one place.
+
+Amazon to invest $5 billion in Anthropic today and up to an additional $20 billion in the future.
+
+Since 2023, Amazon and Anthropic have worked together to accelerate generative AI adoption across industries, making it easier for customers to build, deploy, and scale AI applications that solve real-world problems. Now, over 100,000 customers run Anthropic Claude models on AWS, making Claude one of the most popular model families on Amazon Bedrock. The two companies are also pushing the boundaries of what is possible with large-scale infrastructure, collaborating on Project Rainier—one of the largest AI compute clusters in the world—and together are opening new horizons with what's possible in AI research and development.
+
+Expanding on this success, today Amazon and Anthropic are deepening their collaboration with a commitment from Anthropic to spend more than $100 billion over the next ten years on AWS technologies. This encompasses current and future generations of Trainium (Amazon’s custom silicon) and tens of millions of Graviton cores (Amazon’s widely-adopted CPU chip) to provide superior price performance. Anthropic will secure up to 5 gigawatts (GW) of capacity to train and power their advanced AI models, including significant Trainium3 capacity expected to come online this year. The collaboration also includes a meaningful expansion of international inference in Asia and Europe to better serve Claude’s growing international customer base.
+
+Overall, the commitment includes Trainium2, Trainium3, Trainium4, and the ability to purchase future generations of Trainium as they become available. Anthropic is already using AWS Trainium and Graviton to deliver scalable performance and cost efficiency across a broad range of generative AI workloads, allowing Anthropic to accelerate its growth with the scale, cost-efficiency, and security of AWS. Both Trainium and Graviton are used by more than 100,000 customers each, and Amazon Bedrock (Amazon’s high-performance inference service with a leading selection of frontier models) runs most of its inference on Trainium today.
+
+Additionally, AWS customers will be able to access the full Anthropic-native Claude console from within AWS. Claude Platform on AWS lets customers access Anthropic's Claude Platform through their existing AWS account, with no additional credentials, contracts or billing relationships to manage. Customers can use the same AWS access controls and monitoring they already have in place, making it easier to directly access Anthropic's native Claude experience. Whether customers choose Claude Platform on AWS or Claude on Amazon Bedrock, AWS and Anthropic are partnering to provide customers the path to Claude that best meets their needs.
+
+Separately, Amazon will invest $5 billion in Anthropic today and up to an additional $20 billion in the future tied to certain commercial milestones. This is in addition to the $8 billion Amazon previously invested in Anthropic.
+
+“Our custom AI silicon offers high performance at significantly lower cost for customers, which is why it’s in such hot demand," said Andy Jassy, CEO of Amazon. "Anthropic's commitment to run its large language models on AWS Trainium for the next decade reflects the progress we've made together on custom silicon, as we continue delivering the technology and infrastructure our customers need to build with generative AI.”
+
+"Our users tell us Claude is increasingly essential to how they work, and we need to build the infrastructure to keep pace with rapidly growing demand,” said Dario Amodei, CEO and co-founder of Anthropic. "Our collaboration with Amazon will allow us to continue advancing AI research while delivering Claude to our customers, including the more than 100,000 building on AWS."
+
+Amazon and Anthropic continue to deepen their relationship, driven by a shared commitment to rapid innovation, responsible AI development, and delivering results for customers, which already includes:
+
+Custom silicon collaboration. Anthropic uses AWS Trainium chips to build, train, and deploy its world-class AI models. Anthropic works closely with Annapurna Labs on developing and optimizing future Trainium chips, providing direct feedback from Claude training workloads to shape next-generation chip design for frontier AI models and benefitting other AWS customers. This has led to a strong engineering relationship that is helping Anthropic accelerate the development of their models with both engineering teams communicating on an almost daily basis on everything from low-level optimization work to high-level architectural decisions for next-generation chips.
+Project Rainier. AWS collaborated with Anthropic to launch Project Rainier, one of the world's largest AI compute clusters with nearly half a million Trainium2 chips. When it launched, Project Rainier was larger than any AI compute cluster in the world and Anthropic is now actively using it to train and deploy Claude models for customers around the world for their AI-powered applications. Project Rainier is also being used to build and deploy future versions of Claude, and the more compute dedicated to training this frontier model, the smarter and more accurate it becomes. Project Rainier is now a template for deploying at scale the kind of raw computational power that will allow AI to tackle the hardest human challenges and enable breakthroughs across everything from medicine to climate science.
+Empowering builders worldwide. AWS is the best place to run Anthropic's world-class family of Claude models, including Opus, Sonnet, and Haiku, and over 100,000 organizations of all sizes are running them on Amazon Bedrock to do things that weren't previously possible. For example, Lyft incorporated Claude, via Amazon Bedrock, to power its customer care AI assistant, delivering fast responses to the most common support issues, and directing customers to a human specialist when more hands-on assistance is required, reducing average customer service resolution time by 87% and resolving thousands of customer requests daily. Pfizer is using Amazon Bedrock with Claude to help scientists search through the approximately 20,000 documents generated per drug development project using voice commands and a chatbot, saving scientists 16,000 annual search hours, while reducing infrastructure costs by 55%. Claude also powers experiences across a range of additional AWS technologies, including Amazon Connect, Kiro, and Amazon Quick, making it easy for developers to experiment, customize, and deploy AI on AWS.
+Primary training and cloud provider. Anthropic continues to choose AWS as its primary training and cloud provider for mission-critical workloads. Amazon developers and engineers also have access to build with Claude models to improve customer experiences across Amazon's businesses.
+
+Learn more about Anthropic on AWS.
+
+Learn more about the Claude Platform on AWS.
+
+Forward-Looking Statements
+This communication contains forward-looking statements that are inherently uncertain and difficult to predict, including statements regarding planned investments, anticipated business activities, the effect of conditions, and expected benefits of the expanded collaboration between Amazon and Anthropic, such as expected developments, performance, scaling, capabilities, customization, offerings, or impacts as a result of the collaboration; the reliability, safety, security, applications, utilization, or effectiveness of artificial intelligence technologies; accessibility of new features, models, and tools; and expected compute capacities, capabilities, performance characteristics, and delivery timing of Trainium chips. We use words such as will, to, believes, expects, intends, anticipates, plans, future, potential, continue, look forward, opportunity, keep, designed and similar expressions, as well as words referring to future outcomes such as train, accelerate, achieve, commit, deliver, power, bring, collaborate, develop, become, build, enable, deploy, provide, invest, use, meet, expand, run, support, lower, improve, offer, next generation, and variations of such words, to identify forward-looking statements. Actual results and outcomes could differ materially for a variety of reasons, including, among others, fluctuations in foreign exchange rates and energy prices, changes in global economic conditions, tariff and trade policies, resource and supply volatility, including for memory chips, and customer demand and spending, inflation, interest rates, regional labor market constraints, world events, the rate of growth of cloud services and new and emerging technologies, the amount that Amazon invests in new business opportunities and the timing of those investments, the mix of products and services sold to customers, competition, management of growth, international growth and expansion, the outcomes of claims, litigation, government investigations, and other proceedings, data center optimization, variability in demand, the degree to which we enter into, maintain, and develop commercial agreements, and proposed and completed acquisitions and strategic transactions. Other risks and uncertainties include, among others, risks related to new products, services, and technologies, security incidents, system interruptions, government regulation and taxation, and fraud. In addition, global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give rise to or amplify many of these risks. More information about factors that potentially could affect Amazon’s future business, product development, and financial results is included in Amazon’s filings with the Securities and Exchange Commission, including its most recent Annual Report on Form 10-K and subsequent filings.
+
+Trending news and stories
+Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse
+Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in
+Amazon announces an all-new family of tablets designed just for kids
+How AWS is helping companies build physical AI machines that think
+
+ Related Tags 
+
+Company news
+Artificial Intelligence 
+Amazon Custom Chips
+AWS
+Innovation
+
+Share
+
+More Amazon News
+Previous slide
+1 / 1Next slide
+
+Amazon will share its Q3 2026 earnings on October 29
+
+Company news
+
+The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments
+
+Company news
+
+Get a behind-the-scenes look at Amazon's innovations with the 'Learn and Be Curious' podcast
+
+Company news
+
+Cybersecurity expert Kevin Mandia joins Amazon's Board of Directors
+
+Company news
+
+Amazon and Wiwynn announce expansion of advanced manufacturing facility in Texas, creating nearly 1,000 jobs and boosting the US supply chain
+
+Company news
+
+AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB
+
+Company news
+
+Amazon increases planned investment in Louisiana to $18 billion, creating hundreds of jobs and strengthening local infrastructure
+
+Company news
+
+Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers
+
+Company news
+
+Scroll to top button
+
+Amazon NewsPress Center
+Amazon.com
+Investor Resources 
+
+Country & Language:EN
+Careers 
+Site MapMore from Amazon
+
+Amazon.comConditions of UseAmazon Privacy Policy© 1996-2026 Amazon.com, Inc. or its affiliates
+
+News
+
+Stores and Shopping
+AWS
+Devices
+Entertainment
+
+Artificial Intelligence
+Workplace
+Sustainability
+Community
+
+International
+Featured TopicsAmazon LeoOur Data Center Approach
+
+About Us
+
+What We Do
+Working at Amazon
+Leadership Principles
+Shareholder Letters
+
+Reports
+Featured TopicsArtificial IntelligenceAmazon's Custom Chips
+
+Our Impact
+
+Jobs and Investments
+Community
+Sustainability
+Small Businesses
+Featured TopicsBuilding Strong CommunitiesBuilding Skills for the FutureAffordabilityData Center Commitments
+Subscribe
+

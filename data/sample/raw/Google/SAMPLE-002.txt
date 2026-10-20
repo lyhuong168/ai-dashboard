@@ -1,0 +1,7 @@
+SAMPLE DOCUMENT. Synthetic text for testing the pipeline. Not a real filing and not real numbers.
+
+Google (sample) quarterly report. Revenue was $3,333.3 million for the first quarter of fiscal 2025 and $4,444.4 million for the second quarter of fiscal 2025. Net income was $555.5 million in the first quarter and $666.6 million in the second quarter.
+
+Cloud segment. The sample cloud business grew faster than the company overall, driven by demand for AI infrastructure and model hosting.
+
+Capital expenditures increased as the sample company expanded data center capacity to serve AI workloads.

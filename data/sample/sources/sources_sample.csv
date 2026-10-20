@@ -1,0 +1,8 @@
+source_id,company,title,url,publisher,doc_type,tier,published_date,retrieved_date,local_path
+SAMPLE-001,Nvidia,SAMPLE quarterly filing (not real),https://example.com/sample-1,Sample Publisher,10-Q,1,2025-01-01,2025-01-02,raw/Nvidia/SAMPLE-001.txt
+SAMPLE-002,Google,SAMPLE quarterly filing (not real),https://example.com/sample-2,Sample Publisher,10-Q,1,2025-01-01,2025-01-02,raw/Google/SAMPLE-002.txt
+SAMPLE-003,OpenAI,SAMPLE pricing page (not real),https://example.com/sample-3,Sample Publisher,pricing_page,1,2025-01-01,2025-01-02,raw/OpenAI/SAMPLE-003.txt
+SAMPLE-004,Anthropic,SAMPLE pricing page (not real),https://example.com/sample-4,Sample Publisher,pricing_page,1,2025-01-01,2025-01-02,raw/Anthropic/SAMPLE-004.txt
+SAMPLE-005,Google,SAMPLE news article (not real),https://example.com/sample-5,Sample News,news,2,2025-01-01,2025-01-02,raw/Google/SAMPLE-005.txt
+SAMPLE-006,Apple,SAMPLE market data (not real),https://example.com/sample-6,Sample Market Data,market_data,2,2025-01-01,2025-01-02,
+SAMPLE-007,Google,SAMPLE pricing page (not real),https://example.com/sample-7,Sample Publisher,pricing_page,1,2025-01-01,2025-01-02,raw/Google/SAMPLE-007.txt

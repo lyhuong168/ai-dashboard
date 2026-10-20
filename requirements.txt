@@ -1,0 +1,8 @@
+# Everyone installs this (data collectors + dashboard tabs).
+pandas
+streamlit
+plotly
+requests
+yfinance
+python-dotenv
+networkx

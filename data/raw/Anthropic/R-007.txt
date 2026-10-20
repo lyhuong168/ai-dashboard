@@ -1,0 +1,102 @@
+Source: https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services
+Retrieved: 2026-10-18
+Publisher: googlecloudpresscorner.com
+
+
+
+ Google Cloud Logo
+
+News
+
+ Skip to content
+
+ Press Corner
+
+Menu
+
+ Latest News 
+
+Gemini at Work '26
+
+Gemini Enterprise for Financial Services
+
+Gemini Enterprise for Legal
+
+ Press Releases 
+
+ Leadership 
+
+ Assets and Events 
+
+ Subscribe 
+
+ Desktop SearchSearch
+
+Get started for free
+
+ Mobile SearchSearch
+
+ Latest News
+
+ Press Releases
+
+ Leadership
+
+ Assets and Events
+
+ Subscribe
+
+Artificial intelligence
+GLOBAL
+
+Anthropic to Expand Use of Google Cloud TPUs and Services
+
+October 23, 2025
+
+Anthropic will train and serve Claude models with plans to access up to 1 million TPUs, worth tens of billions of dollars
+
+SUNNYVALE, Calif. and SAN FRANCISCO, Oct. 23, 2025 /PRNewswire/ -- Anthropic today announced a landmark expansion of its use of Google Cloud's TPU chips, providing the company with access to the capacity and computing resources required to train and serve the next generations of Claude models. In total, Anthropic will have access to well over a gigawatt of capacity coming online in 2026.
+
+This represents the largest expansion of Anthropic's TPU usage to date. Anthropic will have access to up to one million TPU chips, as well as additional Google Cloud services, which will empower its research and development teams with leading AI-optimized infrastructure for years to come. Anthropic chose TPUs due to their price-performance and efficiency, and the company's existing experience in training and serving its models with TPUs.
+
+Anthropic and Google Cloud initially announced a strategic partnership in 2023, with Anthropic using Google Cloud's AI infrastructure to train its models and making them available to businesses through Google Cloud's Vertex AI platform and through Google Cloud Marketplace. Today, thousands of businesses utilize Anthropic's Claude models on Google Cloud, including Figma, Palo Alto Networks, Cursor, and others.
+
+"Anthropic and Google have a longstanding partnership and this latest expansion will help us continue to grow the compute we need to define the frontier of AI," said Krishna Rao, CFO of Anthropic. "Our customers—from Fortune 500 companies to AI-native startups—depend on Claude for their most important work, and this expanded capacity ensures we can meet our exponentially growing demand while keeping our models at the cutting edge of the industry."
+
+"Anthropic's choice to significantly expand its usage of TPUs reflects the strong price-performance and efficiency its teams have seen with TPUs for several years," said Thomas Kurian, CEO at Google Cloud. "We are continuing to innovate and drive further efficiencies and increased capacity of our TPUs, building on our already mature AI accelerator portfolio, including our seventh generation TPU, Ironwood."
+
+About Google Cloud
+Google Cloud is the new way to the cloud, providing AI, infrastructure, developer, data, security, and collaboration tools built for today and tomorrow. Google Cloud offers a powerful, fully integrated and optimized AI stack with its own planet-scale infrastructure, custom-built chips, generative AI models and development platform, as well as AI-powered applications, to help organizations transform. Customers in more than 200 countries and territories turn to Google Cloud as their trusted technology partner.
+
+Forward-Looking Statements
+This press release includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are generally identified through the inclusion of words such as "aim," "anticipate," "believe," "expect," "intend," "may," "plans to," "project," "strategy," "target" and "will" or other words or phrases of similar import. Similarly, statements herein that describe the future impact or potential of this announced expansion, and other statements of management's beliefs, intentions or goals also are forward-looking statements. It is uncertain whether any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what impact they will have on results of operations, financial condition, or stock price. These forward-looking statements involve certain risks and uncertainties that could cause actual results to differ materially from those indicated in such forward-looking statements, including but not limited to, the ability of the parties to implement their plans, and other expectations with respect to this expansion. The forward-looking statements included in this press release are made only as of the date hereof. The parties do not undertake any obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+
+SOURCE Google Cloud
+
+For further information: press@google.com
+
+ Posted in 
+Artificial intelligence
+GLOBAL
+
+ Year
+
+ Select Year202620252024202320222021 
+
+ Follow Us 
+
+ Google Cloud Logo
+
+ Privacy 
+
+ Terms 
+
+ About Google 
+
+ Google Cloud Products 
+
+ Language
+ arrow_drop_down
+
+ Help
+

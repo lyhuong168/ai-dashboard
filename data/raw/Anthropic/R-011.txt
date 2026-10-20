@@ -1,0 +1,124 @@
+Source: https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/
+Retrieved: 2026-10-18
+Publisher: blogs.nvidia.com
+
+
+
+ Skip to content
+
+Microsoft, NVIDIA and Anthropic Announce Strategic Partnerships
+
+ Anthropic to scale Claude on Azure, Anthropic to adopt NVIDIA architecture, and NVIDIA and Microsoft to invest in Anthropic. 
+
+ November 18, 2025 by NVIDIA Newsroom 
+
+ 0 Comments
+
+ Share
+
+ Share This Article 
+
+ X 
+
+ Facebook 
+
+ LinkedIn 
+
+Copy link
+ Link copied!
+
+Today, Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to 1 gigawatt.
+
+For the first time, NVIDIA and Anthropic are establishing a deep technology partnership to support Anthropic’s future growth. Anthropic and NVIDIA will collaborate on design and engineering, with the goal of optimizing Anthropic models for the best possible performance, efficiency and TCO, and optimizing future NVIDIA architectures for Anthropic workloads. Anthropic’s compute commitment will initially be up to 1 gigawatt of compute capacity with NVIDIA Grace Blackwell and Vera Rubin systems.
+
+Microsoft and Anthropic are also expanding their existing partnership to provide broader access to Claude for businesses. Customers of Microsoft Azure AI Foundry will be able to access Anthropic’s frontier Claude models including Claude Sonnet 4.5, Claude Opus 4.1 and Claude Haiku 4.5. This partnership will make Claude the only frontier LLM model available on all three of the world’s most prominent cloud services. Azure customers will gain expanded choice in models and access to new Claude-specific capabilities.
+
+Microsoft has also committed to continuing access for Claude across Microsoft’s Copilot family, including GitHub Copilot and Copilot Studio.
+
+As part of the partnership, NVIDIA and Microsoft are committing to invest up to $10 billion and up to $5 billion respectively in Anthropic.
+
+Anthropic cofounder and CEO Dario Amodei, Microsoft Chairman and CEO Satya Nadella, and NVIDIA founder and CEO Jensen Huang gathered to discuss the new partnerships:
+
+Today’s announcement was published simultaneously on the Microsoft, NVIDIA and Anthropic newsrooms.
+
+ Watch NVIDIA CEO Jensen Huang’s GTC Berlin Keynote 
+
+Wednesday, Oct. 21
+
+11 a.m.-1 p.m. CEST
+
+ Add to Calendar 
+
+Recent News
+
+ AI 
+
+ The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing 
+
+ October 14, 2026 
+
+ AI 
+
+ NVIDIA Announces New Investments in the UK Startup Ecosystem 
+
+ October 13, 2026 
+
+ AI 
+
+ European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations 
+
+ October 13, 2026 
+
+ AI 
+
+ All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark 
+
+ October 13, 2026 
+
+ View All Recent News 
+
+Categories:
+
+AI Infrastructure
+Corporate 
+
+Tags:
+
+Artificial Intelligence 
+
+Related News
+
+ AI 
+
+ The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing 
+
+ Oct 14, 2026 
+
+ AI 
+
+ NVIDIA Announces New Investments in the UK Startup Ecosystem 
+
+ Oct 13, 2026 
+
+ AI 
+
+ European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations 
+
+ Oct 13, 2026 
+
+ AI 
+
+ NVIDIA Announces New Investments in France’s Startups 
+
+ Oct 12, 2026 
+
+ Share This
+ Facebook
+ LinkedIn 
+
+Share on Mastodon
+
+ Enter your Mastodon instance URL (optional)
+
+ Share
+

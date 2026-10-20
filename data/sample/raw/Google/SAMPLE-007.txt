@@ -1,0 +1,5 @@
+SAMPLE DOCUMENT. Synthetic pricing page for testing. Not real prices.
+
+Google (sample) API pricing. The model sample-model-c costs $0.50 per 1 million input tokens and $2.00 per 1 million output tokens. The context window is 1,000,000 tokens.
+
+Context caching is not offered for this sample model.

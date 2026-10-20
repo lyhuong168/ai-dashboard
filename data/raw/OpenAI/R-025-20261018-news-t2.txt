@@ -1,0 +1,37 @@
+Headlines about OpenAI, captured 2026-10-18 (press, tier 2).
+[1] 2026-10-16 | Ars Technica | OpenAI models hacked a crypto wallet and breached more websites
+    OpenAI models hacked a crypto wallet and breached more websites Ars Technica
+    https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl9YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5
+[2] 2026-10-16 | AP News | States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults
+    States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults AP News
+    https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5
+[3] 2026-10-16 | Fortune | A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task
+    A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task Fortune
+    https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5
+[4] 2026-10-16 | Fortune | OpenAI discloses four more rogue incidents involving financial, medical, and government data
+    OpenAI discloses four more rogue incidents involving financial, medical, and government data Fortune
+    https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5
+[5] 2026-10-16 | Euronews | After AI maths backlash, OpenAI pledges $5m to math foundation
+    After AI maths backlash, OpenAI pledges $5m to math foundation Euronews
+    https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnFyUkdScFJYbElZTG55cEFWZDNHYjVUdWM4YWpiNUlZQ19GUnNNTF9HLW8yV2RYTW0wUUJKM3NySEc5WXpEZEpZTUhuLVVYZF80dVViRzZocHU1dmd4Rk9QUjJDWnhUUFZBVzdla25QQVZlTEJSWk83TDk5YXlaZmFRa2ZLaXprRnIyRF81REwydTJyM2hyNWtTcEQteGJJZ2x3Y2ZRZkdwRWhkZDE3dFltLVZCZ2N3TjFHYUxZaGxFYUNw?oc=5
+[6] 2026-10-16 | CoinDesk | An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own
+    An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own CoinDesk
+    https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5
+[7] 2026-10-16 | Yahoo Finance | OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.
+    OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion. Yahoo Finance
+    https://news.google.com/rss/articles/CBMinwFBVV95cUxPbl9raElBTHVoeFh2QnhxeDZ1ODhEVzEySHFNdEEzcmE3VHRnVFBYQWg5SlpIS0hFMXdHX1VaSHdoTXFZTDB1MHJDQUU3WktGTWdEVlF3LXlDZ1djSTdRbVFxMG9zLTVpdXVTYmRVNEhNcUw0QWUySjNwVGUxS2drNFBOVzNtVF8tSVdOU0RLQ0RIT3ZIUWJGcGJoSnJ3NHM?oc=5
+[8] 2026-10-15 | Business Insider | Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power
+    Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power Business Insider
+    https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5
+[9] 2026-10-15 | Reuters | OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence
+    OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence Reuters
+    https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5
+[10] 2026-10-15 | Al Jazeera | Why are eight US states suing OpenAI?
+    Why are eight US states suing OpenAI? Al Jazeera
+    https://news.google.com/rss/articles/CBMihAFBVV95cUxOR01Wc3laRXVFX0RaZ1hkU2M1LTJvUlJRTWNoRWRwcFRtOVJ6YkEtWmhHMGpiMVExSkY0VFA1RjhnMmV4SDBKazJZWFhkV01ReTdfOU14dnpLYlJKVFpGdmYwTmJlaGhZcWR1T0hJV25ubElrRzJoekJLQXZfWTNvZEVRWkHSAYoBQVVfeXFMTWlGOTFldE5McU9kOVFFS184eHV6M0JmWk5NYUp6cDRrLVA2OVVWaXBSWl9iMUxZU0FfWkZDUV9hcnF6WklwUkJkM0I5eWw4Uy00dm5NMlhUUjJEYV9jc0JVblF4VWl3eGNjWHZWZ05CbExWekpEcWVQSWtNM056QXFJOFUweUZRQ3d3?oc=5
+[11] 2026-10-15 | Axios | Scoop: The FTC demanded documents from AI giants over recent safety incidents
+    Scoop: The FTC demanded documents from AI giants over recent safety incidents Axios
+    https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5
+[12] 2026-10-15 | Reuters | US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports
+    US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports Reuters
+    https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5

@@ -1,0 +1,5 @@
+SAMPLE DOCUMENT. Synthetic pricing page for testing. Not real prices.
+
+OpenAI (sample) API pricing. The model sample-model-a costs $1.00 per 1 million input tokens and $4.00 per 1 million output tokens. Cached input tokens are discounted to $0.25 per 1 million tokens. The context window is 128,000 tokens.
+
+Batch requests are available at a discount for non-urgent workloads.

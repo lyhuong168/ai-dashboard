@@ -1,0 +1,37 @@
+Headlines about Nvidia, captured 2026-10-18 (official/own-site posts).
+[1] 2026-10-17 | NVIDIA Newsroom | RTX Spark Ignites Global Celebration as New Windows PCs Arrive
+    NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.Â Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, con
+    https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/
+[2] 2026-10-16 | NVIDIA Newsroom | NVIDIA RTX Spark PCs Available Today â A New Beginning for Windows PCs
+    NVIDIA today announced the availability of NVIDIA RTX Sparkâ¢ laptops, bringing together RTX graphics and NVIDIAâs full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI â rolling out from ASUS, Dell, HP, Lenovo, 
+    https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs
+[3] 2026-10-16 | NVIDIA Newsroom | Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade
+    Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.
+    https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade
+[4] 2026-10-15 | NVIDIA Newsroom | Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving
+    Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the companiesâ decade-long collaboration.
+    https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving
+[5] 2026-10-15 | NVIDIA Newsroom | Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark
+    A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark â one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your f
+    https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/
+[6] 2026-10-15 | NVIDIA Newsroom | Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation
+    Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobeâs flagship tools including Adobe Photoshop,
+    https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation
+[7] 2026-10-15 | NVIDIA Newsroom | Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models
+    NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence 
+    https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/
+[8] 2026-10-15 | NVIDIA Newsroom | Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW
+    Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Gamesâ Enshrouded leaves early acces
+    https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/
+[9] 2026-10-15 | NVIDIA Newsroom | NVIDIA Expands Advanced Technology Access for Europeâs Scientific Community Through Open Learning Resources, Collaborations and Compute
+    Much of todayâs scientific progress begins with computation.Â But turning accelerated computingâs potential into scientific progress â modeling climate systems, designing molecules, simulating materials and more â depends on more than breakthrough technology. Especially f
+    https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/
+[10] 2026-10-15 | NVIDIA Newsroom | The Nordics and NVIDIA Show Whatâs Possible When a Region Commits to Advanced Computing
+    The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europeâs most conseq
+    https://blogs.nvidia.com/blog/nordics-technology-ecosystem/
+[11] 2026-10-14 | NVIDIA Newsroom | NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs
+    NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-Xâ¢ libraries â including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact â to advance AI-defined fabs.
+    https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs
+[12] 2026-10-14 | NVIDIA Newsroom | From Enterprise to Earthshot: UKâs Ecosystem Moves From Ambition to Application With NVIDIA
+    Across industries, the U.K. is putting the full stack to work â and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planetâs hardest problems. NVIDIA is putting that principle into practice, including thr
+    https://blogs.nvidia.com/blog/uk-ecosystem-deployment/

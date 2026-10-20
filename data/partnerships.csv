@@ -1,0 +1,38 @@
+from_company,to_company,relationship_type,description,amount_usd,date,source_id,confidence
+AMD,OpenAI,supply,"OpenAI to deploy 6 gigawatts of AMD GPUs based on a multi-year, multi-generation agreement.",,2025-10-06,R-016,high
+Amazon,Anthropic,cloud,Anthropic's commitment to spend more than $100 billion over the next ten years on AWS technologies.,100000000000,2026-04-20,R-005,high
+Amazon,Anthropic,investment,"Amazon is investing $5 billion in Anthropic today, with up to an additional $20 billion in the future.",5000000000,2026-04-20,R-004,high
+Amazon,Anthropic,supply,Anthropic uses over one million Trainium2 chips to train and serve Claude.,,2026-04-20,R-004,high
+Anthropic,Microsoft,distribution,Microsoft and Anthropic are expanding their existing partnership to provide broader access to Claude for businesses.,,2025-11-18,R-011,high
+Broadcom,Anthropic,supply,Anthropic partners with Broadcom for next-generation compute infrastructure.,,2026-04-06,R-009,high
+Fabrinet,Nvidia,supply,"Fabrinet is engaged by Nvidia for assembly, testing, and packaging of final products.",,2026-02-25,A-011,high
+Google,Anthropic,cloud,"Anthropic plans to expand its use of Google Cloud technologies, including up to one million TPUs.",,2025-10-23,R-006,high
+Google,Anthropic,supply,Anthropic announced a landmark expansion of its use of Google Cloud's TPU chips.,,2025-10-23,R-007,high
+Google,Apple,distribution,Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology.,,2026-01-12,R-018,high
+Hon Hai Precision Industry,Nvidia,supply,"Hon Hai Precision Industry is engaged by Nvidia for assembly, testing, and packaging of final products.",,2026-02-25,A-011,high
+Micron Technology,Nvidia,supply,Micron Technology supplies memory to Nvidia.,,2026-02-25,A-011,high
+Microsoft,Anthropic,cloud,Anthropic is scaling its rapidly growing Claude AI model on Microsoft Azure.,30000000000,2025-11-18,R-011,high
+Microsoft,Anthropic,investment,Microsoft is committing to invest up to $5 billion in Anthropic.,5000000000,2025-11-18,R-010,high
+Microsoft,OpenAI,cloud,OpenAI has contracted to purchase an incremental $250B of Azure services.,250000000000,2025-10-28,R-013,high
+Microsoft,OpenAI,investment,Microsoft holds an investment in OpenAI Group PBC valued at approximately $135 billion.,135000000000,2025-10-28,R-013,high
+Nvidia,AMD,competition,"Nvidia competes with AMD in providing GPUs, CPUs, and other accelerated computing solutions.",,2026-02-25,A-011,high
+Nvidia,Amazon,competition,Nvidia competes with Amazon in designing hardware and software for AI computing functionality.,,2026-02-25,A-011,high
+Nvidia,Anthropic,investment,NVIDIA is committing to invest up to $10 billion in Anthropic.,10000000000,2025-11-18,R-010,high
+Nvidia,Anthropic,supply,Anthropic's compute strategy includes using NVIDIA’s GPUs as part of a diversified approach.,,2025-10-23,R-006,high
+Nvidia,Broadcom,competition,Nvidia competes with Broadcom in providing SoC products used in servers and other devices.,,2026-02-25,A-011,high
+Nvidia,"Cisco Systems, Inc.",competition,"Nvidia competes with Cisco Systems, Inc. in networking products including switches and network adapters.",,2026-02-25,A-011,high
+Nvidia,Google,competition,Nvidia competes with Alphabet in designing hardware and software for AI computing functionality.,,2026-02-25,A-011,high
+Nvidia,Huawei,competition,"Nvidia competes with Huawei in providing GPUs, CPUs, and other accelerated computing solutions.",,2026-02-25,A-011,high
+Nvidia,Intel,competition,"Nvidia competes with Intel in providing GPUs, CPUs, and other accelerated computing solutions.",,2026-02-25,A-011,high
+Nvidia,Microsoft,competition,Nvidia competes with Microsoft in designing hardware and software for AI computing functionality.,,2026-02-25,A-011,high
+Nvidia,OpenAI,financing,Nvidia entered into guarantees with SB Energy Corp. to provide credit support for OpenAI's leases at SB Energy’s PORTS Technology Campus.,105000000000,2026-08-26,A-012,high
+Nvidia,OpenAI,investment,NVIDIA intends to invest up to $100 billion in OpenAI as the new NVIDIA systems are deployed.,100000000000,2025-09-22,R-015,high
+Nvidia,OpenAI,supply,NVIDIA will supply systems representing millions of GPUs for OpenAI’s next-generation AI infrastructure.,,2025-09-22,R-015,high
+Nvidia,Oracle,supply,Oracle began delivering the first NVIDIA GB200 racks in June for OpenAI's Stargate project.,,2025-10-22,R-019,high
+OpenAI,Apple,distribution,"Apple is integrating ChatGPT access into experiences within iOS 18, iPadOS 18, and macOS Sequoia.",,2024-06-10,R-017,high
+OpenAI,Microsoft,distribution,Revenue share payments from OpenAI to Microsoft continue through 2030.,,2026-04-27,R-014,high
+Oracle,OpenAI,cloud,Oracle began delivering the first NVIDIA GB200 racks in June for OpenAI's Stargate project.,,2025-10-22,R-019,high
+SK Hynix,Nvidia,supply,SK Hynix supplies memory to Nvidia.,,2026-02-25,A-011,high
+Samsung,Nvidia,supply,Samsung is utilized by Nvidia to produce semiconductor wafers and supply memory.,,2026-02-25,A-011,high
+TSMC,Nvidia,supply,TSMC is utilized by Nvidia to produce semiconductor wafers.,,2026-02-25,A-011,high
+Wistron Corporation,Nvidia,supply,"Wistron Corporation is engaged by Nvidia for assembly, testing, and packaging of final products.",,2026-02-25,A-011,high
