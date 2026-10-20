@@ -1,0 +1,1146 @@
+{
+  "captured": "2026-10-18",
+  "window_days": 10,
+  "companies": {
+    "Google": [
+      {
+        "id": "R-022#1",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "We\u2019re sharing 3 tips to study smarter with Gemini Notebook.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+        "summary": "Master your exams with Google Gemini Notebook\u2019s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google."
+      },
+      {
+        "id": "R-022#2",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+        "summary": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware."
+      },
+      {
+        "id": "R-022#3",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Check if a text message is a scam using Circle to Search.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+        "summary": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works."
+      },
+      {
+        "id": "R-022#4",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "How we're helping the world prepare for natural disasters",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+        "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster."
+      },
+      {
+        "id": "R-022#5",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Android earthquake alerts now available in more than 200 regions",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+        "summary": "Android earthquake alerts are now available in more than 200 countries and regions."
+      },
+      {
+        "id": "R-022#6",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "400 publications are now partnering with us on our News AI pilot program.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+        "summary": "People\u2019s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we\u2019re evolving our pa\u2026"
+      },
+      {
+        "id": "R-022#7",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "More ways to connect with the web from Search",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+        "summary": "We\u2019re updating AI Mode and AI Overviews to include clearer links, context about sources, and more."
+      },
+      {
+        "id": "R-022#8",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Making your Pixel devices last longer through design, repair, and reuse",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+        "summary": "On International Repair Day, we\u2019re highlighting how we design devices for longevity, make repair and reuse more accessible and more."
+      },
+      {
+        "id": "R-022#9",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "An intelligent new shopping cart",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+        "summary": "Universal Cart helps make holiday shopping easier. It\u2019s now available in the U.S. across Search and the Gemini app."
+      },
+      {
+        "id": "R-022#10",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+        "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification."
+      },
+      {
+        "id": "R-022#11",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Data-backed secrets to smarter holiday shopping",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+        "summary": "Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak."
+      },
+      {
+        "id": "R-022#12",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Research@ 2026: Novel capabilities and intelligence",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+        "summary": "We\u2019re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we\u2019re putting in the hands of experts."
+      },
+      {
+        "id": "R-023#1",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Alphabet Stock Price Forecast: Can Expanding Access to Gemini 4 Argon Help Its Stock Recover?",
+        "publisher": "TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcG1EUWVvaFpxcDgwRzNNZzRRb2tJTlMzSWVmYjJEb0UwSUZYNy1Dc3pSZmRvdTF0UnRkZHZoNDlLSHFPWWhDVDRmeWUzV25HNWRmLUg3Q3h5Nkh5N3ZmY0ZDZldqZmVxdThnc3BKQmdGbVBENDhhelk0cXlEVlZWT19lNk01eTllOWRCTnRqRDI0TkJidEQyRkhIaUR2eE5kX2prYXdwWXFRaWpNQmF6NEZwODdhWjVJSnNqQ0xnSlVQV1pSWVN2OThxLW5SR2ZwOVVHZlNNWURrREgxQnVVVGpwcmI4VUJseDJLVA?oc=5",
+        "summary": "Alphabet Stock Price Forecast: Can Expanding Access to Gemini 4 Argon Help Its Stock Recover? TradingKey"
+      },
+      {
+        "id": "R-023#2",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMl9DdG44UmRpN0plLVFxelhGa0Y4VzRlc182cktVWl80THVDZS1iUzZ4cjN2MS1VU1hmV1F1R0I2Ny1ubFlTVkJ6dDF1b0JYRnlGTUg1NXZLSld1UzI2ZmN2QWlWMTluVUw0Nzg0ZG1BWFhBXzU2c0ZwcXZBX05qWmRhUENfd3pYVlNab3RXYVVoWXFoX0hxbA?oc=5",
+        "summary": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch? The Motley Fool"
+      },
+      {
+        "id": "R-023#3",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry",
+        "publisher": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5",
+        "summary": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry Investor's Business Daily"
+      },
+      {
+        "id": "R-023#4",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDEwWXFuMW9MblJRby1mM3lWbTl5ZVlIaURJODUyTWF2M1NGY091eFYzN1ZCbm5QT21YSjg4VDd4QTRmRUFXLVFDcHd1QmNldzJmOHlBb2VLWFVRME5XZ3kyVHpmYzFBcWduVWZTXzJDTW4wLVJoUlU1eXphVW9hZ1J2NnVPUTNvYmllS2FvNWtlMWF6WFZN?oc=5",
+        "summary": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027 The Motley Fool"
+      },
+      {
+        "id": "R-023#5",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,000 Right Now.",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2Nnc0U1UVZtUEswMHVTUksxVkp5X0Z6T0JmSkt3UTA0QkM2b3ZrWVdVSjFfSlpHSm5QY2pBM01JXzJNZkVTT19OU3E1M3otYjltQWNtQ3BQRUFOdGc1RzgzWXJLN0N2OEJ0TWx0VEpJeThBSWhETjZ4c05NZDY0bzhDdU9uVFRFVHRoNWFyZWtEbjZZMFNSUQ?oc=5",
+        "summary": "Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,000 Right Now. The Motley Fool"
+      },
+      {
+        "id": "R-023#6",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings",
+        "publisher": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFB0ZzhjTVd5VDBvYllzdjZkOWxYSFdQREd5RHUycEp0UWlWZV9lTE1tMm5nZHVxMmdkSWNGcEZPdXFWZTJocE45Y2lMYkxEamt6eXVpWFltNWs2SDVfZUhPeF9WWHg2eWROZHhYcExINUZQU2hJVDQ1dWJtVkMwWDAxYnM0UWRNbGZUdl8yWFc0Q0VNcU10ZDVMVjZvbi1PM3BoVHUzbDRuOG1XS2xhdUJsd1pJZkNaN3NYblFTQjQxcm1PMHJORU1LV0NOeTQ?oc=5",
+        "summary": "Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings Investing.com"
+      },
+      {
+        "id": "R-023#7",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide?",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaDc2QklEbjJsbndOVWdoTDV3T1Q4VTZxdktnS3dMb3JiMUtHZE4zVlRWOGVUR01CdXVYUU8zN3MtbFRLZks4eDh5Vnk2WVJQM2N5T2Y3Qy1LelNTWC03WE1Xb3FPUU9wVzVuZ1NycXpycU81Qzh6cUZhMjU4aUVsWHBxLVlkSDNXejNXSnVrYXJyOTUxbnFQamZzTTZSQQ?oc=5",
+        "summary": "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide? Yahoo Finance"
+      },
+      {
+        "id": "R-023#8",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Evercore raises Alphabet estimates on potential TPU hardware sales (GOOG:NASDAQ)",
+        "publisher": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXF2M3VRZjdQZk1XaXNHSS1ubERVVmZxVnZhaHZaRTd0X3RtMnpidWJwV1BOVDZDU3RSR0kyb3lUQ0FqTHJNVGZPdnhTbkFseXFVUm9NTDYzb3U3Q1NRenJJMU96YWJrSGNnS0ZxQ3VkTVRmUmRiaE1SWWI2UUZmMmgzTk5WUDlWZTR0Qi1tcm5UYl9ZR1BIcWZDeFZ1bEdLYTZzLWxZOA?oc=5",
+        "summary": "Evercore raises Alphabet estimates on potential TPU hardware sales (GOOG:NASDAQ) Seeking Alpha"
+      },
+      {
+        "id": "R-023#9",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Alphabet Stocks Fall Although AI-Chip Forecast Signals a Bigger Cloud Business",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGJqNWtJUG4wTXdXOXpQR1JjVXhtRzdEaUdDQXlMQWlKVjZIQ3R4V2tuZlBTcG1RWlFDdGNpSDZ3WTMtR1p3Y05PNXhHNV9fd2FfQTgwdkZrQmtXWVREd2ZtRjlScElyQjQtUjMxUUtmYTE4M3plTW1jeDk3TWJYWG1CYlR3aWY4M0gycXdUZU9UUDIwb1ZrUQ?oc=5",
+        "summary": "Alphabet Stocks Fall Although AI-Chip Forecast Signals a Bigger Cloud Business Yahoo Finance"
+      },
+      {
+        "id": "R-023#10",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Alphabet\u2019s Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1ZRW1CVWNTOVRXVWNpcHNHRVNkWHNLMFJablM0QzJuVGZxbWFfUk9nWHNfVjl3ZmJoNlBFYTNuUWtBSmgtYlpEWnhsOXFycVNyR2t0THJiZWcyWUlreE16X0FEMElQUTl0N2lQZmpDOEhYR2VDa05MSVNNYkdKTWNGZmExTTNYazFSWjNGeWdHb2I0Um5yR21iaVhFblU?oc=5",
+        "summary": "Alphabet\u2019s Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying Yahoo Finance"
+      },
+      {
+        "id": "R-023#11",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Apple and Alphabet Are Especially Scared of a Blue Wave",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVFlaGRpYjZRc0hJWHJXbWk0TEhLUUpBUkVVY05HRXZPNXhSS0tXaFZDd05DRVRVbElKRVVLeFh4ekFxSllvXzZkM0JoanhYSlBUWXM4cXNpVTdXWncyMlJVUWpka1NzNE1VdVhVRTBOS0Itd1lqVjhfeEpTNzh2Z19HaDJDUjVrMlA5Xy1OOHhmblQyS1AyejhERU5laEVpd05Meg?oc=5",
+        "summary": "Apple and Alphabet Are Especially Scared of a Blue Wave Yahoo Finance"
+      },
+      {
+        "id": "R-023#12",
+        "source_id": "R-023",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "The Next $5 Trillion Dollar Company: Alphabet or Microsoft?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVg0M01UU0NWVzhhbWljRHJvTFpvQzRncmtwcG1nbDNuQW14enhxd3JDdUFCUldhbkUxcGxDa05PVDlkTjJXMGJoNmFWV2UtYTBkVzBZRk1vMUNNbW1yY043WmVSTjEtdWpNNkI4ZnVsZjgwZTEzZzlhSU9Gbk1mODVPVGZNSEFVaUVFc19TTXQ1ZTM5Z0dXcC1pOXFXMmhpamc?oc=5",
+        "summary": "The Next $5 Trillion Dollar Company: Alphabet or Microsoft? 24/7 Wall St."
+      }
+    ],
+    "OpenAI": [
+      {
+        "id": "R-024#1",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "How Ita\u00fa is building generative AI for its entire customer base",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+        "summary": "How Ita\u00fa is building generative AI for its entire customer base OpenAI"
+      },
+      {
+        "id": "R-024#2",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+        "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI"
+      },
+      {
+        "id": "R-024#3",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/benefit-street-partners",
+        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+      },
+      {
+        "id": "R-024#4",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+        "summary": "Bringing GPT-Rosalind to academic research labs OpenAI"
+      },
+      {
+        "id": "R-024#5",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Introducing GPT-6 Sol and Luna",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+        "summary": "Introducing GPT-6 Sol and Luna OpenAI"
+      },
+      {
+        "id": "R-024#6",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Teaching students to think and learn through questions",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      },
+      {
+        "id": "R-024#7",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/sullivan-cromwell",
+        "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+      },
+      {
+        "id": "R-024#8",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heWFrdDF4bFBWT2dkOEItbVAyRncyUVZEMmJpQjRRaUdieERpam80UXF4X2otS3hoOS10TnpTSEpraVd6eWFGcDl4RkpWTUpNZ3N0ZG51Ulk5UUgwcGotQQ?oc=5",
+        "summary": "How Block is building AI-powered security with OpenAI technology OpenAI"
+      },
+      {
+        "id": "R-024#9",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
+        "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI"
+      },
+      {
+        "id": "R-024#10",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+        "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI"
+      },
+      {
+        "id": "R-024#11",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
+        "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI"
+      },
+      {
+        "id": "R-024#12",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "The EU\u2019s next chapter in AI is agentic",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
+        "summary": "The EU\u2019s next chapter in AI is agentic OpenAI"
+      },
+      {
+        "id": "R-025#1",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "publisher": "Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl9YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5",
+        "summary": "OpenAI models hacked a crypto wallet and breached more websites Ars Technica"
+      },
+      {
+        "id": "R-025#2",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+        "publisher": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+        "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults AP News"
+      },
+      {
+        "id": "R-025#3",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+        "publisher": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5",
+        "summary": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task Fortune"
+      },
+      {
+        "id": "R-025#4",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
+        "publisher": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
+        "summary": "OpenAI discloses four more rogue incidents involving financial, medical, and government data Fortune"
+      },
+      {
+        "id": "R-025#5",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "After AI maths backlash, OpenAI pledges $5m to math foundation",
+        "publisher": "Euronews",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnFyUkdScFJYbElZTG55cEFWZDNHYjVUdWM4YWpiNUlZQ19GUnNNTF9HLW8yV2RYTW0wUUJKM3NySEc5WXpEZEpZTUhuLVVYZF80dVViRzZocHU1dmd4Rk9QUjJDWnhUUFZBVzdla25QQVZlTEJSWk83TDk5YXlaZmFRa2ZLaXprRnIyRF81REwydTJyM2hyNWtTcEQteGJJZ2x3Y2ZRZkdwRWhkZDE3dFltLVZCZ2N3TjFHYUxZaGxFYUNw?oc=5",
+        "summary": "After AI maths backlash, OpenAI pledges $5m to math foundation Euronews"
+      },
+      {
+        "id": "R-025#6",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+        "publisher": "CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
+        "summary": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own CoinDesk"
+      },
+      {
+        "id": "R-025#7",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbl9raElBTHVoeFh2QnhxeDZ1ODhEVzEySHFNdEEzcmE3VHRnVFBYQWg5SlpIS0hFMXdHX1VaSHdoTXFZTDB1MHJDQUU3WktGTWdEVlF3LXlDZ1djSTdRbVFxMG9zLTVpdXVTYmRVNEhNcUw0QWUySjNwVGUxS2drNFBOVzNtVF8tSVdOU0RLQ0RIT3ZIUWJGcGJoSnJ3NHM?oc=5",
+        "summary": "OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion. Yahoo Finance"
+      },
+      {
+        "id": "R-025#8",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-15",
+        "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power",
+        "publisher": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5",
+        "summary": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power Business Insider"
+      },
+      {
+        "id": "R-025#9",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-15",
+        "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+        "publisher": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+        "summary": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence Reuters"
+      },
+      {
+        "id": "R-025#10",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-15",
+        "title": "Why are eight US states suing OpenAI?",
+        "publisher": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR01Wc3laRXVFX0RaZ1hkU2M1LTJvUlJRTWNoRWRwcFRtOVJ6YkEtWmhHMGpiMVExSkY0VFA1RjhnMmV4SDBKazJZWFhkV01ReTdfOU14dnpLYlJKVFpGdmYwTmJlaGhZcWR1T0hJV25ubElrRzJoekJLQXZfWTNvZEVRWkHSAYoBQVVfeXFMTWlGOTFldE5McU9kOVFFS184eHV6M0JmWk5NYUp6cDRrLVA2OVVWaXBSWl9iMUxZU0FfWkZDUV9hcnF6WklwUkJkM0I5eWw4Uy00dm5NMlhUUjJEYV9jc0JVblF4VWl3eGNjWHZWZ05CbExWekpEcWVQSWtNM056QXFJOFUweUZRQ3d3?oc=5",
+        "summary": "Why are eight US states suing OpenAI? Al Jazeera"
+      },
+      {
+        "id": "R-025#11",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-15",
+        "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+        "publisher": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
+        "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents Axios"
+      },
+      {
+        "id": "R-025#12",
+        "source_id": "R-025",
+        "tier": "2",
+        "date": "2026-10-15",
+        "title": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
+        "publisher": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5",
+        "summary": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports Reuters"
+      }
+    ],
+    "Anthropic": [
+      {
+        "id": "R-026#1",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+        "summary": "Designing more efficient quantum circuits with Claude Anthropic"
+      },
+      {
+        "id": "R-026#2",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Claude reveals ECDSA curve origins",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
+        "summary": "Claude reveals ECDSA curve origins Anthropic"
+      },
+      {
+        "id": "R-026#3",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "The AI expectations gap",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+        "summary": "The AI expectations gap Anthropic"
+      },
+      {
+        "id": "R-026#4",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "How employment is changing at Anthropic",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
+        "summary": "How employment is changing at Anthropic Anthropic"
+      },
+      {
+        "id": "R-026#5",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "An update on independent evaluators",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+        "summary": "An update on independent evaluators Anthropic"
+      },
+      {
+        "id": "R-026#6",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Preparing for the 2026 US midterms",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+        "summary": "Preparing for the 2026 US midterms Anthropic"
+      },
+      {
+        "id": "R-026#7",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Singapore office and government MOU",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+        "summary": "Singapore office and government MOU Anthropic"
+      },
+      {
+        "id": "R-026#8",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Redesigning source control at Anthropic",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
+        "summary": "Redesigning source control at Anthropic Anthropic"
+      },
+      {
+        "id": "R-026#9",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-12",
+        "title": "Strengthening our defenses against distillation attacks",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
+        "summary": "Strengthening our defenses against distillation attacks Anthropic"
+      },
+      {
+        "id": "R-026#10",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-09",
+        "title": "Investigating unintended model actions in our evaluations and internal use",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
+        "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic"
+      },
+      {
+        "id": "R-027#1",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "publisher": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
+        "summary": "Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch"
+      },
+      {
+        "id": "R-027#2",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "publisher": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5",
+        "summary": "Replit makes OpenAI its default over Anthropic, CEO says TechCrunch"
+      },
+      {
+        "id": "R-027#3",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic's Claude Improves Quantum Optimization Designs",
+        "publisher": "Quantum Zeitgeist",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQndneXNOQV9MclRCTzNYLU8wang0VVJ6S25yNk5GN0t0RThPRGdrUmQ3NHRnZFNRaVotR09WSTdldUNsVEhDdnNYVFY1UkdacXVHRF9hUlpmR0V3NFliandVME1VSXdKNGxxR0FjOFhMeWpBYzlUdWZZREJPT1FqdlJYQQ?oc=5",
+        "summary": "Anthropic's Claude Improves Quantum Optimization Designs Quantum Zeitgeist"
+      },
+      {
+        "id": "R-027#4",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic\u2019s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+        "publisher": "The Quantum Insider",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYURjUkQ4Wk91LUpUaXNlYmdUS0Q3UmNFTUFvSEN5c1pYRUx2NXgwTmhUQS16MV9oLW9ZNmJJR2laeGwxRFlxMmtxZUVkaGR3dHlocUlYMFpKYVkzbzNHYUJ2WFUtcnNQVDhuSHQxTTdkUi1vYXR3SVZQOXJkVmhXeVB4Z1BlSDZVRE9XaWZ6YWt0TWFiQmlieklTMnZDdGJLbDdXTzNKc3VnSEhwRW5IaUxFeUdtQ2R1NS0wSVdHNHA2bmNTWUgxTmF6Y1lmc0t4a0gxcg?oc=5",
+        "summary": "Anthropic\u2019s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations The Quantum Insider"
+      },
+      {
+        "id": "R-027#5",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Some Accenture employees spent $1,000 a month on Anthropic\u2019s Claude AI, company will now centrally fund $",
+        "publisher": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXpERy1xQkZsdG5FbVJaVENMLVMyZXNUbWNqb2ZHb2hkUkRBdWNwclQ0LTF0RkE0V2ttUndxVXFuZVBsNk81UnlmX2tETWdaX1FaOFZRSzVuRW1MZ01WQVpqeUNLc25WOXp2bWQyV0RyOHJtbXk0UHoxeFVNaG5SYS1TaVItb0F2MklMS0hKREpvd1doUm5QS09xblZBUG95QkJCY3dOWXdTekZncVVlUjFxS3FUaHM0MGUxQWdrZ3FhVDZmYjg1bHl4Y3NuYnNkZU5hZ0JTbzh1VS1LR0tQa0I0Z2J5V1B2ckpROEtGeklYT3A0MFdQRy1hNmNrUGhYcE1UU0gzZ1NKTjBPSm5fQW5hdlZ2SVVxVzlWaEtaWTNsbmc0TFFTa0VKYll5Q2xPMGlv0gG4AkFVX3lxTE9kUzc5YnVxUEZQcDBWRlZxS0RyNTk0b1RRdFZPZm1NWV9tMjk4Wkg2bUFXeW1uQ18xcm5vaEtVZU9jNW5Ub25vN3l3OTJlbGNnZm5RUnFNWURiVThJa0NodG9DbU55bXZTNkNfTHFNaEZMUmFlY1hpWXp0MXRUa0h2ZW5HUTQxUm15NXd2YTk1SmExT3Bhb2ZkQWtfRlBCeWMtbl9lSDZ0RjNURWx2ZnNzN0NCYVVYdTM1MWVQUWo0R0otWWdPc1NfcENqWTlYbHJPX05nVGwweExrRno3MXhCNk50WVdJbzg5ejZJZ0NaSWdhV29rMW05UWlncXpHS250bFZpaHZuSzdJLS1ZQ0JjanE5Y2ZYcUd3VE5OWWdPTVBCUU1rQkFHbmJlN2dpd3h0LXRiUDM4eg?oc=5",
+        "summary": "Some Accenture employees spent $1,000 a month on Anthropic\u2019s Claude AI, company will now centrally fund $ The Times of India"
+      },
+      {
+        "id": "R-027#6",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic\u2019s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes",
+        "publisher": "Cyber Press",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVdRaWZKV2RiQWRJVzFkblZWNDhqYThEdmNTS1M4VGNyUlBXVDFGODZkdVlhQXBCem5wQUpobTRsQ1JEV0docENnbkdmRXgxc1VuZEJpNDVaZ0hwWFpoLV9jZmpReG5SanVuUW1yZEkzdHRreHfSAXZBVV95cUxNcklXUWlmSldkYkFkSVcxZG5WVjQ4amE4RHZjU0tTOFRjclJQV1QxRjg2ZHVZYUFwQnpucEFKaG00bENSRFdHaHBDZ25HZkV4MXNVbmRCaTQ1WmdIcFhaaC1fY2ZqUXhuUmp1blFtcmRJM3R0a3h3?oc=5",
+        "summary": "Anthropic\u2019s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes Cyber Press"
+      },
+      {
+        "id": "R-027#7",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
+        "publisher": "CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5",
+        "summary": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery CoinDesk"
+      },
+      {
+        "id": "R-027#8",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models",
+        "publisher": "Law Commentary",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUpETGxDdXo5QzRMMEdKUko5cWxsQzJSeDhRUUVZYV94Q2RKc1FjV2JaT1hmTUxBanF2WGN5bGFObkdXVTExVV80WFVpY2NfenEzOWFOUnFGbDRkbHBPcjRvcmJkbk5TYVRTV1U5NXNZajRlYVE5TTRKak1zYXNQNjlIUzNmVEw3?oc=5",
+        "summary": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models Law Commentary"
+      },
+      {
+        "id": "R-027#9",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Anthropic Strikes Deal With California To Roll Out Claude Across State Agencies",
+        "publisher": "Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONmduMjJFd0hOV1hiQnFubUQxZXRsS0tkNTB6X0FRSTVOeVZZZHRoeTk2azM1eU5BZTI5NFBwUEl3TzYxYUZMVXhKbC10THFId2VXQldMcFJjM3VaeEExRzdiWmhXdjNsOUlRRmR5aE54U0Z6cjJmWE1QLVJqSnVIM3dTdEF0RExmOTNIdzBmWlFCWTRhS1p4bkUzUjcyUkdTRXlybXFkajFIdVhZY3dEeWhTT3lkNkJsbzFpQ3lxdjhnd1M0WjJ4QzhyN1lCSnJhbmVWaFJnNHIySVE?oc=5",
+        "summary": "Anthropic Strikes Deal With California To Roll Out Claude Across State Agencies Stocktwits"
+      },
+      {
+        "id": "R-027#10",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+        "publisher": "Politico",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+        "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers Politico"
+      },
+      {
+        "id": "R-027#11",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "publisher": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5",
+        "summary": "Replit is no longer working with Anthropic, CEO says TechCrunch"
+      },
+      {
+        "id": "R-027#12",
+        "source_id": "R-027",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Claude solves quantum memory bottleneck with 17x leaner circuit",
+        "publisher": "Interesting Engineering",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVhKaVRPckVaSUJydDEwYU1hWTFDTEMzT2dDbVdjaWlkRmo1aVRyeGxvZktwYU1KQU1nTVcwTHNoWDVfR1h4ZnBkelBJZ3ZrNGRLRFl0SHI4RWZPX2x1QXZpeXV0NTYybjFPS2VGUEhMTmlYaW5jUjVlQmxHbGc4cW9n?oc=5",
+        "summary": "Claude solves quantum memory bottleneck with 17x leaner circuit Interesting Engineering"
+      }
+    ],
+    "Nvidia": [
+      {
+        "id": "R-028#1",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-17",
+        "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+        "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.\u00c2 Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, con"
+      },
+      {
+        "id": "R-028#2",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "NVIDIA RTX Spark PCs Available Today \u00e2\u0080\u0094 A New Beginning for Windows PCs",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "summary": "NVIDIA today announced the availability of NVIDIA RTX Spark\u00e2\u0084\u00a2 laptops, bringing together RTX graphics and NVIDIA\u00e2\u0080\u0099s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u00e2\u0080\u0094 rolling out from ASUS, Dell, HP, Lenovo, "
+      },
+      {
+        "id": "R-028#3",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+        "summary": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems."
+      },
+      {
+        "id": "R-028#4",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+        "summary": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the companies\u00e2\u0080\u0099 decade-long collaboration."
+      },
+      {
+        "id": "R-028#5",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+        "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u00e2\u0080\u0094 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your f"
+      },
+      {
+        "id": "R-028#6",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+        "summary": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe\u00e2\u0080\u0099s flagship tools including Adobe Photoshop,"
+      },
+      {
+        "id": "R-028#7",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+        "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence "
+      },
+      {
+        "id": "R-028#8",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+        "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games\u00e2\u0080\u0099 Enshrouded leaves early acces"
+      },
+      {
+        "id": "R-028#9",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "NVIDIA Expands Advanced Technology Access for Europe\u00e2\u0080\u0099s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+        "summary": "Much of today\u00e2\u0080\u0099s scientific progress begins with computation.\u00c2 But turning accelerated computing\u00e2\u0080\u0099s potential into scientific progress \u00e2\u0080\u0094 modeling climate systems, designing molecules, simulating materials and more \u00e2\u0080\u0094 depends on more than breakthrough technology. Especially f"
+      },
+      {
+        "id": "R-028#10",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "The Nordics and NVIDIA Show What\u00e2\u0080\u0099s Possible When a Region Commits to Advanced Computing",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+        "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe\u00e2\u0080\u0099s most conseq"
+      },
+      {
+        "id": "R-028#11",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+        "summary": "NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X\u00e2\u0084\u00a2 libraries \u00e2\u0080\u0094 including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact \u00e2\u0080\u0094 to advance AI-defined fabs."
+      },
+      {
+        "id": "R-028#12",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "From Enterprise to Earthshot: UK\u00e2\u0080\u0099s Ecosystem Moves From Ambition to Application With NVIDIA",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+        "summary": "Across industries, the U.K. is putting the full stack to work \u00e2\u0080\u0094 and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet\u00e2\u0080\u0099s hardest problems. NVIDIA is putting that principle into practice, including thr"
+      },
+      {
+        "id": "R-029#1",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 Yahoo Finance"
+      },
+      {
+        "id": "R-029#2",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVRSbXJ5dXFLUk1KSlVmWkV4aUsyZERTdGw2MUtmWnB0NWUtMmlZLXJKVWNOTTgxV2tqdUtsUWRXQ2FYSU5vaDRob2ZTRlJ0OWtxUTJNOW44SWttLTNwR0FBR0lJZC1FWl9sd3lqSWNDUnBTRy1BRktlNTRONHJVNXZBQ3Fyb01Hb2NMTERaQ1NOSW8?oc=5",
+        "summary": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall? Yahoo Finance"
+      },
+      {
+        "id": "R-029#3",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmRzOE1YSUFRVVg0bC16VmpoSldEcEJOTDdhR3JHUUU3NlpIYzJ6eU1KR3hPZmFuR0czUHFidzBVOVJhSmUzVkhFeW03aS02RHN5bXZSc0JtQ3lNeG1ESklUVmg3bmowOFdqUUpzbnNBLWd4MGV0SE1LdFh6NWJaUmt4Z1ZiUmZQREVIMEtPRHFwQnRiRWc?oc=5",
+        "summary": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown? Yahoo Finance"
+      },
+      {
+        "id": "R-029#4",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0RqY1JjcXVtOWFoM2F2ZmRINWluWTJqV2UyQU5UaldWN1ozeDhrMHV0X280WWIzYlU5dTVRUTFwbDB1OXJZc3ZHeU9zRWhMOV90dlZYQkFyR0ViSXRRbTQxbjFDQ1MwNXlrTTh6Vld2clBiS256VlR4UkNKUTRWbUZjcjBSTWZBZ1pWZ3ZRa1MydEQ3cHowaA?oc=5",
+        "summary": "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk? Yahoo Finance"
+      },
+      {
+        "id": "R-029#5",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now?",
+        "publisher": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGstRGFLTlV4Yk5ic3FHQmdNY3dYVEY3ZThXa2dZU3RNN2NZVUZzWmRUWXFIcFNLSUZ2TVJ0SEViM0pOdWlaQzZxOFY0UnFMalN0Y3JWTlhmSFFPY2E1d0pkb05YOXp4VGlnWm9xV3RsODNPT3dvekNqT1B0OWNfYjhrZkl4b0N6cHJMcHpNYmc1dw?oc=5",
+        "summary": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now? TIKR.com"
+      },
+      {
+        "id": "R-029#6",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGZEQ0JvTzRSdEFDNUUtWTlJVFNUNmpjZEFBX3A5bTNuekxoOTQwSFdfankzYnRjd2xubWdhdVFCU19BNWVQMGZJOVlEdlU2RVAxaUZrd2N6eHRmeXNwdjU5VVUwQXAtV0czQ243eXVWY0MyRGI2RjlyZzdlYS11andGSUVhTk5tdDhSd2N6em9xcmlSRHc?oc=5",
+        "summary": "Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day Yahoo Finance"
+      },
+      {
+        "id": "R-029#7",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "NVIDIA Risk Is Rising So These US Large Cap Stocks Look Worth A Closer Look",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcXdNVDltVWQzUmNGWmRRVzFpWHhqeS1nVmtSdnJETlBsQXhPd0FraFFqTFFucThPOTdmSGd4REEzNklHMzd2N2x3cVJDU1FMTDM0SVdpMkxTSFRTNnQyQ2Z6bHNlVzZ0SnMwY3RaNVpPenVNSUlza0huX1JKU2NBU1ZSTkd6dG1xYjZrSDMwQ2JsZW1rcGFn?oc=5",
+        "summary": "NVIDIA Risk Is Rising So These US Large Cap Stocks Look Worth A Closer Look Yahoo Finance"
+      },
+      {
+        "id": "R-029#8",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN?oc=5",
+        "summary": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. The Motley Fool"
+      },
+      {
+        "id": "R-029#9",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkU3S24zUXVBZEFrZEhJdEk2UU1OZ29BZHJXS0xyOFBRY2ZRdXdITjIyaVo3X256cXJmVHZUVUY1MGRhTnZZdERoUG5OMEI3UDFFVjFGR1ZTUVEyOTI3VEpyQmFnODgwUXFCQzlNTkQtQmlxTGI5RnhUVGF1cEVocHpzcnJ2VUs0WmhXWmdCY1cxRDljN1JwV21R?oc=5",
+        "summary": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now Yahoo Finance"
+      },
+      {
+        "id": "R-029#10",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUx0aVowcldxZUptbXVWRC1QbWxSWEJJc2VDOFk3eV9HQWlSemRwcVBlVUFSUUluZDNodEY2RGVwS3VHeWxkdHZuSF96eTRkNFRNaVlNUXE1UUJxdDVWem5jNVVMeW5MbnoxYUdKSk43MkpqUmVPWlpDNkFlUW56cmprU0JfdWk3NGRCWVI1N3VTeVNTZGVkSw?oc=5",
+        "summary": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. The Motley Fool"
+      },
+      {
+        "id": "R-029#11",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw?oc=5",
+        "summary": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? The Motley Fool"
+      },
+      {
+        "id": "R-029#12",
+        "source_id": "R-029",
+        "tier": "2",
+        "date": "2026-10-16",
+        "title": "Nvidia and Apple Each Gave $25 Million to Trump\u2019s White House Ballroom",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxtLVRyeVpQZXdsNnp1UGtTLThzS2NkU1Z3bnI3UkhjZ08teDFVUnJMNWxKMkJhaDhSS0FsVWRVXzhCQUJBeWVWazVpUGdVeXVfZWlBUDRVaGNhcXdkNktJWUhKTHgxYWdpaVRQUkp4WFE5a1JXMERieDNyWUVWS0JURFRNSWhsNWdwSmtyRkp5NnpKa2xGVA?oc=5",
+        "summary": "Nvidia and Apple Each Gave $25 Million to Trump\u2019s White House Ballroom Yahoo Finance"
+      }
+    ],
+    "Apple": [
+      {
+        "id": "R-030#1",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Open up to new possibilities with iPhone Duo",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#2",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "B\u00fcnyamin Ayd\u0131n\u2019s new collection, \u201cFrom Earth to Sky,\u201d soars with iPad Pro",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#3",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#4",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#5",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Apple announces the next generation of HomePod mini",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#6",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#7",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-12",
+        "title": "App Store Indie Games Week kicks off today",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+        "summary": ""
+      },
+      {
+        "id": "R-031#1",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc.",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXpRaFlpbDJDcndvbjN0dlF5V1RnanlBQTZnNzNKU3BIVWpVM04yZ1FGejNEYnhoZkVSSGZTUF9NYTRWa1Zwa041QklFWm9rWTg3X1k1Y2xDRExoeEczajN2akpnMHhTZ25UWnBiRExVNngzTTNONUVoUmNtTnEyUFppR0NvWU5Rb0RHdjR2ODBIeHBUa0FYMG1lTEZXTmIyb0g0OGFOMnN2ODQ5WmR2cGFhMUJSMjlOTUxicU9QTzFnQQ?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc. MarketBeat"
+      },
+      {
+        "id": "R-031#2",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Apple Inc. $AAPL Stock Purchased by Bonness Enterprises Inc.",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEYwOW9OV3hlSGExWkR5R2xXZ3hTT1pTem9jNmJOVjZyMEpuTFNLZF9idExTeHJGMkJ6TmZaTnFrX21SX25vRUxFVENDeVFhcEs4MktyQ1M1bVp4QXJ4NGpIWGpadE9rSHZPakllc0hkN0k2S2dKanBhZnZfVTI3RXc1Z2NpSFFySHNyNk0ySHduOEI1dnRSZkc2U2xlejVxMXQ3Y2JSaV9hRjhEdDV4eEVPN2lyMFM2RWc?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Purchased by Bonness Enterprises Inc. MarketBeat"
+      },
+      {
+        "id": "R-031#3",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Apple Inc. $AAPL Stock Holdings Cut by Factor Wealth Management LTD",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkRIWi1jb25xS2NOUkI0Q1MyZ1oycjc1bTRkTDlueVJHRm9GUjdpUHgyRGlsT0FQY3hsdVJSTVBDVVZPNGdkcmZrb0tydWFCNmdDaTlLM05FVXd5MDNNUXFkQzB4a3VCUE5iTy1MQ29HNWZEQno0d3R5NnBJOF9SUUQwTTBzLVZVbldXekFPNmpWelBZWU1QWGN2M21CalBkVkVGSEFtZzhydFplTU1FeVZkXzlQTWR3cndRRVNYNkliVHM3?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Holdings Cut by Factor Wealth Management LTD MarketBeat"
+      },
+      {
+        "id": "R-031#4",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Apple Inc. (AAPL) Stock Forecasts",
+        "publisher": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0p6ZUpBX084emJJRkZkZ2dUaEtpTFZlaHZySVpsQVVNcGxmSlRpTW5icVJZZHQtelNIUHE2dzBWZ2p3Y3R5TVZMV3J6Y2ExS3dFeDU0TG43aml0Vjk2QVJfbldmdUlkRkhtZ1daZ0V4dTBDdXVaWC1qRUU0dWhXY3FuVzRvYnkzNXRsZXBlLU8?oc=5",
+        "summary": "Apple Inc. (AAPL) Stock Forecasts Yahoo! Finance Canada"
+      },
+      {
+        "id": "R-031#5",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
+        "publisher": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFRWVnBKc05PeXFUOUo3MDFUeW01d3h1SFo4UzljUWtON1I3cEdzbHdCSHNieFA1amxJd29BY3dNMWZSaFZjMGowbmNDZG9QYUZCRzVlajJEdTVYelV1Yk9vS18wRDNHTkxIU0JKaW5abFViaHlQbHFpOU9xTTBLVUIzcXI0OF9iTjAtaGZENU92U1JESUxNTTgyQ0FtdDZ2akVNaEh3?oc=5",
+        "summary": "$10,000 Invested in Apple Could Be Worth This Much by 2031 The Motley Fool"
+      },
+      {
+        "id": "R-031#6",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple Inc. $AAPL Stock Position Increased by New Covenant Trust Company N.A.",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ19JckE0ZFUxTFRRdk94VDVHa2VUbEd4WUMzaE1nS3QtZVNXQ1VVYW01REE3bTdOdGh6a0JNNXY2NmIxdEFDYkkyb1U4MmJJcWxuRGtWcWlIdkR6MXYzVUhhYVhWTWNfV0FMOVZ0QWZLc0JBa0JCNjJmblVmbXJqay02RDN4UC1SblIxVFpiSXotN2RDdVh6cFBCWFVHbVRhUjZhdG1mZThtamRYYTRWVHFXUXhOZVFoSHpKc0ZBMkpldjd1aVBBNFlZT0JBUQ?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Position Increased by New Covenant Trust Company N.A. MarketBeat"
+      },
+      {
+        "id": "R-031#7",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple Inc. $AAPL Stock: HWG Holdings LP Raises Stake",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3MyM19UNlZUZDRYVEN0azN1QzA4bjRUVFJzejZUVGVWb0w1MVlTaDdEbjkyVk1zYkJlQzA0dHZYOUZYMzF1NElyc1hDRWprSzhvZnczbXZOOXNvaWM2NVFZUjhkc29nNkRwRFpLSGM5MC1YRllvcGtOeVdQX083TWotak1UUFFfT0E2T1pLRWVXdUh4elR4dk1hZWFiM0M0ZHE0Sk9QaEZZRHo1NDdr?oc=5",
+        "summary": "Apple Inc. $AAPL Stock: HWG Holdings LP Raises Stake MarketBeat"
+      },
+      {
+        "id": "R-031#8",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple Is Ready to Fight Britain Over iPhone Tap-to-Pay. The Fee Is What Matters",
+        "publisher": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnhZYWNuaFY3aF9OdjdHNkRjVnQ1WFNfRFVvbF9zX2NyRVJueTUwdFgtaUhzWWN5UDZEWjZfckhaMGYwdDU3NkZoSEVINXdiSElKU0tNMVdUUWJ3eDdWbldFN0ZiajJMOGZhLU9HVS1ZaDBkRXJQMG9ocFVGNVg3QXpvbUJzRzViQW9EUlA3LXA1M1pkLUNIUnRaLVVHZUpvbVBVMUdxWQ?oc=5",
+        "summary": "Apple Is Ready to Fight Britain Over iPhone Tap-to-Pay. The Fee Is What Matters TIKR.com"
+      },
+      {
+        "id": "R-031#9",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
+        "publisher": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZkhzUlpNNktLaDlYOGRwblFBN0h0TzBSc1FZbjRXelF5Ym5hT2lINHlqMU9EbW9hdi1HYzUzNmFtZDhPTDhWVWNrSWNqODdIZklRNHpLUnVxekxOYWpWVy1WcmU2Y2J0cmtGVHExVkF4TTJ4bGw0b21pTkVxOWVzMjY5NGt3b1dIamkzUEkwMmpiQ3JmWG9CYUtjcHFNUXktc0hldzFqcWFOOUJFNnBlWFFrNGN1MlNvMWtYWDlXRjJub3dLdWtrOGdnTmtjVlFsdk5NSlJCYXRfN1B6aEtKOTFiLU5VSlNtNGxFOVFEM2M2RmY4eTJQOG5jYThMSTFrYVJwcUU1c1NmX3ZPNVpJZGxUVFJlQQ?oc=5",
+        "summary": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch TradingView"
+      },
+      {
+        "id": "R-031#10",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple Inc. $AAPL Stock Sold by Chickasaw Capital Management LLC",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclVJVHdndHlCNGxGTUdPZVBRX2g2bnZIUDZwMTFFenlQRkplNDBCMjBpb2xGZGMyY1Z5YUlaQzFPSHFfcUVWMnJQTkl6c21uQWR3SzBkZHRqd1VTNVJHMWtCWV9QZG1ZRXJyVjl3eVF5X1U5bkh6Q3ZjNVVSUEZwUkZnRVBTNGgwYTFnT3NRaHlQR2JhUHFKc2l5aHdJazNoS29DYTRwZ1ZzTE1XSlBHYnBJSnVWNDdxbEZnY2V5OA?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Sold by Chickasaw Capital Management LLC MarketBeat"
+      },
+      {
+        "id": "R-031#11",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "Apple Inc. (AAPL) - What Are Researchers Saying About This Stock?",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmVQdkFoamhHTWxpM19WSk8wdWJyWnhxaldmRDV4Z0JZTHJMUFYwdmJzaHlKN3FNNkIzMU5pRmpxRHJfOFk5SFV4dWlPTVZtMDBWTnNSX2pEbXNRNVpJUmJRRWVVOE5ULTVIbnp3SklhRzU0M1BHZnlDUWVEeHJRMGdSSkxUMGtseEFfRk9icW5ZUnJGU052emZWUlp4dFpHbkVpazNJMzB5VDhlMkh1RWN5VW12VzRKRE92MkJnX08?oc=5",
+        "summary": "Apple Inc. (AAPL) - What Are Researchers Saying About This Stock? MarketBeat"
+      },
+      {
+        "id": "R-031#12",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-17",
+        "title": "What Apple Holders Bought Into",
+        "publisher": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdURUR19mZmFvd0ZnS2NZOWF2NmlBZlQwX0ZPeXdWOWZHWUpVQktwR1JMcC03WlFxOTVDRG5taDlnak5XZ0djN2R1eVRzUXZKa0pna1hsNU5vUlJjWXFGZnJaemJudTZqUm9VeG14SGw4OHFhQzFIODZjOWg5MlY1VkxNUXZwZklILVF6dDdR?oc=5",
+        "summary": "What Apple Holders Bought Into Yahoo Finance"
+      }
+    ]
+  }
+}

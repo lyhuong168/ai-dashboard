@@ -1,0 +1,948 @@
+{
+  "generated_at": "2026-10-18 01:02",
+  "as_of": "2026-10-18",
+  "mode": "real",
+  "llm": true,
+  "cost_usd": 0.0303,
+  "dropped": [],
+  "week_ahead": [
+    {
+      "note": "No events for the five companies are scheduled between 2026-10-18 and 2026-10-25."
+    },
+    {
+      "company": "Google",
+      "type": "earnings",
+      "date": "2026-10-28",
+      "days_until": 10,
+      "what": "Alphabet Q3 2026 results and conference call (1:30pm PT)",
+      "status": "confirmed",
+      "source_id": "R-020",
+      "bucket": "after window"
+    },
+    {
+      "company": "Apple",
+      "type": "earnings",
+      "date": "2026-11-02",
+      "days_until": 15,
+      "what": "Apple fiscal Q4 2026 results and conference call (2:00pm PT)",
+      "status": "reported",
+      "source_id": "R-021",
+      "bucket": "after window"
+    },
+    {
+      "company": "OpenAI",
+      "type": "promo_end",
+      "date": "2026-11-21",
+      "days_until": 34,
+      "what": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026",
+      "status": "confirmed",
+      "source_id": "R-002",
+      "bucket": "after window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2026-12-01",
+      "days_until": 44,
+      "what": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "after window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2026-12-01",
+      "days_until": 44,
+      "what": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "after window"
+    }
+  ],
+  "next_events": [
+    {
+      "company": "Google",
+      "type": "earnings",
+      "date": "2026-10-28",
+      "days_until": 10,
+      "what": "Alphabet Q3 2026 results and conference call (1:30pm PT)",
+      "status": "confirmed",
+      "source_id": "R-020",
+      "bucket": "in window"
+    },
+    {
+      "company": "Apple",
+      "type": "earnings",
+      "date": "2026-11-02",
+      "days_until": 15,
+      "what": "Apple fiscal Q4 2026 results and conference call (2:00pm PT)",
+      "status": "reported",
+      "source_id": "R-021",
+      "bucket": "in window"
+    },
+    {
+      "company": "OpenAI",
+      "type": "promo_end",
+      "date": "2026-11-21",
+      "days_until": 34,
+      "what": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026",
+      "status": "confirmed",
+      "source_id": "R-002",
+      "bucket": "in window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2026-12-01",
+      "days_until": 44,
+      "what": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "in window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2026-12-01",
+      "days_until": 44,
+      "what": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "in window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2027-01-01",
+      "days_until": 75,
+      "what": "gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "after window"
+    },
+    {
+      "company": "Google",
+      "type": "price_change",
+      "date": "2027-01-01",
+      "days_until": 75,
+      "what": "gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens",
+      "status": "confirmed",
+      "source_id": "R-001",
+      "bucket": "after window"
+    }
+  ],
+  "guidance": [
+    {
+      "company": "Nvidia",
+      "period": "FY2026Q4",
+      "guided_mid_musd": 65000.0,
+      "range_musd": [
+        63700.0,
+        66300.0
+      ],
+      "issued": "2025-11-19",
+      "guidance_source": "A-024",
+      "actual_musd": 68127.0,
+      "actual_source": "A-023",
+      "vs_midpoint_pct": 4.81,
+      "result": "above the guided range"
+    },
+    {
+      "company": "Nvidia",
+      "period": "FY2027Q1",
+      "guided_mid_musd": 78000.0,
+      "range_musd": [
+        76440.0,
+        79560.0
+      ],
+      "issued": "2026-02-25",
+      "guidance_source": "A-023",
+      "actual_musd": 81615.0,
+      "actual_source": "A-022",
+      "vs_midpoint_pct": 4.63,
+      "result": "above the guided range"
+    },
+    {
+      "company": "Nvidia",
+      "period": "FY2027Q2",
+      "guided_mid_musd": 91000.0,
+      "range_musd": [
+        89180.0,
+        92820.0
+      ],
+      "issued": "2026-05-20",
+      "guidance_source": "A-022",
+      "actual_musd": 96221.0,
+      "actual_source": "A-021",
+      "vs_midpoint_pct": 5.74,
+      "result": "above the guided range"
+    },
+    {
+      "company": "Nvidia",
+      "period": "FY2027Q3",
+      "guided_mid_musd": 108000.0,
+      "range_musd": [
+        105840.0,
+        110160.0
+      ],
+      "issued": "2026-08-26",
+      "guidance_source": "A-021",
+      "result": "pending (not reported yet)"
+    }
+  ],
+  "moves": [
+    {
+      "ticker": "AAPL",
+      "as_of": "2026-10-16",
+      "close": 343.46,
+      "chg_1d_pct": 0.43,
+      "chg_5d_pct": 2.03,
+      "chg_1m_pct": 1.92,
+      "range_52w": [
+        246.63,
+        343.46
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "as_of": "2026-10-16",
+      "close": 340.59,
+      "chg_1d_pct": -2.47,
+      "chg_5d_pct": -3.15,
+      "chg_1m_pct": -1.94,
+      "range_52w": [
+        250.46,
+        402.62
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "as_of": "2026-10-16",
+      "close": 214.13,
+      "chg_1d_pct": -1.43,
+      "chg_5d_pct": -6.61,
+      "chg_1m_pct": -2.38,
+      "range_52w": [
+        165.17,
+        239.24
+      ]
+    }
+  ],
+  "overall": [
+    {
+      "text": "No events for Google, OpenAI, Anthropic, Nvidia, and Apple are scheduled between 2026-10-18 and 2026-10-25.",
+      "cites": [
+        "ALL-F1"
+      ]
+    },
+    {
+      "text": "Google's next scheduled earnings report is on 2026-10-28, and Apple's is on 2026-11-02, though Apple's date is not yet confirmed by the company.",
+      "cites": [
+        "ALL-F2"
+      ]
+    }
+  ],
+  "companies": {
+    "Google": {
+      "headline": "Google to increase token prices for Gemini models.",
+      "bullets": [
+        {
+          "text": "Google's latest reported quarter FY2026Q2 revenue was $119.8 billion, up 24% year over year.",
+          "cites": [
+            "GOO-F2"
+          ]
+        },
+        {
+          "text": "Google will increase the input and output prices for its Gemini models on 2026-12-01 and 2027-01-01.",
+          "cites": [
+            "GOO-F4",
+            "GOO-F5",
+            "GOO-F6",
+            "GOO-F7"
+          ]
+        },
+        {
+          "text": "Google's stock closed at $340.59 on 2026-10-16, down 2.47% over one day.",
+          "cites": [
+            "GOO-F1"
+          ]
+        }
+      ]
+    },
+    "OpenAI": {
+      "headline": "OpenAI faces legal challenges and revenue estimate cut.",
+      "bullets": [
+        {
+          "text": "OpenAI's GPT-5.6 Sol promotional pricing is available at least through November 21, 2026.",
+          "cites": [
+            "OPE-F1"
+          ]
+        },
+        {
+          "text": "OpenAI is facing lawsuits from multiple states, alleging its chatbot is harming children and deceiving adults. (reported by AP News)",
+          "cites": [
+            "R-025#2"
+          ]
+        },
+        {
+          "text": "OpenAI's 2026 revenue estimate was cut by $20 billion, as reported by Yahoo Finance.",
+          "cites": [
+            "R-025#7"
+          ]
+        }
+      ]
+    },
+    "Anthropic": {
+      "headline": "Anthropic expands Claude's capabilities and workforce changes.",
+      "bullets": [
+        {
+          "text": "Anthropic is designing more efficient quantum circuits with its Claude AI.",
+          "cites": [
+            "R-026#1"
+          ]
+        },
+        {
+          "text": "Anthropic's workforce has become less junior and is spending more time in meetings, as reported by TechCrunch.",
+          "cites": [
+            "R-027#1"
+          ]
+        },
+        {
+          "text": "Anthropic's Claude AI solved a 25-year-old NSA cryptography mystery in under 30 minutes. (reported by Cyber Press)",
+          "cites": [
+            "R-027#6"
+          ]
+        }
+      ]
+    },
+    "Nvidia": {
+      "headline": "Nvidia expands partnerships and launches new products.",
+      "bullets": [
+        {
+          "text": "Nvidia's latest reported quarter FY2027Q2 revenue was $96.2 billion, up 106% year over year.",
+          "cites": [
+            "NVI-F2"
+          ]
+        },
+        {
+          "text": "Nvidia announced the availability of RTX Spark laptops, bringing RTX graphics and AI platform to Windows PCs.",
+          "cites": [
+            "R-028#2"
+          ]
+        },
+        {
+          "text": "Nvidia and Mercedes-Benz expanded their strategic partnership to advance automated driving systems.",
+          "cites": [
+            "R-028#3"
+          ]
+        }
+      ]
+    },
+    "Apple": {
+      "headline": "Apple's stock performance and upcoming earnings report.",
+      "bullets": [
+        {
+          "text": "Apple's latest reported quarter FY2026Q3 revenue was $109.4 billion, up 16% year over year.",
+          "cites": [
+            "APP-F2"
+          ]
+        },
+        {
+          "text": "Apple's stock closed at $343.46 on 2026-10-16, up 0.43% over one day.",
+          "cites": [
+            "APP-F1"
+          ]
+        },
+        {
+          "text": "Apple's fiscal Q4 2026 results are scheduled for 2026-11-02, though not yet confirmed by the company.",
+          "cites": [
+            "APP-F3"
+          ]
+        }
+      ]
+    }
+  },
+  "evidence": {
+    "R-027#1": {
+      "text": "2026-10-17 TechCrunch: Anthropic says its workforce has become less junior and is spending more time in meetings. Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch",
+      "tier": "2",
+      "source_id": "R-027",
+      "kind": "news",
+      "company": "Anthropic",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "publisher": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
+      "date": "2026-10-17"
+    },
+    "R-025#2": {
+      "text": "2026-10-16 AP News: States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults. States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults AP News",
+      "tier": "2",
+      "source_id": "R-025",
+      "kind": "news",
+      "company": "OpenAI",
+      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+      "publisher": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+      "date": "2026-10-16"
+    },
+    "APP-F1": {
+      "text": "AAPL closed at $343.46 on 2026-10-16 (+ 0.43% over 1 day, +2.03% over 5 trading days, +1.92% over about a month); 52-week range $246.63 to $343.46 (Yahoo Finance market data).",
+      "tier": "2",
+      "source_id": "A-003",
+      "kind": "price",
+      "company": "Apple"
+    },
+    "GOO-F7": {
+      "text": "gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens on 2027-01-01 (confirmed by the company; 75 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "APP-F3": {
+      "text": "Apple fiscal Q4 2026 results and conference call (2:00pm PT) on 2026-11-02 (press-reported, not yet confirmed by the company; 15 days away).",
+      "tier": "2",
+      "source_id": "R-021",
+      "kind": "event",
+      "company": "Apple"
+    },
+    "NVI-F2": {
+      "text": "Latest reported quarter FY2027Q2 revenue was $96.2B, which the company's own release states was up 106% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved +17.9%.",
+      "tier": "1",
+      "source_id": "A-021",
+      "kind": "financials",
+      "company": "Nvidia"
+    },
+    "ALL-F1": {
+      "text": "No events for the five companies are scheduled between 2026-10-18 and 2026-10-25.",
+      "tier": "1",
+      "source_id": "",
+      "kind": "week_ahead",
+      "company": "All"
+    },
+    "GOO-F1": {
+      "text": "GOOGL closed at $340.59 on 2026-10-16 (- 2.47% over 1 day, -3.15% over 5 trading days, -1.94% over about a month); 52-week range $250.46 to $402.62 (Yahoo Finance market data).",
+      "tier": "2",
+      "source_id": "A-001",
+      "kind": "price",
+      "company": "Google"
+    },
+    "R-025#7": {
+      "text": "2026-10-16 Yahoo Finance: OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.. OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion. Yahoo Finance",
+      "tier": "2",
+      "source_id": "R-025",
+      "kind": "news",
+      "company": "OpenAI",
+      "title": "OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.",
+      "publisher": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbl9raElBTHVoeFh2QnhxeDZ1ODhEVzEySHFNdEEzcmE3VHRnVFBYQWg5SlpIS0hFMXdHX1VaSHdoTXFZTDB1MHJDQUU3WktGTWdEVlF3LXlDZ1djSTdRbVFxMG9zLTVpdXVTYmRVNEhNcUw0QWUySjNwVGUxS2drNFBOVzNtVF8tSVdOU0RLQ0RIT3ZIUWJGcGJoSnJ3NHM?oc=5",
+      "date": "2026-10-16"
+    },
+    "GOO-F4": {
+      "text": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens on 2026-12-01 (confirmed by the company; 44 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "GOO-F5": {
+      "text": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens on 2026-12-01 (confirmed by the company; 44 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "APP-F2": {
+      "text": "Latest reported quarter FY2026Q3 revenue was $109.4B, which the company's own release states was up 16% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved -1.6%.",
+      "tier": "1",
+      "source_id": "A-017",
+      "kind": "financials",
+      "company": "Apple"
+    },
+    "ALL-F2": {
+      "text": "Next scheduled earnings: Google on 2026-10-28 (confirmed by the company); Apple on 2026-11-02 (press-reported, not yet confirmed by the company).",
+      "tier": "1",
+      "source_id": "R-020,R-021",
+      "kind": "week_ahead",
+      "company": "All"
+    },
+    "GOO-F6": {
+      "text": "gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens on 2027-01-01 (confirmed by the company; 75 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "R-026#1": {
+      "text": "2026-10-16 Anthropic: Designing more efficient quantum circuits with Claude. Designing more efficient quantum circuits with Claude Anthropic",
+      "tier": "1",
+      "source_id": "R-026",
+      "kind": "news",
+      "company": "Anthropic",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "publisher": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+      "date": "2026-10-16"
+    },
+    "OPE-F1": {
+      "text": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026 on 2026-11-21 (confirmed by the company; 34 days away).",
+      "tier": "1",
+      "source_id": "R-002",
+      "kind": "event",
+      "company": "OpenAI"
+    },
+    "R-028#3": {
+      "text": "2026-10-16 NVIDIA Newsroom: Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade. Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
+      "tier": "1",
+      "source_id": "R-028",
+      "kind": "news",
+      "company": "Nvidia",
+      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+      "publisher": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+      "date": "2026-10-16"
+    },
+    "R-028#2": {
+      "text": "2026-10-16 NVIDIA Newsroom: NVIDIA RTX Spark PCs Available Today \u00e2\u0080\u0094 A New Beginning for Windows PCs. NVIDIA today announced the availability of NVIDIA RTX Spark\u00e2\u0084\u00a2 laptops, bringing together RTX graphics and NVIDIA\u00e2\u0080\u0099s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u00e2\u0080\u0094 rolling out from ASUS, Dell, HP, Lenovo, ",
+      "tier": "1",
+      "source_id": "R-028",
+      "kind": "news",
+      "company": "Nvidia",
+      "title": "NVIDIA RTX Spark PCs Available Today \u00e2\u0080\u0094 A New Beginning for Windows PCs",
+      "publisher": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "date": "2026-10-16"
+    },
+    "GOO-F2": {
+      "text": "Latest reported quarter FY2026Q2 revenue was $119.8B, which the company's own release states was up 24% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved +9.0%.",
+      "tier": "1",
+      "source_id": "A-007",
+      "kind": "financials",
+      "company": "Google"
+    },
+    "R-027#6": {
+      "text": "2026-10-17 Cyber Press: Anthropic\u2019s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes. Anthropic\u2019s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes Cyber Press",
+      "tier": "2",
+      "source_id": "R-027",
+      "kind": "news",
+      "company": "Anthropic",
+      "title": "Anthropic\u2019s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes",
+      "publisher": "Cyber Press",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVdRaWZKV2RiQWRJVzFkblZWNDhqYThEdmNTS1M4VGNyUlBXVDFGODZkdVlhQXBCem5wQUpobTRsQ1JEV0docENnbkdmRXgxc1VuZEJpNDVaZ0hwWFpoLV9jZmpReG5SanVuUW1yZEkzdHRreHfSAXZBVV95cUxNcklXUWlmSldkYkFkSVcxZG5WVjQ4amE4RHZjU0tTOFRjclJQV1QxRjg2ZHVZYUFwQnpucEFKaG00bENSRFdHaHBDZ25HZkV4MXNVbmRCaTQ1WmdIcFhaaC1fY2ZqUXhuUmp1blFtcmRJM3R0a3h3?oc=5",
+      "date": "2026-10-17"
+    }
+  },
+  "headlines": {
+    "Google": [
+      {
+        "id": "R-022#1",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "We\u2019re sharing 3 tips to study smarter with Gemini Notebook.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+        "summary": "Master your exams with Google Gemini Notebook\u2019s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google."
+      },
+      {
+        "id": "R-022#2",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+        "summary": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware."
+      },
+      {
+        "id": "R-022#3",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Check if a text message is a scam using Circle to Search.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+        "summary": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works."
+      },
+      {
+        "id": "R-022#4",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "How we're helping the world prepare for natural disasters",
+        "publisher": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+        "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster."
+      },
+      {
+        "id": "R-022#5",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Android earthquake alerts now available in more than 200 regions",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+        "summary": "Android earthquake alerts are now available in more than 200 countries and regions."
+      },
+      {
+        "id": "R-022#6",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "400 publications are now partnering with us on our News AI pilot program.",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+        "summary": "People\u2019s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we\u2019re evolving our pa\u2026"
+      },
+      {
+        "id": "R-022#7",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "More ways to connect with the web from Search",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+        "summary": "We\u2019re updating AI Mode and AI Overviews to include clearer links, context about sources, and more."
+      },
+      {
+        "id": "R-022#8",
+        "source_id": "R-022",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Making your Pixel devices last longer through design, repair, and reuse",
+        "publisher": "Google blog",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+        "summary": "On International Repair Day, we\u2019re highlighting how we design devices for longevity, make repair and reuse more accessible and more."
+      }
+    ],
+    "OpenAI": [
+      {
+        "id": "R-024#1",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "How Ita\u00fa is building generative AI for its entire customer base",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+        "summary": "How Ita\u00fa is building generative AI for its entire customer base OpenAI"
+      },
+      {
+        "id": "R-024#2",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+        "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI"
+      },
+      {
+        "id": "R-024#3",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/benefit-street-partners",
+        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+      },
+      {
+        "id": "R-024#4",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+        "summary": "Bringing GPT-Rosalind to academic research labs OpenAI"
+      },
+      {
+        "id": "R-024#5",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Introducing GPT-6 Sol and Luna",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+        "summary": "Introducing GPT-6 Sol and Luna OpenAI"
+      },
+      {
+        "id": "R-024#6",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Teaching students to think and learn through questions",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      },
+      {
+        "id": "R-024#7",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "publisher": "OpenAI News",
+        "url": "https://openai.com/index/sullivan-cromwell",
+        "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+      },
+      {
+        "id": "R-024#8",
+        "source_id": "R-024",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "publisher": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heWFrdDF4bFBWT2dkOEItbVAyRncyUVZEMmJpQjRRaUdieERpam80UXF4X2otS3hoOS10TnpTSEpraVd6eWFGcDl4RkpWTUpNZ3N0ZG51Ulk5UUgwcGotQQ?oc=5",
+        "summary": "How Block is building AI-powered security with OpenAI technology OpenAI"
+      }
+    ],
+    "Anthropic": [
+      {
+        "id": "R-026#1",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+        "summary": "Designing more efficient quantum circuits with Claude Anthropic"
+      },
+      {
+        "id": "R-026#2",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Claude reveals ECDSA curve origins",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
+        "summary": "Claude reveals ECDSA curve origins Anthropic"
+      },
+      {
+        "id": "R-026#3",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "The AI expectations gap",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+        "summary": "The AI expectations gap Anthropic"
+      },
+      {
+        "id": "R-026#4",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "How employment is changing at Anthropic",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
+        "summary": "How employment is changing at Anthropic Anthropic"
+      },
+      {
+        "id": "R-026#5",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "An update on independent evaluators",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+        "summary": "An update on independent evaluators Anthropic"
+      },
+      {
+        "id": "R-026#6",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Preparing for the 2026 US midterms",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+        "summary": "Preparing for the 2026 US midterms Anthropic"
+      },
+      {
+        "id": "R-026#7",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "Singapore office and government MOU",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+        "summary": "Singapore office and government MOU Anthropic"
+      },
+      {
+        "id": "R-026#8",
+        "source_id": "R-026",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Redesigning source control at Anthropic",
+        "publisher": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
+        "summary": "Redesigning source control at Anthropic Anthropic"
+      }
+    ],
+    "Nvidia": [
+      {
+        "id": "R-028#1",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-17",
+        "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+        "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.\u00c2 Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, con"
+      },
+      {
+        "id": "R-028#2",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "NVIDIA RTX Spark PCs Available Today \u00e2\u0080\u0094 A New Beginning for Windows PCs",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "summary": "NVIDIA today announced the availability of NVIDIA RTX Spark\u00e2\u0084\u00a2 laptops, bringing together RTX graphics and NVIDIA\u00e2\u0080\u0099s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u00e2\u0080\u0094 rolling out from ASUS, Dell, HP, Lenovo, "
+      },
+      {
+        "id": "R-028#3",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-16",
+        "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+        "summary": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems."
+      },
+      {
+        "id": "R-028#4",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+        "summary": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the companies\u00e2\u0080\u0099 decade-long collaboration."
+      },
+      {
+        "id": "R-028#5",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+        "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u00e2\u0080\u0094 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your f"
+      },
+      {
+        "id": "R-028#6",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+        "summary": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe\u00e2\u0080\u0099s flagship tools including Adobe Photoshop,"
+      },
+      {
+        "id": "R-028#7",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+        "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence "
+      },
+      {
+        "id": "R-028#8",
+        "source_id": "R-028",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+        "publisher": "NVIDIA Newsroom",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+        "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games\u00e2\u0080\u0099 Enshrouded leaves early acces"
+      }
+    ],
+    "Apple": [
+      {
+        "id": "R-030#1",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-15",
+        "title": "Open up to new possibilities with iPhone Duo",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#2",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-14",
+        "title": "B\u00fcnyamin Ayd\u0131n\u2019s new collection, \u201cFrom Earth to Sky,\u201d soars with iPad Pro",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#3",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#4",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#5",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Apple announces the next generation of HomePod mini",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#6",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-13",
+        "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+        "summary": ""
+      },
+      {
+        "id": "R-030#7",
+        "source_id": "R-030",
+        "tier": "1",
+        "date": "2026-10-12",
+        "title": "App Store Indie Games Week kicks off today",
+        "publisher": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+        "summary": ""
+      },
+      {
+        "id": "R-031#1",
+        "source_id": "R-031",
+        "tier": "2",
+        "date": "2026-10-18",
+        "title": "Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc.",
+        "publisher": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXpRaFlpbDJDcndvbjN0dlF5V1RnanlBQTZnNzNKU3BIVWpVM04yZ1FGejNEYnhoZkVSSGZTUF9NYTRWa1Zwa041QklFWm9rWTg3X1k1Y2xDRExoeEczajN2akpnMHhTZ25UWnBiRExVNngzTTNONUVoUmNtTnEyUFppR0NvWU5Rb0RHdjR2ODBIeHBUa0FYMG1lTEZXTmIyb0g0OGFOMnN2ODQ5WmR2cGFhMUJSMjlOTUxicU9QTzFnQQ?oc=5",
+        "summary": "Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc. MarketBeat"
+      }
+    ]
+  }
+}

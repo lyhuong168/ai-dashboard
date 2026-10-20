@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-10-18 01:02:38",
+  "mode": "real",
+  "collectors": {
+    "filings": "ok",
+    "prices": "ok",
+    "financials_from_releases": "ok",
+    "pricing_pages": "ok",
+    "announcements": "ok",
+    "market_news": "ok",
+    "outlook": "ok"
+  },
+  "validation": {
+    "ok": true,
+    "output": [
+      "  token_pricing.csv            10 rows",
+      "  partnerships.csv             37 rows",
+      "  events.csv                   7 rows",
+      "  guidance.csv                 5 rows",
+      "",
+      "OK: 0 error(s), 0 warning(s)"
+    ]
+  },
+  "tables": {
+    "financials": 60,
+    "stock_prices": 1503,
+    "token_pricing": 10,
+    "partnerships": 37,
+    "events": 7,
+    "guidance": 5
+  },
+  "sources": [
+    "A-001",
+    "A-002",
+    "A-003",
+    "A-004",
+    "A-005",
+    "A-006",
+    "A-007",
+    "A-008",
+    "A-009",
+    "A-010",
+    "A-011",
+    "A-012",
+    "A-013",
+    "A-014",
+    "A-015",
+    "A-016",
+    "A-017",
+    "A-018",
+    "A-019",
+    "A-020",
+    "A-021",
+    "A-022",
+    "A-023",
+    "A-024",
+    "R-001",
+    "R-002",
+    "R-003",
+    "R-004",
+    "R-005",
+    "R-006",
+    "R-007",
+    "R-008",
+    "R-009",
+    "R-010",
+    "R-011",
+    "R-012",
+    "R-013",
+    "R-014",
+    "R-015",
+    "R-016",
+    "R-017",
+    "R-018",
+    "R-019",
+    "R-020",
+    "R-021",
+    "R-022",
+    "R-023",
+    "R-024",
+    "R-025",
+    "R-026",
+    "R-027",
+    "R-028",
+    "R-029",
+    "R-030",
+    "R-031"
+  ],
+  "sources_without_document": [
+    "A-001",
+    "A-002",
+    "A-003"
+  ],
+  "embedder": "text-embedding-3-small",
+  "index": {
+    "chunks": 3447,
+    "embedded": 60,
+    "reused": 3387,
+    "added": 60,
+    "removed": 4
+  },
+  "verification": {
+    "confirmed": 91,
+    "not_found": 0,
+    "no_document": 0,
+    "checked": 91,
+    "tier2_rows": 1
+  },
+  "problems": [],
+  "brief": {
+    "llm": true,
+    "bullets": 17,
+    "dropped": 0
+  },
+  "crosscheck": {
+    "agrees": 36,
+    "differs": 0,
+    "no_independent_source": 24
+  },
+  "crosscheck_problems": [],
+  "cost": {
+    "total_usd": 0.358312,
+    "cap_usd": 2.0,
+    "by_model": {
+      "gpt-4o-mini": {
+        "calls": 12,
+        "in_tokens": 90984,
+        "out_tokens": 2756,
+        "usd": 0.015301199999999997
+      },
+      "gpt-4o": {
+        "calls": 32,
+        "in_tokens": 105719,
+        "out_tokens": 7824,
+        "usd": 0.3425375
+      },
+      "text-embedding-3-small": {
+        "calls": 1,
+        "in_tokens": 23664,
+        "out_tokens": 0,
+        "usd": 0.00047328
+      }
+    }
+  },
+  "changes": [
+    "-4 partnerships rows",
+    "+7 events rows",
+    "+5 guidance rows",
+    "+10 sources: R-022, R-023, R-024, R-025, R-026, R-027, R-028, R-029...",
+    "index: +60 / -4 chunks"
+  ]
+}

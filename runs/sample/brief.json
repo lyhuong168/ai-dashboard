@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-10-19 12:12",
+  "as_of": "2025-02-20",
+  "mode": "sample",
+  "llm": true,
+  "cost_usd": 0.0,
+  "dropped": [
+    {
+      "where": "Nvidia",
+      "text": "Nvidia will grow 45% next year.",
+      "why": "number not in the cited evidence: 45"
+    }
+  ],
+  "week_ahead": [
+    {
+      "company": "Nvidia",
+      "type": "earnings",
+      "date": "2025-02-26",
+      "days_until": 6,
+      "what": "SAMPLE earnings call (not real)",
+      "status": "confirmed",
+      "source_id": "SAMPLE-001",
+      "bucket": "in window"
+    }
+  ],
+  "next_events": [
+    {
+      "company": "Nvidia",
+      "type": "earnings",
+      "date": "2025-02-26",
+      "days_until": 6,
+      "what": "SAMPLE earnings call (not real)",
+      "status": "confirmed",
+      "source_id": "SAMPLE-001",
+      "bucket": "in window"
+    }
+  ],
+  "guidance": [
+    {
+      "company": "Nvidia",
+      "period": "FY2026Q3",
+      "guided_mid_musd": 2222.2,
+      "range_musd": [
+        2177.8,
+        2266.6
+      ],
+      "issued": "2025-01-02",
+      "guidance_source": "SAMPLE-001",
+      "result": "pending (not reported yet)"
+    }
+  ],
+  "moves": [
+    {
+      "ticker": "AAPL",
+      "as_of": "2025-01-10",
+      "close": 156.0,
+      "chg_1d_pct": 0.97,
+      "chg_5d_pct": null,
+      "chg_1m_pct": null,
+      "range_52w": [
+        150.0,
+        156.0
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "as_of": "2025-01-10",
+      "close": 106.0,
+      "chg_1d_pct": 1.44,
+      "chg_5d_pct": null,
+      "chg_1m_pct": null,
+      "range_52w": [
+        100.0,
+        106.0
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "as_of": "2025-01-10",
+      "close": 206.0,
+      "chg_1d_pct": 0.73,
+      "chg_5d_pct": null,
+      "chg_1m_pct": null,
+      "range_52w": [
+        200.0,
+        206.0
+      ]
+    }
+  ],
+  "overall": [
+    {
+      "text": "Nvidia has an earnings call coming up.",
+      "cites": [
+        "NVI-F1"
+      ]
+    }
+  ],
+  "companies": {
+    "Google": {
+      "headline": "",
+      "bullets": []
+    },
+    "OpenAI": {
+      "headline": "",
+      "bullets": []
+    },
+    "Anthropic": {
+      "headline": "",
+      "bullets": []
+    },
+    "Nvidia": {
+      "headline": "h",
+      "bullets": []
+    },
+    "Apple": {
+      "headline": "",
+      "bullets": []
+    }
+  },
+  "evidence": {
+    "NVI-F1": {
+      "text": "NVDA closed at $206.00 on 2025-01-10 (+ 0.73% over 1 day); 52-week range $200.00 to $206.00 (Yahoo Finance market data).",
+      "tier": "2",
+      "source_id": "",
+      "kind": "price",
+      "company": "Nvidia"
+    }
+  },
+  "headlines": {
+    "Google": [],
+    "OpenAI": [],
+    "Anthropic": [],
+    "Nvidia": [],
+    "Apple": []
+  }
+}
