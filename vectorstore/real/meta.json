@@ -1,0 +1,12 @@
+{
+  "embedder": "text-embedding-3-small",
+  "n_chunks": 3447,
+  "built_at": "2026-10-18 01:02:31",
+  "stats": {
+    "chunks": 3447,
+    "embedded": 60,
+    "reused": 3387,
+    "added": 60,
+    "removed": 4
+  }
+}
