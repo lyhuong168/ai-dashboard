@@ -47,7 +47,8 @@ def _doc_text(base, source):
     lp = source.get("local_path")
     if not lp or not (Path(base) / lp).exists():
         return None
-    return " ".join(t for _, t in read_pages(Path(base) / lp))
+    text = " ".join(t for _, t in read_pages(Path(base) / lp))
+    return re.sub(r"[​-‍⁠﻿]", "", text)  # zero-width marks some publishers hide between words
 
 
 def _find(text, needle):
@@ -132,6 +133,21 @@ def verify(base):
     for r in _rows(base, "guidance.csv"):
         check("guidance", r, "%s %s %s guidance = %s %s" % (r["company"], r["target_period"], r["metric"], r["value"], r["unit"]),
               [("value " + r["value"], r["value"], r["unit"])])
+    for r in _rows(base, "private_revenue.csv"):  # stated, not filed: the words must be in the document, the number in the words
+        sid, text, evidence = r["source_id"], doc(r["source_id"]), None
+        label = "%s %s as of %s = %s %s (%s)" % (r["company"], r["metric"], r["as_of"], r["value"], r["unit"], r["bound"])
+        if sid not in sources or text is None:
+            status, detail = "no_document", "no local document for %s" % sid
+        else:
+            flat = re.sub(r"\s+", " ", text)
+            m = re.search(re.escape(re.sub(r"\s+", " ", r["quote"].strip())), flat)
+            in_quote = any(_contains(r["quote"], v) for v in _variants(r["value"], r["unit"]))
+            status = "confirmed" if m and in_quote else "not_found"
+            detail = ("quote and value found in %s" % sid if status == "confirmed"
+                      else "quote not in document" if not m else "value not in the quoted words")
+            evidence = _snippet(flat, m) if status == "confirmed" else None
+        findings.append({"table": "private_revenue", "row": label, "source_id": sid, "status": status, "detail": detail,
+                         "tier": sources.get(sid, {}).get("tier", ""), "evidence": evidence})
     for r in _rows(base, "events.csv"):
         sid, text = r["source_id"], doc(r["source_id"])
         d = date.fromisoformat(r["event_date"])

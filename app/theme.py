@@ -146,11 +146,14 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 .chip .tag{opacity:.7}
 
 /* ticker: a static row of quotes */
-.ticker{overflow-x:auto;white-space:nowrap;border-block:1px solid var(--border);padding:8px 0;margin:10px 0 14px}
-.ticker-track{display:inline-block}
+.ticker{border-block:1px solid var(--border);padding:8px 0;margin:10px 0 14px}
+.ticker-track{display:flex;flex-wrap:wrap;row-gap:4px}  /* wraps on narrow screens instead of scrolling sideways */
 .tk{display:inline-block;margin:0 22px 0 0;font:500 13px 'JetBrains Mono',monospace;color:var(--muted)}
 .tk b{color:var(--text);margin-right:8px}.tk img.tl{width:14px;height:14px;vertical-align:-2px;margin-right:7px}.tk.up .chg{color:var(--good)}.tk.down .chg{color:var(--bad)}
 .live-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--good);margin-right:8px}
+@keyframes pulse{50%{opacity:.3}}
+.tk-status{font:600 11px 'Inter',sans-serif;letter-spacing:.6px;color:var(--muted);margin-bottom:6px}
+.tk-status.live{color:var(--good)}.tk-status.live .live-dot{animation:pulse 2s ease-in-out infinite;vertical-align:1px}
 
 /* loading placeholder */
 .shimmer{height:14px;border-radius:4px;margin:8px 0;background:var(--surface)}

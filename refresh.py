@@ -24,7 +24,7 @@ from rag.cli import build_index
 from rag.ingest import load_sources
 from rag.llm import TRACKER, get_chat
 
-TABLES = ["financials", "stock_prices", "token_pricing", "partnerships", "events", "guidance"]
+TABLES = ["financials", "stock_prices", "token_pricing", "partnerships", "events", "guidance", "private_revenue"]
 
 
 def run_collectors():

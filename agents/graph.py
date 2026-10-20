@@ -88,6 +88,10 @@ def run_analyst_tools(question, sample):
                 g = analyst.growth(sample, co, metric)
                 if g:
                     out["qoq_growth_%s_%s" % (co, metric)] = g
+        if metric == "revenue" and (not cos or set(cos) - PUBLIC):  # private companies: self-reported run-rate, not quarterly
+            rows = [r for co in (sorted(set(cos) - PUBLIC) or [None]) for r in analyst.private_revenue(sample, co)]
+            if rows:
+                out["private_run_rate_revenue (annualized, self-reported, not quarterly)"] = rows
     if stock_q:
         out["stock_return_30d"] = analyst.stock_return(sample, days=30)
         out["stock_moves"] = analyst.stock_moves(sample)
@@ -117,7 +121,9 @@ SYSTEM_WRITER = (
     "your own arithmetic or add numbers from memory. If the evidence is missing or thin, say so. "
     "Flag tier-2 (press) evidence as less authoritative. Growth figures named qoq_growth are SEQUENTIAL "
     "quarter-over-quarter changes, not year-over-year: always say so, and warn that seasonal quarters "
-    "(e.g. Apple's December quarter) make sequential swings look dramatic. When verification data "
+    "(e.g. Apple's December quarter) make sequential swings look dramatic. private_run_rate_revenue rows are annualized "
+    "figures a private company stated itself, with their wording (bound: approximately / at_least): say 'run-rate', keep the "
+    "wording ('surpassed $30 billion'), and never compare them with quarterly revenue as if they were the same measure. When verification data "
     "is given, report both the document check and the independent SEC XBRL cross-check, and name the specific figures "
     "you discuss with their verifier status (found in the cited document or not). When a finding says 'quoted in [S#]', that "
     "passage is the exact place in the document where the figure appears: cite it as [S#] right after the figure, e.g. "

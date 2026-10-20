@@ -23,6 +23,7 @@ CONFIDENCE = ["high", "medium", "low"]
 EVENT_TYPES = ["earnings", "price_change", "promo_end", "deprecation"]
 EVENT_STATUS = ["confirmed", "reported"]  # confirmed = announced by the company itself (tier 1); reported = press only (tier 2)
 UNITS = ["USD_millions", "percent", "USD_per_share", "count"]
+BOUNDS = ["approximately", "at_least"]  # how a private company worded its figure: "about $9B" vs "surpassed $30B"
 
 # Use these metric names where they apply so charts line up. Others are allowed
 # (snake_case) but produce a warning.
@@ -99,6 +100,16 @@ SCHEMAS = {
         ("source_id", "source_id", True),
         ("issued_date", "date", True),
     ],
+    "private_revenue.csv": [                 # figures private companies state themselves (no SEC filings, no quarters)
+        ("company", ("enum", COMPANIES), True),
+        ("metric", "str", True),             # run_rate_revenue = current revenue annualized, NOT a quarter's revenue
+        ("as_of", "date", True),             # the date the figure describes ("end of 2025" -> 2025-12-31)
+        ("value", "float", True),            # as stated, e.g. 30000 for "surpassed $30 billion"
+        ("unit", ("enum", UNITS), True),
+        ("bound", ("enum", BOUNDS), True),
+        ("quote", "str", True),              # the company's exact words; the verifier finds them in the document
+        ("source_id", "source_id", True),
+    ],
 }
 
 # Unique keys per table (duplicates are errors)
@@ -108,4 +119,5 @@ UNIQUE_KEYS = {
     "token_pricing.csv": ["company", "model", "captured_date"],
     "events.csv": ["company", "event_type", "event_date", "description"],
     "guidance.csv": ["company", "metric", "target_period", "issued_date"],
+    "private_revenue.csv": ["company", "metric", "as_of"],
 }

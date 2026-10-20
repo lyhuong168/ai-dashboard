@@ -14,6 +14,7 @@ DATE_COLS = {
     "sources": ["published_date", "retrieved_date"],
     "events": ["event_date"],
     "guidance": ["issued_date"],
+    "private_revenue": ["as_of"],
 }
 
 

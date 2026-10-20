@@ -1,0 +1,16 @@
+Source: https://finance.yahoo.com/news/openai-cfo-says-annualized-revenue-173519097.html
+Title: OpenAI CFO says annualized revenue crosses $20 billion in 2025
+Publisher: Reuters (republished by Yahoo Finance), January 19, 2026
+Retrieved: 2026-10-20. Article body only; page navigation, widgets and invisible characters removed.
+
+Jan 19 (Reuters) - OpenAI (OPAI.PVT) Chief Financial Officer Sarah Friar said in a blog post on Sunday the company's annualized revenue has surpassed $20 billion in 2025, up from $6 billion in 2024 with growth closely tracking an expansion in computing capacity.
+OpenAI's computing capacity rose to 1.9 gigawatts (GW) in 2025 from 0.6 GW in 2024, Friar said in the blog, adding that Microsoft (MSFT)-backed OpenAI's weekly and daily active users figures continue to produce all-time highs.
+
+OpenAI last week said it would start showing ads in ChatGPT to some U.S. users, ramping up efforts to generate revenue from the AI chatbot to fund the high costs of developing the technology.
+Separately, Axios reported on Monday that OpenAI's policy chief Chris Lehane said that the company is "on track" to unveil its first device in the second half of 2026.
+
+Friar said OpenAI's platform spans text, images, voice, code and APIs, and the next phase will focus on agents and workflow automation that run continuously, carry context over time, and take action across tools.
+For 2026, the company will prioritize "practical adoption," particularly in health, science and enterprise, she said.
+
+Friar said the company is keeping a "light" balance sheet by partnering rather than owning and structuring contracts with flexibility across providers and hardware types.
+(Reporting by Katha Kalia in Bengaluru; Editing by Andrea Ricci)

@@ -1,0 +1,6 @@
+company,metric,as_of,value,unit,bound,quote,source_id
+Anthropic,run_rate_revenue,2025-12-31,9000,USD_millions,approximately,up from approximately $9 billion at the end of 2025,R-009
+Anthropic,run_rate_revenue,2026-04-06,30000,USD_millions,at_least,Our run-rate revenue has now surpassed $30 billion,R-009
+Anthropic,run_rate_revenue,2026-05-28,47000,USD_millions,at_least,our run-rate revenue crossed $47 billion earlier this month,R-012
+OpenAI,run_rate_revenue,2024-12-31,6000,USD_millions,approximately,up from $6 billion in 2024,U-001
+OpenAI,run_rate_revenue,2025-12-31,20000,USD_millions,at_least,the company's annualized revenue has surpassed $20 billion in 2025,U-001

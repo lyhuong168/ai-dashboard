@@ -63,6 +63,48 @@ def render(data):
     with st.expander("Data and sources"):
         st.dataframe(sub[["company", "period", "period_end", "metric", "value", "unit", "source_id"]])
 
+    _private(data)
+
+
+PRIVATE = ["OpenAI", "Anthropic"]
+BOUND_MARK = {"approximately": "≈", "at_least": ">"}
+
+
+def _private(data):
+    """OpenAI and Anthropic file no quarterly reports: show only the figures they stated, as stated, apart from the race."""
+    st.markdown("##### Private companies · self-reported run-rate revenue")
+    st.caption("Run-rate = current revenue annualized, as the company itself stated it. Not quarterly revenue and not audited, "
+               "so it is kept apart from the charts above. ≈ means the company said \"approximately\" (or gave a round figure); "
+               "> means \"surpassed\" or \"crossed\". Hover a point for the exact words and who reported them.")
+    pr = data.get("private_revenue")
+    pr = pr[pr["metric"] == "run_rate_revenue"].sort_values("as_of") if pr is not None and len(pr) else None
+    if pr is not None:  # who said it: tier 1 = the company's own page, tier 2 = press reporting the company's words
+        src = data["sources"].set_index("source_id")
+        pr = pr.assign(said_by=[("tier %s · %s" % (src.at[s, "tier"], src.at[s, "publisher"])) if s in src.index else s
+                                for s in pr["source_id"]])
+    fig, missing = go.Figure(), []
+    for co in PRIVATE:
+        s = pr[pr["company"] == co] if pr is not None else []
+        if not len(s):
+            missing.append(co)
+            continue
+        col = COMPANY_COLORS[co]
+        labels = ["%s $%gB" % (BOUND_MARK.get(b, ""), v / 1000) for b, v in zip(s["bound"], s["value"])]
+        fig.add_trace(go.Scatter(
+            x=s["as_of"], y=s["value"] / 1000, name=co, mode="lines+markers+text", text=labels, textposition="top left",
+            line=dict(width=2, color=col, dash="dot"), marker=dict(size=9, color=col), textfont=dict(color=col),
+            customdata=s[["quote", "source_id", "said_by"]].values,
+            hovertemplate=co + "<br>%{text} run-rate<br>“%{customdata[0]}”<br>%{customdata[1]} · %{customdata[2]}<extra></extra>"))
+    if fig.data:
+        top = float(pr["value"].max()) / 1000
+        fig.update_layout(yaxis=dict(title="$ billions, annualized", range=[0, top * 1.25]), height=340, showlegend=True)
+        chart(fig, key="fin_private")
+        with st.expander("Statements and sources"):
+            st.dataframe(pr[["company", "as_of", "value", "unit", "bound", "quote", "source_id", "said_by"]])
+    for co in missing:
+        st.markdown("<span style='color:%s'>%s: no revenue figure disclosed by the company in our sources.</span>" % (MUTED, co),
+                    unsafe_allow_html=True)
+
 
 def _race(sub, ylabel):
     quarters = list(dict.fromkeys(sub.sort_values("period_end")["cal_q"]))

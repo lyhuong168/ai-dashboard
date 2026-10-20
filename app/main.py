@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import streamlit as st  # noqa: E402
 
-from app import components, keys, theme  # noqa: E402
+from app import components, keys, live_prices, theme  # noqa: E402
 from app.data_loader import has_real_data, load_data  # noqa: E402
 from rag import config  # noqa: E402
 from tabs import ask, brief, financials, overview, partnerships, pricing, sources, stock  # noqa: E402
@@ -49,6 +49,19 @@ def ticker_rows(data):
     return rows
 
 
+@st.fragment(run_every=live_prices.REFRESH_SECONDS)
+def ticker_strip(data, sample):
+    """Re-runs on its own every REFRESH_SECONDS (not the whole page): live quotes, else the last daily closes."""
+    live = None if sample else live_prices.quotes()  # demo mode keeps its sample prices
+    if live:
+        rows, status = live["rows"], live_prices.status(live["as_of"])
+    else:
+        df = data["stock_prices"]
+        when = df["date"].max().strftime("%b %d").replace(" 0", " ") if len(df) else "n/a"
+        rows, status = ticker_rows(data), ("closed", ("SAMPLE PRICES" if sample else "DAILY CLOSE · %s" % when))
+    st.markdown(components.ticker_html(rows, status), unsafe_allow_html=True)
+
+
 def flip_mode():
     st.session_state.use_sample = not st.session_state.use_sample
 
@@ -69,7 +82,8 @@ components.hero(
      "Cross-checked against the SEC's own structured data."],
     height=250)
 c_tick, c_ai, c_mode = st.columns([4, 1, 1], vertical_alignment="center")
-c_tick.markdown(components.ticker_html(ticker_rows(data)), unsafe_allow_html=True)
+with c_tick:
+    ticker_strip(data, use_sample)
 with c_ai:
     keys.control()
 c_mode.button("Switch to live data" if use_sample else "Switch to demo data", on_click=flip_mode,

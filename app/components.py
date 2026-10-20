@@ -247,8 +247,8 @@ def pipeline_html(states):
     return '<div class="pipe">%s</div>' % "".join(parts)
 
 
-def ticker_html(rows):
-    """rows: [{sym, price, chg}] (chg in %). Seamless scrolling marquee."""
+def ticker_html(rows, status=None):
+    """rows: [{sym, price, chg}] (chg in %). status: optional (kind, label) line above the quotes; kind "live" adds a pulsing dot."""
     def one(r):
         cls = "up" if r["chg"] >= 0 else "down"
         arrow = "&#9650;" if r["chg"] >= 0 else "&#9660;"
@@ -257,7 +257,12 @@ def ticker_html(rows):
         return '<span class="tk %s">%s<b>%s</b>$%s <span class="chg">%s %+.2f%%</span></span>' % (
             cls, img, _html.escape(r["sym"]), format(r["price"], ",.2f"), arrow, r["chg"])
     track = "".join(one(r) for r in rows) if rows else '<span class="tk">awaiting market data</span>'
-    return '<div class="ticker"><div class="ticker-track">%s</div></div>' % track
+    badge = ""
+    if status:
+        kind, label = status
+        badge = '<div class="tk-status %s">%s%s</div>' % (
+            _html.escape(kind), '<span class="live-dot"></span>' if kind == "live" else "", _html.escape(label))
+    return '<div class="ticker">%s<div class="ticker-track">%s</div></div>' % (badge, track)
 
 
 def chips_html(citations):

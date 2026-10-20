@@ -39,6 +39,15 @@ def growth(sample, company, metric):
     return out
 
 
+def private_revenue(sample, company=None):
+    """Revenue figures private companies stated themselves (run-rate = annualized, not quarterly), oldest first."""
+    df = _data(sample)["private_revenue"]
+    if company:
+        df = df[df["company"] == company]
+    return [{"company": r.company, "metric": r.metric, "as_of": str(r.as_of.date()), "value": float(r.value), "unit": r.unit,
+             "bound": r.bound, "source_id": r.source_id} for r in df.sort_values("as_of").itertuples()]
+
+
 def workload_cost(sample, input_tokens=1_000_000, output_tokens=200_000):
     """Cost of a standard workload on every model in token_pricing, cheapest first."""
     df = _data(sample)["token_pricing"]
