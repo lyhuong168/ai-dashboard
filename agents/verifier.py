@@ -50,8 +50,35 @@ def _doc_text(base, source):
     return " ".join(t for _, t in read_pages(Path(base) / lp))
 
 
+def _find(text, needle):
+    return re.search(r"(?<![\d.,])%s(?![\d]|,\d)" % re.escape(needle), text)
+
+
 def _contains(text, needle):
-    return re.search(r"(?<![\d.,])%s(?![\d]|,\d)" % re.escape(needle), text) is not None
+    return _find(text, needle) is not None
+
+
+def _snippet(text, match, before=170, after=90):
+    """The words around a confirmed number, quotable as evidence. Table cells ('a | | b') become 'a · b'."""
+    lo, hi = max(0, match.start() - before), min(len(text), match.end() + after)
+    s = text[lo:hi]
+    s = re.sub(r"\s*(?:\|\s*)+", " · ", s)
+    s = re.sub(r"\s+", " ", s).strip(" ·")
+    s = s.replace("$ · ", "$").replace(" · %", "%").replace("( · ", "(").replace(" · )", ")")  # signs sit in their own cells
+    if lo > 0:
+        s = s.split(" ", 1)[-1]  # drop the cut-off first word
+    if hi < len(text):
+        s = s.rsplit(" ", 1)[0]
+    return ("…" if lo > 0 else "") + s.strip(" ·") + ("…" if hi < len(text) else "")
+
+
+def _evidence(text, value, unit):
+    """Snippet around the longest matching form of `value` (most specific first), or None."""
+    for v in sorted(_variants(value, unit), key=len, reverse=True):
+        m = _find(text, v)
+        if m:
+            return _snippet(text, m)
+    return None
 
 
 def _rows(base, name):
@@ -76,6 +103,7 @@ def verify(base):
     def check(table, row, label, values):
         sid = row["source_id"]
         text = doc(sid)
+        evidence = None
         if sid not in sources:
             status, detail = "no_document", "source_id not in sources"
         elif text is None:
@@ -84,8 +112,10 @@ def verify(base):
             missing = [lab for lab, val, unit in values if val and not any(_contains(text, s) for s in _variants(val, unit))]
             status = "confirmed" if not missing else "not_found"
             detail = "all values found in %s" % sid if not missing else "not in document: %s" % ", ".join(missing)
+            if not missing:  # quote where the (first) value was found, so answers can cite the passage itself
+                evidence = next((e for e in (_evidence(text, val, unit) for _, val, unit in values if val) if e), None)
         findings.append({"table": table, "row": label, "source_id": sid, "status": status, "detail": detail,
-                         "tier": sources.get(sid, {}).get("tier", "")})
+                         "tier": sources.get(sid, {}).get("tier", ""), "evidence": evidence})
 
     for r in _rows(base, "financials.csv"):
         check("financials", r, "%s %s %s = %s %s" % (r["company"], r["period"], r["metric"], r["value"], r["unit"]),
@@ -112,7 +142,7 @@ def verify(base):
             status = "confirmed" if any(n in text for n in names) else "not_found"
             detail = "date %s found in %s" % (r["event_date"], sid) if status == "confirmed" else "date %s not in document" % r["event_date"]
         findings.append({"table": "events", "row": "%s %s on %s" % (r["company"], r["event_type"], r["event_date"]), "source_id": sid,
-                         "status": status, "detail": detail, "tier": sources.get(sid, {}).get("tier", "")})
+                         "status": status, "detail": detail, "tier": sources.get(sid, {}).get("tier", ""), "evidence": None})
 
     summary = {s: sum(f["status"] == s for f in findings) for s in ("confirmed", "not_found", "no_document")}
     summary["checked"] = len(findings)

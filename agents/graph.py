@@ -17,6 +17,7 @@ from agents import analyst
 from agents.verifier import check_with_llm, verify
 from rag import config
 from rag.answer import answer as rag_answer
+from rag.ingest import load_sources
 from rag.retrieve import detect_companies, load_retriever
 
 ORDER = ["rag", "analyst", "verify", "write"]
@@ -64,6 +65,8 @@ def llm_route(question, chat):
         picked = [p for p in ORDER[:3] if p in picked]
         if "verify" in picked and "verify" not in rules_route(question):
             picked.remove("verify")  # only when the user actually asks to check or trust the data
+        if "verify" in picked:  # a check needs the figures and their documents too, or the answer is only counts
+            picked = [p for p in ORDER[:3] if p in picked or p in rules_route(question)]
         return picked or rules_route(question)
     except (ValueError, TypeError):
         return rules_route(question)
@@ -115,7 +118,10 @@ SYSTEM_WRITER = (
     "Flag tier-2 (press) evidence as less authoritative. Growth figures named qoq_growth are SEQUENTIAL "
     "quarter-over-quarter changes, not year-over-year: always say so, and warn that seasonal quarters "
     "(e.g. Apple's December quarter) make sequential swings look dramatic. When verification data "
-    "is given, report both the document check and the independent SEC XBRL cross-check. "
+    "is given, report both the document check and the independent SEC XBRL cross-check, and name the specific figures "
+    "you discuss with their verifier status (found in the cited document or not). When a finding says 'quoted in [S#]', that "
+    "passage is the exact place in the document where the figure appears: cite it as [S#] right after the figure, e.g. "
+    "'$96,221 million, confirmed [S9]'. Prefer these [S#] tags over bare source_ids. "
     "NEVER predict or estimate future results yourself. For questions about what to expect, report only the dated events and the "
     "company-issued guidance in the computed data. If upcoming_events says nothing is scheduled, say so plainly and then give the next "
     "scheduled events. Events with status 'reported' come from press, not the company: you MUST write (press-reported, not yet confirmed by the company) right after each one. Present guidance_vs_actual as the "
@@ -123,15 +129,47 @@ SYSTEM_WRITER = (
     "Be concise: a short answer, then 2-4 bullets.")
 
 
+def relevant_findings(analysis, ver, limit=30):
+    """Verifier rows behind the figures the Analyst computed, plus every problem, so the Writer can name what was checked."""
+    ids, metrics = set(), set()
+    for name, rows in (analysis or {}).items():
+        metrics.add(name.split("_", 3)[-1] if name.startswith("qoq_growth_") else name.replace("latest_", ""))  # qoq_growth_<Co>_<metric>
+        for r in rows if isinstance(rows, list) else [rows]:
+            if isinstance(r, dict):
+                ids.update([r["source_id"]] if r.get("source_id") else r.get("source_ids") or [])
+    picked = [f for f in ver["findings"] if f["status"] != "confirmed"
+              or (f["source_id"] in ids and (f["table"] != "financials" or any(" %s " % m in f["row"] for m in metrics)))]
+    return picked[:limit]
+
+
+def evidence_passages(findings, registry, start, limit=12):
+    """Citable passages (same shape as the Researcher's) quoting where the verifier found each confirmed figure."""
+    out = []
+    for f in findings:
+        src = registry.get(f["source_id"])
+        if f["status"] != "confirmed" or not f.get("evidence") or not src or len(out) >= limit:
+            continue
+        out.append({"tag": "S%d" % (start + len(out)), "chunk_id": "%s#verified" % f["source_id"], "source_id": f["source_id"],
+                    "company": src.get("company", ""), "title": src.get("title", ""), "url": src.get("url", ""),
+                    "tier": src.get("tier", ""), "published_date": src.get("published_date", ""), "score": None,
+                    "verified_row": f["row"], "text": "%s (verified figure: %s)" % (f["evidence"], f["row"])})
+    return out
+
+
 def writer_messages(s):
     """The exact prompt the Writer sends (shared by the blocking and streaming paths)."""
     sources = s.get("rag", {}).get("sources", [])
     analysis, ver = s.get("analysis", {}), s.get("verification")
+    checked = relevant_findings(analysis, ver) if ver else []
+    quoted_in = {x["verified_row"]: x["tag"] for x in sources if x.get("verified_row")}
     ctx = "\n\n".join(filter(None, [
         "Document passages:\n" + "\n\n".join("[%s] %s | %s | tier %s | %s\n%s" % (
             x["tag"], x["company"], x["title"], x["tier"], x["source_id"], x["text"]) for x in sources) if sources else "",
         "Computed data (cite as (source_id)):\n" + _flatten(analysis) if analysis else "",
-        "Verification summary: %s" % ver["summary"] if ver else ""]))
+        "Verification summary: %s" % ver["summary"] if ver else "",
+        "Verifier findings for these figures (row -> status, source; cite the [S#] given):\n" + "\n".join(
+            "- %s -> %s (%s)%s" % (f["row"], f["status"], f["source_id"],
+                                   ", quoted in [%s]" % quoted_in[f["row"]] if f["row"] in quoted_in else "") for f in checked) if checked else ""]))
     return [{"role": "system", "content": SYSTEM_WRITER},
             {"role": "user", "content": "%s\n\nQuestion: %s" % (ctx, s["question"])}]
 
@@ -199,8 +237,12 @@ def build_graph(chat=None, retriever_factory=None, with_writer=True):
         if run_file.exists():  # independent SEC XBRL cross-check from the last refresh
             rep["summary"]["sec_xbrl_crosscheck (last refresh)"] = json.loads(run_file.read_text()).get("crosscheck")
         m = rep["summary"]
-        return {"verification": rep, "trace": ["verifier: %d checked, %d confirmed, %d not found, %d without document" % (
-            m["checked"], m["confirmed"], m["not_found"], m["no_document"])]}
+        rag = dict(s.get("rag") or {"sources": []})
+        quotes = evidence_passages(relevant_findings(s.get("analysis"), rep), load_sources(base), start=len(rag.get("sources", [])) + 1)
+        rag["sources"] = list(rag.get("sources", [])) + quotes
+        return {"verification": rep, "rag": rag, "trace": [
+            "verifier: %d checked, %d confirmed, %d not found, %d without document; quoted %d figures from their documents" % (
+                m["checked"], m["confirmed"], m["not_found"], m["no_document"], len(quotes))]}
 
     def writer(s):
         if chat is None:

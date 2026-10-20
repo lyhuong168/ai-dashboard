@@ -41,6 +41,18 @@ def test_offline_verify_question_runs_the_verifier(factory):
     assert s["verification"]["summary"]["not_found"] == 0 and "rows confirmed" in s["answer"]
 
 
+def test_verified_figures_become_citable_passages(factory):
+    s = ask("Can you verify the revenue figures?", sample=True, chat=None, retriever_factory=factory)
+    quotes = [x for x in s["rag"]["sources"] if "(verified figure:" in x["text"]]
+    assert quotes, "confirmed figures should be quoted from their documents"
+    tags = [x["tag"] for x in s["rag"]["sources"]]
+    assert len(tags) == len(set(tags)) and tags == ["S%d" % i for i in range(1, len(tags) + 1)]
+    for q in quotes:  # the quote really contains the figure it vouches for
+        figure = q["text"].split("(verified figure:")[1].split("=")[1].split()[0]
+        digits = figure.replace(".0", "")
+        assert any(v in q["text"].split("(verified figure:")[0].replace(",", "") for v in {digits, "%g" % (float(figure) / 1000)})
+
+
 def test_simple_question_skips_the_analyst(factory):
     s = ask("What did management say about customer demand?", sample=True, chat=None, retriever_factory=factory)
     assert s["route"] == ["rag"]
