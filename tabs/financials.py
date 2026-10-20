@@ -13,9 +13,12 @@ import streamlit as st
 from app.theme import ACCENT, COMPANY_COLORS, MUTED, chart
 
 NICE = {"revenue": "Revenue", "net_income": "Net income", "operating_income": "Operating income",
-        "eps_diluted": "Diluted EPS", "cloud_revenue": "Google Cloud revenue",
-        "data_center_revenue": "Nvidia Data Center revenue", "services_revenue": "Apple Services revenue",
+        "eps_diluted": "Diluted EPS", "cloud_revenue": "Google Cloud",
+        "data_center_revenue": "Nvidia Data Center", "services_revenue": "Apple Services",
         "capex": "Capital expenditures", "gross_margin_pct": "Gross margin %"}
+# Company-wide totals first, then single-company segments; metrics not listed here follow alphabetically.
+ORDER = ["revenue", "operating_income", "net_income", "eps_diluted", "gross_margin_pct", "capex",
+         "cloud_revenue", "data_center_revenue", "services_revenue"]
 
 
 def calendar_quarter(d):
@@ -43,10 +46,10 @@ def render(data):
     df = df.copy()
     df["cal_q"] = df["period_end"].map(calendar_quarter)
 
-    metrics = sorted(df["metric"].unique(), key=lambda m: (m != "revenue", m))
-    c1, c2 = st.columns([3, 2])
-    metric = c1.segmented_control("Metric", metrics, default=metrics[0], format_func=lambda m: NICE.get(m, m), key="fin_metric") or metrics[0]
-    view = c2.segmented_control("View", ["Race", "Trend", "Sequential change"], default="Race", key="fin_view") or "Race"
+    metrics = sorted(df["metric"].unique(), key=lambda m: (ORDER.index(m) if m in ORDER else len(ORDER), m))
+    # full width so every metric is visible; the buttons wrap onto a second line on narrow screens (theme.py)
+    metric = st.segmented_control("Metric", metrics, default=metrics[0], format_func=lambda m: NICE.get(m, m), key="fin_metric") or metrics[0]
+    view = st.segmented_control("View", ["Race", "Trend", "Sequential change"], default="Race", key="fin_view") or "Race"
 
     sub = df[df["metric"] == metric].sort_values("period_end").copy()
     sub["y"], ylabel = _scaled(sub)

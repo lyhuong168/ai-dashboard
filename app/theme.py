@@ -78,6 +78,8 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 [data-testid="stSegmentedControl"] button[aria-pressed="true"],[data-testid="stSegmentedControl"] [aria-checked="true"],
 [data-testid="stBaseButton-segmented_controlActive"]{background:rgba(76,139,245,.14)!important;border-color:var(--acc)!important;color:var(--text)!important}
 [data-testid="stSegmentedControl"] button{border-color:var(--border)!important}
+/* segmented controls wrap instead of cutting off options that don't fit */
+[data-testid="stButtonGroup"] div:has(>button){flex-wrap:wrap;row-gap:6px}
 
 [data-baseweb="tag"]{background:rgba(76,139,245,.14)!important;border:1px solid rgba(76,139,245,.35)!important;border-radius:4px!important}
 [data-baseweb="tag"] *{color:var(--text)!important}

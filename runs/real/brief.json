@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-18 01:02",
-  "as_of": "2026-10-18",
+  "generated_at": "2026-10-20 12:49",
+  "as_of": "2026-10-20",
   "mode": "real",
   "llm": true,
-  "cost_usd": 0.0303,
+  "cost_usd": 0.0306,
   "dropped": [],
   "week_ahead": [
     {
-      "note": "No events for the five companies are scheduled between 2026-10-18 and 2026-10-25."
+      "note": "No events for the five companies are scheduled between 2026-10-20 and 2026-10-27."
     },
     {
       "company": "Google",
       "type": "earnings",
       "date": "2026-10-28",
-      "days_until": 10,
+      "days_until": 8,
       "what": "Alphabet Q3 2026 results and conference call (1:30pm PT)",
       "status": "confirmed",
       "source_id": "R-020",
@@ -23,7 +23,7 @@
       "company": "Apple",
       "type": "earnings",
       "date": "2026-11-02",
-      "days_until": 15,
+      "days_until": 13,
       "what": "Apple fiscal Q4 2026 results and conference call (2:00pm PT)",
       "status": "reported",
       "source_id": "R-021",
@@ -33,7 +33,7 @@
       "company": "OpenAI",
       "type": "promo_end",
       "date": "2026-11-21",
-      "days_until": 34,
+      "days_until": 32,
       "what": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026",
       "status": "confirmed",
       "source_id": "R-002",
@@ -43,7 +43,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2026-12-01",
-      "days_until": 44,
+      "days_until": 42,
       "what": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -53,7 +53,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2026-12-01",
-      "days_until": 44,
+      "days_until": 42,
       "what": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -65,7 +65,7 @@
       "company": "Google",
       "type": "earnings",
       "date": "2026-10-28",
-      "days_until": 10,
+      "days_until": 8,
       "what": "Alphabet Q3 2026 results and conference call (1:30pm PT)",
       "status": "confirmed",
       "source_id": "R-020",
@@ -75,7 +75,7 @@
       "company": "Apple",
       "type": "earnings",
       "date": "2026-11-02",
-      "days_until": 15,
+      "days_until": 13,
       "what": "Apple fiscal Q4 2026 results and conference call (2:00pm PT)",
       "status": "reported",
       "source_id": "R-021",
@@ -85,7 +85,7 @@
       "company": "OpenAI",
       "type": "promo_end",
       "date": "2026-11-21",
-      "days_until": 34,
+      "days_until": 32,
       "what": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026",
       "status": "confirmed",
       "source_id": "R-002",
@@ -95,7 +95,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2026-12-01",
-      "days_until": 44,
+      "days_until": 42,
       "what": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -105,7 +105,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2026-12-01",
-      "days_until": 44,
+      "days_until": 42,
       "what": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -115,7 +115,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2027-01-01",
-      "days_until": 75,
+      "days_until": 73,
       "what": "gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -125,7 +125,7 @@
       "company": "Google",
       "type": "price_change",
       "date": "2027-01-01",
-      "days_until": 75,
+      "days_until": 73,
       "what": "gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens",
       "status": "confirmed",
       "source_id": "R-001",
@@ -231,15 +231,23 @@
   ],
   "overall": [
     {
-      "text": "No events for Google, OpenAI, Anthropic, Nvidia, and Apple are scheduled between 2026-10-18 and 2026-10-25.",
+      "text": "No events for the five companies are scheduled between 2026-10-20 and 2026-10-27.",
       "cites": [
         "ALL-F1"
       ]
     },
     {
-      "text": "Google's next scheduled earnings report is on 2026-10-28, and Apple's is on 2026-11-02, though Apple's date is not yet confirmed by the company.",
+      "text": "Google is scheduled to report its Q3 2026 earnings on 2026-10-28, confirmed by the company.",
       "cites": [
-        "ALL-F2"
+        "ALL-F2",
+        "GOO-F3"
+      ]
+    },
+    {
+      "text": "Apple's fiscal Q4 2026 results are expected on 2026-11-02, though this is press-reported and not yet confirmed by the company.",
+      "cites": [
+        "ALL-F2",
+        "APP-F3"
       ]
     }
   ],
@@ -248,13 +256,13 @@
       "headline": "Google to increase token prices for Gemini models.",
       "bullets": [
         {
-          "text": "Google's latest reported quarter FY2026Q2 revenue was $119.8 billion, up 24% year over year.",
+          "text": "Google's latest reported quarter FY2026Q2 revenue was $119.8B, up 24% year over year.",
           "cites": [
             "GOO-F2"
           ]
         },
         {
-          "text": "Google will increase the input and output prices for its Gemini models on 2026-12-01 and 2027-01-01.",
+          "text": "Google plans to increase the input and output prices for its Gemini models on 2026-12-01 and 2027-01-01.",
           "cites": [
             "GOO-F4",
             "GOO-F5",
@@ -280,7 +288,7 @@
           ]
         },
         {
-          "text": "OpenAI is facing lawsuits from multiple states, alleging its chatbot is harming children and deceiving adults. (reported by AP News)",
+          "text": "OpenAI is facing lawsuits from multiple states alleging its chatbot is harming children and deceiving adults. (reported by AP News)",
           "cites": [
             "R-025#2"
           ]
@@ -320,7 +328,7 @@
       "headline": "Nvidia expands partnerships and launches new products.",
       "bullets": [
         {
-          "text": "Nvidia's latest reported quarter FY2027Q2 revenue was $96.2 billion, up 106% year over year.",
+          "text": "Nvidia's latest reported quarter FY2027Q2 revenue was $96.2B, up 106% year over year.",
           "cites": [
             "NVI-F2"
           ]
@@ -340,10 +348,10 @@
       ]
     },
     "Apple": {
-      "headline": "Apple's stock performance and upcoming earnings report.",
+      "headline": "Apple's iPhone Duo demand is strong, stock sees positive movement.",
       "bullets": [
         {
-          "text": "Apple's latest reported quarter FY2026Q3 revenue was $109.4 billion, up 16% year over year.",
+          "text": "Apple's latest reported quarter FY2026Q3 revenue was $109.4B, up 16% year over year.",
           "cites": [
             "APP-F2"
           ]
@@ -355,24 +363,24 @@
           ]
         },
         {
-          "text": "Apple's fiscal Q4 2026 results are scheduled for 2026-11-02, though not yet confirmed by the company.",
+          "text": "Apple's iPhone Duo demand is tracking solidly, according to TradingView.",
           "cites": [
-            "APP-F3"
+            "R-031#9"
           ]
         }
       ]
     }
   },
   "evidence": {
-    "R-027#1": {
-      "text": "2026-10-17 TechCrunch: Anthropic says its workforce has become less junior and is spending more time in meetings. Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch",
+    "R-031#9": {
+      "text": "2026-10-17 TradingView: Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch. Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch TradingView",
       "tier": "2",
-      "source_id": "R-027",
+      "source_id": "R-031",
       "kind": "news",
-      "company": "Anthropic",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "publisher": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
+      "company": "Apple",
+      "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
+      "publisher": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZkhzUlpNNktLaDlYOGRwblFBN0h0TzBSc1FZbjRXelF5Ym5hT2lINHlqMU9EbW9hdi1HYzUzNmFtZDhPTDhWVWNrSWNqODdIZklRNHpLUnVxekxOYWpWVy1WcmU2Y2J0cmtGVHExVkF4TTJ4bGw0b21pTkVxOWVzMjY5NGt3b1dIamkzUEkwMmpiQ3JmWG9CYUtjcHFNUXktc0hldzFqcWFOOUJFNnBlWFFrNGN1MlNvMWtYWDlXRjJub3dLdWtrOGdnTmtjVlFsdk5NSlJCYXRfN1B6aEtKOTFiLU5VSlNtNGxFOVFEM2M2RmY4eTJQOG5jYThMSTFrYVJwcUU1c1NmX3ZPNVpJZGxUVFJlQQ?oc=5",
       "date": "2026-10-17"
     },
     "R-025#2": {
@@ -386,26 +394,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
       "date": "2026-10-16"
     },
-    "APP-F1": {
-      "text": "AAPL closed at $343.46 on 2026-10-16 (+ 0.43% over 1 day, +2.03% over 5 trading days, +1.92% over about a month); 52-week range $246.63 to $343.46 (Yahoo Finance market data).",
-      "tier": "2",
-      "source_id": "A-003",
-      "kind": "price",
-      "company": "Apple"
-    },
-    "GOO-F7": {
-      "text": "gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens on 2027-01-01 (confirmed by the company; 75 days away).",
+    "GOO-F6": {
+      "text": "gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens on 2027-01-01 (confirmed by the company; 73 days away).",
       "tier": "1",
       "source_id": "R-001",
       "kind": "event",
       "company": "Google"
-    },
-    "APP-F3": {
-      "text": "Apple fiscal Q4 2026 results and conference call (2:00pm PT) on 2026-11-02 (press-reported, not yet confirmed by the company; 15 days away).",
-      "tier": "2",
-      "source_id": "R-021",
-      "kind": "event",
-      "company": "Apple"
     },
     "NVI-F2": {
       "text": "Latest reported quarter FY2027Q2 revenue was $96.2B, which the company's own release states was up 106% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved +17.9%.",
@@ -414,19 +408,47 @@
       "kind": "financials",
       "company": "Nvidia"
     },
-    "ALL-F1": {
-      "text": "No events for the five companies are scheduled between 2026-10-18 and 2026-10-25.",
-      "tier": "1",
-      "source_id": "",
-      "kind": "week_ahead",
-      "company": "All"
-    },
     "GOO-F1": {
       "text": "GOOGL closed at $340.59 on 2026-10-16 (- 2.47% over 1 day, -3.15% over 5 trading days, -1.94% over about a month); 52-week range $250.46 to $402.62 (Yahoo Finance market data).",
       "tier": "2",
       "source_id": "A-001",
       "kind": "price",
       "company": "Google"
+    },
+    "GOO-F7": {
+      "text": "gemini-3.8-flash: output price rises from $3.75 to $7.50 per 1M tokens on 2027-01-01 (confirmed by the company; 73 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "ALL-F1": {
+      "text": "No events for the five companies are scheduled between 2026-10-20 and 2026-10-27.",
+      "tier": "1",
+      "source_id": "",
+      "kind": "week_ahead",
+      "company": "All"
+    },
+    "APP-F1": {
+      "text": "AAPL closed at $343.46 on 2026-10-16 (+ 0.43% over 1 day, +2.03% over 5 trading days, +1.92% over about a month); 52-week range $246.63 to $343.46 (Yahoo Finance market data).",
+      "tier": "2",
+      "source_id": "A-003",
+      "kind": "price",
+      "company": "Apple"
+    },
+    "OPE-F1": {
+      "text": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026 on 2026-11-21 (confirmed by the company; 32 days away).",
+      "tier": "1",
+      "source_id": "R-002",
+      "kind": "event",
+      "company": "OpenAI"
+    },
+    "APP-F3": {
+      "text": "Apple fiscal Q4 2026 results and conference call (2:00pm PT) on 2026-11-02 (press-reported, not yet confirmed by the company; 13 days away).",
+      "tier": "2",
+      "source_id": "R-021",
+      "kind": "event",
+      "company": "Apple"
     },
     "R-025#7": {
       "text": "2026-10-16 Yahoo Finance: OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.. OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion. Yahoo Finance",
@@ -439,26 +461,23 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbl9raElBTHVoeFh2QnhxeDZ1ODhEVzEySHFNdEEzcmE3VHRnVFBYQWg5SlpIS0hFMXdHX1VaSHdoTXFZTDB1MHJDQUU3WktGTWdEVlF3LXlDZ1djSTdRbVFxMG9zLTVpdXVTYmRVNEhNcUw0QWUySjNwVGUxS2drNFBOVzNtVF8tSVdOU0RLQ0RIT3ZIUWJGcGJoSnJ3NHM?oc=5",
       "date": "2026-10-16"
     },
-    "GOO-F4": {
-      "text": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens on 2026-12-01 (confirmed by the company; 44 days away).",
-      "tier": "1",
-      "source_id": "R-001",
-      "kind": "event",
-      "company": "Google"
-    },
     "GOO-F5": {
-      "text": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens on 2026-12-01 (confirmed by the company; 44 days away).",
+      "text": "gemini-4-argon: output price rises from $10.00 to $20.00 per 1M tokens on 2026-12-01 (confirmed by the company; 42 days away).",
       "tier": "1",
       "source_id": "R-001",
       "kind": "event",
       "company": "Google"
     },
-    "APP-F2": {
-      "text": "Latest reported quarter FY2026Q3 revenue was $109.4B, which the company's own release states was up 16% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved -1.6%.",
-      "tier": "1",
-      "source_id": "A-017",
-      "kind": "financials",
-      "company": "Apple"
+    "R-027#1": {
+      "text": "2026-10-17 TechCrunch: Anthropic says its workforce has become less junior and is spending more time in meetings. Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch",
+      "tier": "2",
+      "source_id": "R-027",
+      "kind": "news",
+      "company": "Anthropic",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "publisher": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
+      "date": "2026-10-17"
     },
     "ALL-F2": {
       "text": "Next scheduled earnings: Google on 2026-10-28 (confirmed by the company); Apple on 2026-11-02 (press-reported, not yet confirmed by the company).",
@@ -467,41 +486,12 @@
       "kind": "week_ahead",
       "company": "All"
     },
-    "GOO-F6": {
-      "text": "gemini-3.8-flash: input price rises from $0.75 to $1.50 per 1M tokens on 2027-01-01 (confirmed by the company; 75 days away).",
+    "GOO-F2": {
+      "text": "Latest reported quarter FY2026Q2 revenue was $119.8B, which the company's own release states was up 24% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved +9.0%.",
       "tier": "1",
-      "source_id": "R-001",
-      "kind": "event",
+      "source_id": "A-007",
+      "kind": "financials",
       "company": "Google"
-    },
-    "R-026#1": {
-      "text": "2026-10-16 Anthropic: Designing more efficient quantum circuits with Claude. Designing more efficient quantum circuits with Claude Anthropic",
-      "tier": "1",
-      "source_id": "R-026",
-      "kind": "news",
-      "company": "Anthropic",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "publisher": "Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
-      "date": "2026-10-16"
-    },
-    "OPE-F1": {
-      "text": "GPT-5.6 Sol promotional pricing is available at least through November 21, 2026 on 2026-11-21 (confirmed by the company; 34 days away).",
-      "tier": "1",
-      "source_id": "R-002",
-      "kind": "event",
-      "company": "OpenAI"
-    },
-    "R-028#3": {
-      "text": "2026-10-16 NVIDIA Newsroom: Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade. Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
-      "tier": "1",
-      "source_id": "R-028",
-      "kind": "news",
-      "company": "Nvidia",
-      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-      "publisher": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-      "date": "2026-10-16"
     },
     "R-028#2": {
       "text": "2026-10-16 NVIDIA Newsroom: NVIDIA RTX Spark PCs Available Today \u00e2\u0080\u0094 A New Beginning for Windows PCs. NVIDIA today announced the availability of NVIDIA RTX Spark\u00e2\u0084\u00a2 laptops, bringing together RTX graphics and NVIDIA\u00e2\u0080\u0099s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u00e2\u0080\u0094 rolling out from ASUS, Dell, HP, Lenovo, ",
@@ -514,11 +504,11 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "date": "2026-10-16"
     },
-    "GOO-F2": {
-      "text": "Latest reported quarter FY2026Q2 revenue was $119.8B, which the company's own release states was up 24% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved +9.0%.",
+    "GOO-F3": {
+      "text": "Alphabet Q3 2026 results and conference call (1:30pm PT) on 2026-10-28 (confirmed by the company; 8 days away).",
       "tier": "1",
-      "source_id": "A-007",
-      "kind": "financials",
+      "source_id": "R-020",
+      "kind": "event",
       "company": "Google"
     },
     "R-027#6": {
@@ -531,6 +521,42 @@
       "publisher": "Cyber Press",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVdRaWZKV2RiQWRJVzFkblZWNDhqYThEdmNTS1M4VGNyUlBXVDFGODZkdVlhQXBCem5wQUpobTRsQ1JEV0docENnbkdmRXgxc1VuZEJpNDVaZ0hwWFpoLV9jZmpReG5SanVuUW1yZEkzdHRreHfSAXZBVV95cUxNcklXUWlmSldkYkFkSVcxZG5WVjQ4amE4RHZjU0tTOFRjclJQV1QxRjg2ZHVZYUFwQnpucEFKaG00bENSRFdHaHBDZ25HZkV4MXNVbmRCaTQ1WmdIcFhaaC1fY2ZqUXhuUmp1blFtcmRJM3R0a3h3?oc=5",
       "date": "2026-10-17"
+    },
+    "GOO-F4": {
+      "text": "gemini-4-argon: input price rises from $2.00 to $4.00 per 1M tokens on 2026-12-01 (confirmed by the company; 42 days away).",
+      "tier": "1",
+      "source_id": "R-001",
+      "kind": "event",
+      "company": "Google"
+    },
+    "APP-F2": {
+      "text": "Latest reported quarter FY2026Q3 revenue was $109.4B, which the company's own release states was up 16% year over year. Sequentially (quarter over quarter, not seasonally adjusted) revenue moved -1.6%.",
+      "tier": "1",
+      "source_id": "A-017",
+      "kind": "financials",
+      "company": "Apple"
+    },
+    "R-028#3": {
+      "text": "2026-10-16 NVIDIA Newsroom: Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade. Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
+      "tier": "1",
+      "source_id": "R-028",
+      "kind": "news",
+      "company": "Nvidia",
+      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+      "publisher": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+      "date": "2026-10-16"
+    },
+    "R-026#1": {
+      "text": "2026-10-16 Anthropic: Designing more efficient quantum circuits with Claude. Designing more efficient quantum circuits with Claude Anthropic",
+      "tier": "1",
+      "source_id": "R-026",
+      "kind": "news",
+      "company": "Anthropic",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "publisher": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+      "date": "2026-10-16"
     }
   },
   "headlines": {
