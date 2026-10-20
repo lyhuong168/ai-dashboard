@@ -50,6 +50,7 @@ html,body,[class*="css"],.stApp{font-family:'Inter',ui-sans-serif,system-ui,sans
 @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 @keyframes fade{from{opacity:0}to{opacity:1}}
 
+html{scroll-behavior:smooth}
 header[data-testid="stHeader"]{background:transparent}
 #MainMenu,footer{visibility:hidden}
 .block-container{padding-top:1.4rem;max-width:1280px}
@@ -65,7 +66,19 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 [data-testid="stTabs"] [role="tab"][aria-selected="true"]{color:var(--text)!important;font-weight:600}
 [data-testid="stTabs"] [role="tab"] *{color:inherit!important}
 [data-baseweb="tab-highlight"]{background-color:var(--acc)!important;transition:left .3s cubic-bezier(.2,.8,.2,1),width .3s cubic-bezier(.2,.8,.2,1)!important}
-[data-testid="stTabs"] [role="tabpanel"]:not([hidden]){animation:rise .35s cubic-bezier(.2,.8,.2,1) both}
+/* tab switch: the page keeps its height (no scroll jump from a long tab to a short one), the panel's sections
+   settle in one after another, and charts/widgets fade in instead of popping when they finish drawing */
+[data-testid="stTabs"] [role="tabpanel"]{min-height:85vh}
+@keyframes settle{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]){animation:fade .3s ease-out both}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>*{animation:settle .55s cubic-bezier(.2,.8,.2,1) both}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(2){animation-delay:.05s}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(3){animation-delay:.1s}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(4){animation-delay:.15s}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(5){animation-delay:.2s}
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) [data-testid="stVerticalBlock"]>:nth-child(n+6){animation-delay:.25s}
+[data-testid="stTabs"] [role="tabpanel"] [data-testid="stVerticalBlock"] [data-testid="stVerticalBlock"]>*{animation:none}  /* nested blocks move with their section */
+[data-testid="stTabs"] [role="tabpanel"]:not([hidden]) :is(.stPlotlyChart,iframe){animation:fade .6s ease-out .12s both}
 
 /* metric cards */
 [data-testid="stMetric"]{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 16px;
