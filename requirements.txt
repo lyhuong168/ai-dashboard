@@ -6,3 +6,6 @@ requests
 yfinance
 python-dotenv
 networkx
+# Needed by the Brief and Ask tabs on Streamlit Cloud (it only installs this file)
+openai
+langgraph
