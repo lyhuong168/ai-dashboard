@@ -112,7 +112,8 @@ h3::before{content:"";width:4px;height:18px;border-radius:2px;background:var(--a
 [data-testid="stDialog"] [role="dialog"],[role="dialog"][data-testid="stDialog"]{background:var(--surface)!important;border:1px solid var(--border);
   border-radius:10px;box-shadow:0 18px 48px rgba(0,0,0,.45);animation:rise .25s cubic-bezier(.2,.8,.2,1) both}
 /* fields in dialogs and popovers: Streamlit draws them in the same color as the panel, so give them a well and a border */
-:is([data-testid="stDialog"],[data-testid="stPopoverBody"]) :is([data-baseweb="input"],[data-baseweb="select"]>div,[data-baseweb="textarea"],[data-testid="stFileUploaderDropzone"]){
+:is([data-testid="stDialog"],[data-testid="stPopoverBody"]) :is([data-baseweb="input"],[data-baseweb="select"]>div,[data-baseweb="textarea"],[data-testid="stFileUploaderDropzone"],
+  [data-testid="stTextInputRootElement"],[data-testid="stTextAreaRootElement"]){
   background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;transition:border-color .2s ease}
 :is([data-testid="stDialog"],[data-testid="stPopoverBody"]) :is([data-baseweb="input"],[data-baseweb="textarea"]) *{background:transparent!important}
 :is([data-testid="stDialog"],[data-testid="stPopoverBody"]) :is([data-baseweb="input"],[data-baseweb="select"]>div,[data-baseweb="textarea"]):focus-within{border-color:var(--acc)!important}

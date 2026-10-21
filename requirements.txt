@@ -1,6 +1,6 @@
 # Everyone installs this (data collectors + dashboard tabs).
 pandas
-streamlit
+streamlit==1.58.0  # pinned: the theme's CSS targets this version's element names (newer releases rename some)
 plotly
 requests
 yfinance
