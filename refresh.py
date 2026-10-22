@@ -118,7 +118,8 @@ def main():
             brief_result = {"error": "%s: %s" % (type(e).__name__, e)}
 
     cur = {
-        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),  # machine-local clock (UTC on GitHub)
+        "timestamp_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),  # unambiguous; the dashboard shows it in ET
         "mode": "sample" if args.sample else "real",
         "collectors": collectors_result,
         "validation": {"ok": v.returncode == 0, "output": v.stdout.strip().splitlines()[-6:]},

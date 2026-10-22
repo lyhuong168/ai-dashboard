@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from app import add_source
+from app import add_source, live_prices
 from app.theme import GOOD, WARN, chart
 from rag import config
 
@@ -33,7 +33,7 @@ def render(data, sample):
 
     if run:
         st.markdown("**Last refresh:** %s · embedder `%s` · cost \\$%.4f of \\$%.2f cap" % (
-            run["timestamp"], run["embedder"], run["cost"]["total_usd"], run["cost"]["cap_usd"]))
+            live_prices.refreshed_et(run), run["embedder"], run["cost"]["total_usd"], run["cost"]["cap_usd"]))
         st.markdown("**What changed since the previous run:** " + "; ".join(run["changes"]))
         if not run["validation"]["ok"]:
             st.error("Data validation failed on the last refresh:\n\n" + "\n".join(run["validation"]["output"]))

@@ -40,6 +40,14 @@ def quotes():
     return {"rows": rows, "as_of": as_of} if rows else None
 
 
+def refreshed_et(run):
+    """When a refresh ran, as 'Oct 20, 6:03 PM ET'. Logs older than timestamp_utc carry a zone-less time; the ones
+    that matter were written on GitHub's runners, whose clock is UTC."""
+    ts = pd.Timestamp(run.get("timestamp_utc") or run["timestamp"])
+    t = (ts.tz_localize("UTC") if ts.tzinfo is None else ts).tz_convert(ET)
+    return "%s, %s ET" % (t.strftime("%b %d").replace(" 0", " "), t.strftime("%I:%M %p").lstrip("0"))
+
+
 def market_open(now):
     """Regular US session, 9:30 to 16:00 ET on weekdays (exchange holidays show as stale, see status)."""
     minutes = now.hour * 60 + now.minute

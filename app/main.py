@@ -33,10 +33,10 @@ def last_run(sample):
 def status_line(sample, run):
     if sample:
         return "DEMO MODE · SAMPLE DATA · NOT REAL NUMBERS"
-    if not run:
-        return "LIVE · no refresh recorded yet"
+    if not run:  # "REAL DATA" vs "DEMO": the real-time word LIVE belongs to the price ticker alone
+        return "REAL DATA · no refresh recorded yet"
     v = run["verification"]
-    return "LIVE · REFRESHED %s · %d/%d FIGURES VERIFIED" % (run["timestamp"][:16], v["confirmed"], v["checked"])
+    return "REAL DATA · REFRESHED %s · %d/%d FIGURES VERIFIED" % (live_prices.refreshed_et(run), v["confirmed"], v["checked"])
 
 
 def ticker_rows(data):
