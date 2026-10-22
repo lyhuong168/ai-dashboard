@@ -1,0 +1,131 @@
+{
+  "timestamp": "2026-10-22 18:09:45",
+  "timestamp_utc": "2026-10-22T18:09:45Z",
+  "mode": "real",
+  "collectors": "skipped",
+  "validation": {
+    "ok": true,
+    "output": [
+      "  partnerships.csv             37 rows",
+      "  events.csv                   7 rows",
+      "  guidance.csv                 5 rows",
+      "  private_revenue.csv          5 rows",
+      "",
+      "OK: 0 error(s), 0 warning(s)"
+    ]
+  },
+  "tables": {
+    "financials": 60,
+    "stock_prices": 1503,
+    "token_pricing": 10,
+    "partnerships": 37,
+    "events": 7,
+    "guidance": 5,
+    "private_revenue": 5
+  },
+  "sources": [
+    "A-001",
+    "A-002",
+    "A-003",
+    "A-004",
+    "A-005",
+    "A-006",
+    "A-007",
+    "A-008",
+    "A-009",
+    "A-010",
+    "A-011",
+    "A-012",
+    "A-013",
+    "A-014",
+    "A-015",
+    "A-016",
+    "A-017",
+    "A-018",
+    "A-019",
+    "A-020",
+    "A-021",
+    "A-022",
+    "A-023",
+    "A-024",
+    "R-001",
+    "R-002",
+    "R-003",
+    "R-004",
+    "R-005",
+    "R-006",
+    "R-007",
+    "R-008",
+    "R-009",
+    "R-010",
+    "R-011",
+    "R-012",
+    "R-013",
+    "R-014",
+    "R-015",
+    "R-016",
+    "R-017",
+    "R-018",
+    "R-019",
+    "R-020",
+    "R-021",
+    "R-022",
+    "R-023",
+    "R-024",
+    "R-025",
+    "R-026",
+    "R-027",
+    "R-028",
+    "R-029",
+    "R-030",
+    "R-031",
+    "U-001"
+  ],
+  "sources_without_document": [
+    "A-001",
+    "A-002",
+    "A-003"
+  ],
+  "embedder": "text-embedding-3-small",
+  "index": {
+    "chunks": 3450,
+    "embedded": 0,
+    "reused": 3450,
+    "added": 0,
+    "removed": 0
+  },
+  "verification": {
+    "confirmed": 96,
+    "not_found": 0,
+    "no_document": 0,
+    "checked": 96,
+    "tier2_rows": 3
+  },
+  "problems": [],
+  "brief": {
+    "llm": true,
+    "bullets": 18,
+    "dropped": 0
+  },
+  "crosscheck": {
+    "agrees": 36,
+    "differs": 0,
+    "no_independent_source": 24
+  },
+  "crosscheck_problems": [],
+  "cost": {
+    "total_usd": 0.030642,
+    "cap_usd": 1.0,
+    "by_model": {
+      "gpt-4o": {
+        "calls": 1,
+        "in_tokens": 8973,
+        "out_tokens": 821,
+        "usd": 0.0306425
+      }
+    }
+  },
+  "changes": [
+    "no changes"
+  ]
+}

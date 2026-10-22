@@ -1,5 +1,6 @@
 {
-  "timestamp": "2026-10-20 22:03:28",
+  "timestamp": "2026-10-22 18:09:45",
+  "timestamp_utc": "2026-10-22T18:09:45Z",
   "mode": "real",
   "collectors": "skipped",
   "validation": {
@@ -88,9 +89,9 @@
   "embedder": "text-embedding-3-small",
   "index": {
     "chunks": 3450,
-    "embedded": 3,
-    "reused": 3447,
-    "added": 3,
+    "embedded": 0,
+    "reused": 3450,
+    "added": 0,
     "removed": 0
   },
   "verification": {
@@ -113,26 +114,18 @@
   },
   "crosscheck_problems": [],
   "cost": {
-    "total_usd": 0.030705,
+    "total_usd": 0.030642,
     "cap_usd": 1.0,
     "by_model": {
-      "text-embedding-3-small": {
-        "calls": 1,
-        "in_tokens": 476,
-        "out_tokens": 0,
-        "usd": 9.52e-06
-      },
       "gpt-4o": {
         "calls": 1,
-        "in_tokens": 8862,
-        "out_tokens": 854,
-        "usd": 0.030695
+        "in_tokens": 8973,
+        "out_tokens": 821,
+        "usd": 0.0306425
       }
     }
   },
   "changes": [
-    "+5 private_revenue rows",
-    "+1 sources: U-001",
-    "index: +3 / -0 chunks"
+    "no changes"
   ]
 }
